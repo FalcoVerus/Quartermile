@@ -1,0 +1,1442 @@
+Brand,Model,Generation,Spec-model,Acceleration 0-100 km/h,1/4tb mile ET
+Nissan,350Z,350Z (Z33),5.8 sec ,12.877
+Nissan,350Z,350Z (Z33),5.9 sec ,13.382
+Nissan,Cedric,Cedric (Y34),7.5 sec ,14.292
+Nissan,Cedric,Cedric (Y34),13.699
+Nissan,Cedric,Cedric (Y34),7.8 sec ,14.221
+Nissan,Cedric,Cedric (Y34),7.8 sec ,14.433
+Nissan,Cedric,Cedric (Y34),14.905
+Nissan,Terrano,Terrano II (R20),13.6 sec ,17.688
+Nissan,Terrano,Terrano II (R20),13.3 sec ,17.688
+Nissan,Terrano,Terrano II (R20),13.6 sec ,17.062
+Nissan,Terrano,Terrano II (R20),13.3 sec ,17.062
+Nissan,Terrano,Terrano II (R20),19 sec ,20.051
+Nissan,Terrano,Terrano II (R20),19 sec ,19.607
+Nissan,Terrano,Terrano II (R20),16.7 sec ,18.697
+Nissan,Terrano,Terrano II (R20),15.7 sec ,18.272
+Nissan,Terrano,Terrano II (R20),13.3 sec ,18.315
+Nissan,Terrano,Terrano II (R20),13.2 sec ,17.871
+Nissan,Terrano,Terrano II (R20),14.3 sec ,18.655
+Nissan,Terrano,Terrano II (R20),13.1 sec ,18.315
+Nissan,R Nessa,R Nessa,16.706
+Nissan,R Nessa,R Nessa,15.225
+Nissan,R Nessa,R Nessa,16.495
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",15.652
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",15.472
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",15.711
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",15.943
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",16.279
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",9.6 sec ,16.0
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",9.6 sec ,15.828
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",10 sec ,16.224
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",10 sec ,16.0
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",9.4 sec ,16.056
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",9.4 sec ,15.885
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",10.7 sec ,17.012
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",12.7 sec ,17.5
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",12.7 sec ,17.26
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",10.7 sec ,17.308
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",10.7 sec ,17.162
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",10.7 sec ,16.86
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",9.7 sec ,16.279
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",9.7 sec ,15.885
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",11.4 sec ,17.452
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",11.4 sec ,17.26
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",10.5 sec ,17.308
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",11 sec ,17.5
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",11 sec ,17.452
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",10.5 sec ,17.162
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",11.5 sec ,16.441
+Nissan,X-Trail,"X-Trail III (T32, facelift 2017)",11.5 sec ,16.224
+Nissan,Almera,Almera II (N16),12.3 sec ,16.962
+Nissan,Almera,Almera II (N16),12.5 sec ,16.441
+Nissan,Almera,Almera II (N16),12.8 sec ,16.548
+Nissan,Almera,Almera II (N16),11.1 sec ,16.224
+Nissan,Almera,Almera II (N16),13.8 sec ,17.5
+Nissan,200 SX,200 SX (S14),7.5 sec ,14.363
+Nissan,200 SX,200 SX (S14),7.5 sec ,14.363
+Nissan,March,March C+C (K12),10.6 sec ,16.601
+Nissan,March,March C+C (K12),12.8 sec ,17.78
+Nissan,Note,Note I (E11) (facelift 2010),11.7 sec ,16.495
+Nissan,Note,Note I (E11) (facelift 2010),10.7 sec ,16.387
+Nissan,Note,Note I (E11) (facelift 2010),12.8 sec ,17.871
+Nissan,Note,Note I (E11) (facelift 2010),13.4 sec ,17.547
+NIO,ES7,ES7,3.9 sec ,not known
+NIO,ES7,ES7,3.9 sec ,not known
+NIO,ES7,ES7,3.9 sec ,not known
+NIO,ET5,ET5,4.3 sec ,not known
+NIO,ET5,ET5,4.3 sec ,not known
+NIO,ET5,ET5,4.3 sec ,not known
+Nissan,Pathfinder,Pathfinder II,8.8 sec ,14.84
+Nissan,Pathfinder,Pathfinder II,9.2 sec ,15.288
+Nissan,Pathfinder,Pathfinder II,10.3 sec ,15.711
+Nissan,Pathfinder,Pathfinder II,16.911
+Nissan,Pathfinder,Pathfinder II,17.688
+Nissan,Pathfinder,Pathfinder II,18.401
+Nissan,Frontier,Frontier I King Cab (D22),not known
+Nissan,Frontier,Frontier I King Cab (D22),not known
+Nissan,Crew,Crew (K30),16.056
+Nissan,Crew,Crew (K30),16.056
+Nissan,Wingroad,Wingroad (Y11),15.472
+Nissan,Wingroad,Wingroad (Y11),17.012
+Nissan,Wingroad,Wingroad (Y11),17.012
+Nissan,Versa,Versa III (facelift 2022),16.279
+Nissan,Versa,Versa III (facelift 2022),16.168
+Nissan,Titan,Titan II XD Crew Cab,14.502
+Nissan,Titan,Titan II XD Crew Cab,14.707
+Nissan,Titan,Titan II XD Crew Cab,16.224
+Nissan,Titan,Titan II XD Crew Cab,16.441
+Nissan,Datsun,Datsun 240 Coupe (KMLG C210),not known
+Nissan,Serena,Serena (C23M),26.5 sec ,21.113
+Nissan,Serena,Serena (C23M),26.5 sec ,20.544
+Nissan,Serena,Serena (C23M),23.5 sec ,20.544
+Nissan,Serena,Serena (C23M),not known
+Nissan,Serena,Serena (C23M),12.2 sec ,16.911
+Nissan,Serena,Serena (C23M),12.2 sec ,16.653
+Nissan,Serena,Serena (C23M),12.2 sec ,16.653
+Nissan,Serena,Serena (C23M),13 sec ,17.308
+Nissan,Serena,Serena (C23M),18.1 sec ,18.444
+Nissan,Serena,Serena (C23M),17.9 sec ,18.444
+Nissan,Maxima,Maxima VIII (A36),13.134
+Nissan,Bluebird,Bluebird Sylphy I,9.2 sec ,15.225
+Nissan,Bluebird,Bluebird Sylphy I,not known
+Nissan,Bluebird,Bluebird Sylphy I,11.6 sec ,16.224
+Nissan,Bluebird,Bluebird Sylphy I,12.2 sec ,16.809
+Nissan,Bluebird,Bluebird Sylphy I,12.2 sec ,16.86
+Nissan,Bluebird,Bluebird Sylphy I,not known
+Nissan,Bluebird,Bluebird Sylphy I,not known
+Nissan,Bluebird,Bluebird Sylphy I,not known
+Nissan,Bluebird,Bluebird Sylphy I,not known
+Nissan,Bluebird,Bluebird Sylphy I,12.1 sec ,16.548
+Nissan,Bluebird,Bluebird Sylphy I,11.1 sec ,16.441
+Nissan,Bluebird,Bluebird Sylphy I,12.9 sec ,16.758
+Nissan,Bluebird,Bluebird Sylphy I,11.9 sec ,16.653
+Nissan,Micra,Micra (K13),11.3 sec ,16.333
+Nissan,Micra,Micra (K13),11.9 sec ,16.653
+Nissan,Micra,Micra (K13),14.5 sec ,17.26
+Nissan,Micra,Micra (K13),13.7 sec ,17.062
+Nissan,200 SX,200 SX (S13),7.5 sec ,14.639
+Nissan,200 SX,200 SX (S13),7.5 sec ,14.639
+Nissan,Rogue,"Rogue II (T32, facelift 2017)",16.112
+Nissan,Rogue,"Rogue II (T32, facelift 2017)",15.885
+Nissan,Rogue,"Rogue II (T32, facelift 2017)",16.0
+Nissan,Rogue,"Rogue II (T32, facelift 2017)",16.224
+Nissan,Skyline,Skyline VII Coupe (R31),14.292
+Nissan,Skyline,Skyline VII Coupe (R31),13.049
+Nissan,Skyline,Skyline VII Coupe (R31),14.707
+Nissan,Skyline,Skyline VII Coupe (R31),13.699
+Nissan,Skyline,Skyline VII Coupe (R31),16.056
+Nissan,Prairie,Prairie (M11),10.9 sec ,16.224
+Nissan,Prairie,Prairie (M11),11.9 sec ,16.758
+Nissan,Prairie,Prairie (M11),11.9 sec ,16.758
+Nissan,Prairie,Prairie (M11),10.9 sec ,16.224
+Nissan,Prairie,Prairie (M11),17.357
+Nissan,Prairie,Prairie (M11),17.962
+Nissan,Prairie,Prairie (M11),17.962
+Nissan,Prairie,Prairie (M11),17.357
+Nissan,Prairie,Prairie (M11),not known
+Nissan,Serena,Serena (C27),16.911
+Nissan,Serena,Serena (C27),17.211
+Nissan,Serena,Serena (C27),17.734
+Nissan,Serena,Serena (C27),16.86
+Nissan,Serena,Serena (C27),17.211
+Nissan,Serena,Serena (C27),17.734
+Nissan,Murano,Murano III (Z52),14.363
+Nissan,Murano,Murano III (Z52),14.221
+Nissan,Murano,Murano III (Z52),8.3 sec ,not known
+Nissan,Almera,Almera II Hatchback (N16),12.3 sec ,16.962
+Nissan,Almera,Almera II Hatchback (N16),12.5 sec ,16.441
+Nissan,Almera,Almera II Hatchback (N16),12.8 sec ,16.224
+Nissan,Almera,Almera II Hatchback (N16),11.1 sec ,16.224
+Nissan,Almera,Almera II Hatchback (N16),13.8 sec ,17.5
+NIO,EC6,EC6,4.5 sec ,not known
+NIO,EC6,EC6,5.4 sec ,not known
+NIO,EC6,EC6,4.5 sec ,not known
+NIO,EC6,EC6,5.4 sec ,not known
+Nissan,Murano,"Murano III (Z52, facelift 2019)",14.292
+Nissan,Murano,"Murano III (Z52, facelift 2019)",14.433
+Nissan,Cedric,Cedric (Y32),14.075
+Nissan,Cedric,Cedric (Y32),15.225
+Nissan,Cedric,Cedric (Y32),17.6 sec ,19.063
+Nissan,Cedric,Cedric (Y32),18.2 sec ,19.455
+Nissan,Xterra,Xterra II (facelift 2008),14.639
+Nissan,Xterra,Xterra II (facelift 2008),14.905
+Nissan,Xterra,Xterra II (facelift 2008),14.905
+Nissan,Patrol,"Patrol VI (Y62, facelift 2014)",6.6 sec ,14.221
+Nissan,Patrol,"Patrol VI (Y62, facelift 2014)",7.9 sec ,15.225
+Nissan,Patrol,"Patrol VI (Y62, facelift 2014)",7 sec ,15.099
+Nissan,Cima,Cima (F50),14.221
+Nissan,Cima,Cima (F50),14.002
+Nissan,Cima,Cima (F50),13.776
+Nissan,Cherry,Cherry (E10),not known
+Nissan,Moco,Moco,18.697
+Nissan,Moco,Moco,19.3
+Nissan,Moco,Moco,18.983
+Nissan,Silvia,Silvia (S12),9.6 sec ,15.35
+Nissan,Silvia,Silvia (S12),9.6 sec ,15.532
+Nissan,Xterra,Xterra II,14.571
+Nissan,Xterra,Xterra II,14.84
+Nissan,Xterra,Xterra II,14.84
+Nissan,Xterra,Xterra II,14.571
+Nissan,240SX,240SX Fastback (S13 facelift 1991),15.035
+Nissan,King Cab,King Cab,not known
+Nissan,King Cab,King Cab,not known
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",11.2 sec ,16.601
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",9.5 sec ,16.441
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",9.5 sec ,16.168
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",8.9 sec ,15.225
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",11.1 sec ,16.758
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",10.5 sec ,17.012
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",9.9 sec ,16.601
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",13 sec ,17.734
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",12.3 sec ,17.688
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",11.9 sec ,17.357
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",9.9 sec ,15.288
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",8.9 sec ,15.225
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",10.5 sec ,15.943
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",12.9 sec ,16.962
+Nissan,Qashqai,"Qashqai II (J11, facelift 2017)",10.6 sec ,16.911
+Nissan,Titan,Titan II Crew Cab (facelift 2020),14.221
+Nissan,Titan,Titan II Crew Cab (facelift 2020),13.927
+Nissan,Titan,Titan II Crew Cab (facelift 2020),14.148
+Nissan,Titan,Titan II Crew Cab (facelift 2020),14.075
+Nissan,Titan,Titan II Crew Cab (facelift 2020),14.292
+Nissan,Datsun,Datsun (MD22),not known
+Nissan,Datsun,Datsun (MD22),not known
+Nissan,AD,AD Y11,not known
+Nissan,AD,AD Y11,18.358
+Nissan,AD,AD Y11,18.358
+Nissan,AD,AD Y11,not known
+Nissan,AD,AD Y11,15.943
+Nissan,AD,AD Y11,not known
+Nissan,AD,AD Y11,16.0
+Nissan,AD,AD Y11,16.758
+Nissan,AD,AD Y11,not known
+Nissan,AD,AD Y11,16.706
+Nissan,AD,AD Y11,17.012
+Nissan,AD,AD Y11,not known
+Nissan,AD,AD Y11,not known
+Nissan,AD,AD Y11,not known
+Nissan,AD,AD Y11,17.5
+Nissan,AD,AD Y11,17.78
+Nissan,Datsun,"Datsun 100 A (E10,BLF10)",not known
+Nissan,Datsun,"Datsun 100 A (E10,BLF10)",not known
+Nissan,Pathfinder,Pathfinder IV (facelift 2017),14.433
+Nissan,Pathfinder,Pathfinder IV (facelift 2017),14.571
+Nissan,Almera,Almera Tino,12.2 sec ,17.826
+Nissan,Almera,Almera Tino,12.6 sec ,16.653
+Nissan,Almera,Almera Tino,not known
+Nissan,Almera,Almera Tino,14.2 sec ,17.112
+Nissan,Almera,Almera Tino,12.7 sec ,17.357
+Nissan,Patrol,Patrol IV 3-door (Y60),not known
+Nissan,Patrol,Patrol IV 3-door (Y60),19.6 sec ,19.063
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,Bluebird,Bluebird (U12),not known
+Nissan,180 SX,180 SX,not known
+Nissan,180 SX,180 SX,not known
+Nissan,GT-R,GT-R50 Prototype,not known
+Nissan,Kicks,Kicks (P16),not known
+Nissan,Kicks,Kicks (P16),not known
+Nissan,Terrano,Terrano I (WD21),12.6 sec ,17.547
+Nissan,Terrano,Terrano I (WD21),12.6 sec ,17.547
+Nissan,Terrano,Terrano I (WD21),18 sec ,19.455
+Nissan,Terrano,Terrano I (WD21),18 sec ,19.455
+Nissan,Terrano,Terrano I (WD21),18.697
+Nissan,Maxima,Maxima III (J30),8.7 sec ,15.225
+Nissan,Maxima,Maxima III (J30),8.7 sec ,15.225
+Nissan,Murano,"Murano CrossCabriolet II (Z51, facelift 2010)",14.905
+Nissan,Versa,Versa Sedan,16.441
+Nissan,Almera,Almera Classic (B10),13.9 sec ,16.911
+Nissan,Almera,Almera Classic (B10),12.1 sec ,16.758
+Nissan,Avenir,Avenir (W10),15.943
+Nissan,Avenir,Avenir (W10),15.411
+Nissan,Avenir,Avenir (W10),15.532
+Nissan,Avenir,Avenir (W10),not known
+Nissan,Avenir,Avenir (W10),15.828
+Nissan,Avenir,Avenir (W10),14.221
+Nissan,Avenir,Avenir (W10),15.532
+Nissan,Avenir,Avenir (W10),16.0
+Nissan,Avenir,Avenir (W10),15.472
+Nissan,Avenir,Avenir (W10),18.272
+Nissan,Avenir,Avenir (W10),16.653
+Nissan,Avenir,Avenir (W10),16.601
+Nissan,Fuga,Fuga I (Y50),13.218
+Nissan,Fuga,Fuga I (Y50),13.621
+Nissan,Fuga,Fuga I (Y50),13.852
+Nissan,Fuga,Fuga I (Y50),15.035
+Nissan,Cherry,Cherry Hatchback (N10),not known
+Nissan,Cherry,Cherry Hatchback (N10),not known
+Nissan,Cherry,Cherry Hatchback (N10),not known
+Nissan,Skyline,Skyline IX (R33),13.382
+Nissan,Skyline,Skyline IX (R33),13.542
+Nissan,Skyline,Skyline IX (R33),14.639
+Nissan,Skyline,Skyline IX (R33),16.441
+Nissan,Skyline,Skyline IX (R33),16.441
+Nissan,Micra,Micra C+C (K12),10.6 sec ,16.601
+Nissan,Micra,Micra C+C (K12),12.8 sec ,17.78
+Nissan,Bluebird,"Bluebird Hatchback (T72,T12)",not known
+Nissan,Bluebird,"Bluebird Hatchback (T72,T12)",not known
+Nissan,Bluebird,"Bluebird Hatchback (T72,T12)",not known
+Nissan,Bluebird,"Bluebird Hatchback (T72,T12)",not known
+Nissan,Bluebird,"Bluebird Hatchback (T72,T12)",not known
+Nissan,Bluebird,"Bluebird Hatchback (T72,T12)",not known
+Nissan,Sentra,"Sentra VII (B17, facelift 2016)",14.773
+Nissan,Sentra,"Sentra VII (B17, facelift 2016)",14.707
+Nissan,Sentra,"Sentra VII (B17, facelift 2016)",14.84
+Nissan,Sentra,"Sentra VII (B17, facelift 2016)",14.707
+Nissan,Sentra,"Sentra VII (B17, facelift 2016)",16.056
+Nissan,Sentra,"Sentra VII (B17, facelift 2016)",16.601
+Nissan,Cherry,Cherry Traveller (VN10),not known
+Nissan,Cherry,Cherry Traveller (VN10),not known
+Nissan,Bluebird,Bluebird Station Wagon (WU11),not known
+Nissan,Bluebird,Bluebird Station Wagon (WU11),not known
+Nissan,Bluebird,Bluebird Station Wagon (WU11),not known
+Nissan,Bluebird,Bluebird Station Wagon (WU11),not known
+Nissan,Almera,Almera I (N15),16.8 sec ,19.222
+Nissan,Almera,Almera I (N15),11.1 sec ,18.272
+Nissan,Almera,Almera I (N15),11.1 sec ,18.272
+Nissan,Almera,Almera I (N15),11 sec ,16.809
+Nissan,Almera,Almera I (N15),12.8 sec ,19.183
+Nissan,Almera,Almera I (N15),12.6 sec ,17.5
+Nissan,Tiida,Tiida Hatchback,16.056
+Nissan,Tiida,Tiida Hatchback,11.1 sec ,17.162
+Nissan,Tiida,Tiida Hatchback,11.1 sec ,17.162
+Nissan,Rogue,Rogue III (T33),15.411
+Nissan,Rogue,Rogue III (T33),15.652
+Nissan,Rogue,Rogue III (T33),15.035
+Nissan,Rogue,Rogue III (T33),15.225
+Nissan,Frontier,Frontier III King Cab,14.221
+Nissan,Frontier,Frontier III King Cab,14.075
+Nissan,GT-R,GT-R (R35),3.5 sec ,11.619
+Nissan,Cima,Cima (FY33),14.075
+Nissan,Cima,Cima (FY33),14.148
+Nissan,Laurel,Laurel (JC32),19.103
+Nissan,Laurel,Laurel (JC32),18.983
+Nissan,Laurel,Laurel (JC32),16.279
+Nissan,Laurel,Laurel (JC32),16.224
+Nissan,Leaf,Leaf II (ZE1),7.3 sec ,15.162
+Nissan,Leaf,Leaf II (ZE1),7.9 sec ,16.333
+Nissan,Skyline,Skyline GT-R X (R34),13.382
+Nissan,Fairlady,Fairlady,not known
+Nissan,Sunny,Sunny II GA15DE (B12),not known
+Nissan,Sunny,Sunny II GA15DE (B12),not known
+Nissan,Sunny,Sunny II GA15DE (B12),not known
+Nissan,Sunny,Sunny II GA15DE (B12),not known
+Nissan,Sunny,Sunny II GA15DE (B12),not known
+Nissan,Sunny,Sunny II GA15DE (B12),not known
+Nissan,370Z,370Z Roadster (facelift 2012),5.8 sec ,12.788
+Nissan,370Z,370Z Roadster (facelift 2012),5.5 sec ,12.699
+Nissan,Sentra,"Sentra VIII (B18, facelift 2023)",15.885
+Nissan,Sunny,Sunny III Wagon (Y10),15.9 sec ,18.738
+Nissan,Sunny,Sunny III Wagon (Y10),11.2 sec ,17.357
+Nissan,Sunny,Sunny III Wagon (Y10),16.495
+Nissan,Sunny,Sunny III Wagon (Y10),17.5
+Nissan,Armada,"Armada II (Y62, facelift 2021)",14.075
+Nissan,Armada,"Armada II (Y62, facelift 2021)",14.292
+Nissan,Skyline,Skyline XI (V35),7.6 sec ,13.542
+Nissan,Skyline,Skyline XI (V35),14.292
+Nissan,Primera,Primera Wagon (P11),14.6 sec ,18.902
+Nissan,Primera,Primera Wagon (P11),10.5 sec ,16.056
+Nissan,Primera,Primera Wagon (P11),9.6 sec ,15.943
+Nissan,Primera,Primera Wagon (P11),not known
+Nissan,Primera,Primera Wagon (P11),11.7 sec ,17.112
+Nissan,Primera,Primera Wagon (P11),12.8 sec ,17.734
+Nissan,Primera,Primera Wagon (P11),not known
+Nissan,Altima,Altima V,5.7 sec ,13.382
+Nissan,Altima,Altima V,7.3 sec ,14.97
+Nissan,370Z,370Z Roadster,5.8 sec ,12.699
+Nissan,370Z,370Z Roadster,5.5 sec ,12.608
+Nissan,Patrol,Patrol Hardtop (K260),not known
+Nissan,Patrol,Patrol Hardtop (K260),not known
+Nissan,Patrol,Patrol Hardtop (K260),not known
+Nissan,Navara,Navara IV King Cab,12 sec ,17.062
+Nissan,Skyline,Skyline X (R34),13.134
+Nissan,Skyline,Skyline X (R34),13.218
+Nissan,Skyline,Skyline X (R34),14.773
+Nissan,Skyline,Skyline X (R34),15.652
+Nissan,Prairie,"Prairie (M10,NM10)",18.272
+Nissan,Prairie,"Prairie (M10,NM10)",17.405
+Nissan,Prairie,"Prairie (M10,NM10)",not known
+Nissan,Prairie,"Prairie (M10,NM10)",not known
+Nissan,Versa,Versa III,16.279
+Nissan,Versa,Versa III,16.168
+Nissan,Juke,Juke II,10.1 sec ,15.769
+Nissan,Juke,Juke II,11.1 sec ,16.495
+Nissan,Juke,Juke II,10.4 sec ,16.441
+Nissan,Juke,Juke II,11.8 sec ,16.653
+Nissan,Juke,Juke II,10.7 sec ,16.548
+Nissan,Armada,Armada II (Y62),14.148
+Nissan,Armada,Armada II (Y62),14.363
+Nissan,Laurel,Laurel (E-HC33),14.84
+Nissan,Laurel,Laurel (E-HC33),16.653
+Nissan,Laurel,Laurel (E-HC33),15.943
+Nissan,Sunny,Sunny III Hatch (N14) 5 doors,8.2 sec ,14.707
+Nissan,Sunny,Sunny III Hatch (N14) 5 doors,15.5 sec ,18.655
+Nissan,Sunny,Sunny III Hatch (N14) 5 doors,15.885
+Nissan,Sunny,Sunny III Hatch (N14) 5 doors,10.7 sec ,17.211
+Nissan,Sunny,Sunny III Hatch (N14) 5 doors,16.548
+Nissan,Sunny,Sunny III Hatch (N14) 5 doors,12.5 sec ,18.272
+Nissan,Sunny,Sunny III Hatch (N14) 5 doors,17.547
+Nissan,Pulsar,Pulsar (C13),7.7 sec ,14.363
+Nissan,Pulsar,Pulsar (C13),11.5 sec ,17.112
+Nissan,Pulsar,Pulsar (C13),12.7 sec ,16.601
+Nissan,Pulsar,Pulsar (C13),10.7 sec ,16.495
+Nissan,Avenir,Avenir (W11),14.292
+Nissan,Avenir,Avenir (W11),14.292
+Nissan,Avenir,Avenir (W11),14.075
+Nissan,Avenir,Avenir (W11),15.711
+Nissan,Avenir,Avenir (W11),15.943
+Nissan,Avenir,Avenir (W11),16.0
+Nissan,Avenir,Avenir (W11),16.279
+Nissan,Avenir,Avenir (W11),16.548
+Nissan,Avenir,Avenir (W11),18.821
+Nissan,Avenir,Avenir (W11),16.653
+Nissan,Avenir,Avenir (W11),16.548
+Nissan,Maxima,"Maxima QX IV (A32, facelift 1997)",9.6 sec ,14.905
+Nissan,Maxima,"Maxima QX IV (A32, facelift 1997)",8.3 sec ,14.905
+Nissan,Maxima,"Maxima QX IV (A32, facelift 1997)",11.3 sec ,14.905
+Nissan,Maxima,"Maxima QX IV (A32, facelift 1997)",11.3 sec ,16.495
+Nissan,Maxima,"Maxima QX IV (A32, facelift 1997)",11.3 sec ,16.495
+Nissan,Datsun,Datsun 180 B (PL810),not known
+Nissan,Datsun,Datsun 180 B (PL810),not known
+Nissan,Primera,Primera Hatch (P12),15.099
+Nissan,Primera,Primera Hatch (P12),10.9 sec ,17.112
+Nissan,Primera,Primera Hatch (P12),10 sec ,16.601
+Nissan,Primera,Primera Hatch (P12),10.9 sec ,16.112
+Nissan,Primera,Primera Hatch (P12),9.6 sec ,16.112
+Nissan,Primera,Primera Hatch (P12),11 sec ,17.357
+Nissan,Primera,Primera Hatch (P12),13.6 sec ,16.962
+Nissan,Primera,Primera Hatch (P12),11.9 sec ,16.962
+Nissan,Primera,Primera Hatch (P12),12.6 sec ,17.308
+Nissan,Qashqai,Qashqai III (J12),7.9 sec ,15.472
+Nissan,Qashqai,Qashqai III (J12),9.2 sec ,15.652
+Nissan,Qashqai,Qashqai III (J12),9.9 sec ,16.056
+Nissan,Qashqai,Qashqai III (J12),9.5 sec ,15.472
+Nissan,Qashqai,Qashqai III (J12),10.2 sec ,16.056
+Nissan,Sentra,Sentra (B14),10.9 sec ,16.279
+Nissan,Sentra,Sentra (B14),10.9 sec ,16.279
+Nissan,Sentra,Sentra (B14),12.9 sec ,16.962
+Nissan,Cube,Cube (Z11),16.168
+Nissan,Cube,Cube (Z11),not known
+Nissan,Versa,Versa Hatch,16.387
+Nissan,Versa,Versa Hatch,16.387
+Nissan,Pathfinder,Pathfinder IV,14.639
+Nissan,Pathfinder,Pathfinder IV,14.84
+Nissan,Maxima,Maxima VII (A35),not known
+Nissan,Datsun,Datsun 140 Y Combi (HLB310),not known
+NIO,ES6,ES6 II,4.5 sec ,not known
+NIO,ES6,ES6 II,4.5 sec ,not known
+NIO,ES6,ES6 II,4.5 sec ,not known
+Nissan,Titan,Titan I,not known
+Nissan,Micra,Micra (K14),11.9 sec ,not known
+Nissan,Micra,Micra (K14),10.9 sec ,16.653
+Nissan,Micra,Micra (K14),16.4 sec ,18.401
+Nissan,Micra,Micra (K14),9.9 sec ,16.0
+Nissan,Micra,Micra (K14),15.1 sec ,not known
+Nissan,Micra,Micra (K14),12.1 sec ,17.26
+Nissan,Micra,Micra (K14),12.1 sec ,not known
+Nissan,Datsun,Datsun 120,not known
+Nissan,Datsun,Datsun 120,not known
+Nissan,Datsun,Datsun 120,not known
+Nissan,"280 Zx,zxt","280 Zx,zxt (HGS130)",not known
+Nissan,"280 Zx,zxt","280 Zx,zxt (HGS130)",not known
+Nissan,"280 Zx,zxt","280 Zx,zxt (HGS130)",not known
+Nissan,"280 Zx,zxt","280 Zx,zxt (HGS130)",not known
+Nissan,Frontier,Frontier II Crew Cab (D40),not known
+Nissan,Frontier,Frontier II Crew Cab (D40),not known
+Nissan,Stagea,Stagea II (M35),13.852
+Nissan,Stagea,Stagea II (M35),13.852
+Nissan,Stagea,Stagea II (M35),13.776
+Nissan,Stagea,Stagea II (M35),14.97
+Nissan,Stagea,Stagea II (M35),14.639
+Nissan,Frontier,"Frontier I Regular Cab (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I Regular Cab (D22, facelift 2000)",not known
+Nissan,President,President (HG50),14.502
+Nissan,Sylphy,"Sylphy (B17, facelift 2016)",11.4 sec ,15.828
+Nissan,Sylphy,"Sylphy (B17, facelift 2016)",11.7 sec ,16.056
+Nissan,Sylphy,"Sylphy (B17, facelift 2016)",11.8 sec ,16.0
+Nissan,Cedric,Cedric (Y31),9 sec ,15.035
+Nissan,Cedric,Cedric (Y31),10.6 sec ,15.943
+Nissan,Cedric,Cedric (Y31),10.3 sec ,15.828
+Nissan,Cedric,Cedric (Y31),17.3 sec ,19.063
+Nissan,Cedric,Cedric (Y31),14.3 sec ,18.697
+Nissan,Cedric,Cedric (Y31),7.8 sec ,14.773
+Nissan,Cedric,Cedric (Y31),9.5 sec ,15.099
+Nissan,Cedric,Cedric (Y31),12.6 sec ,17.012
+Nissan,Cedric,Cedric (Y31),10.9 sec ,16.653
+Nissan,Navara,Navara IV Double Cab,10.8 sec ,16.495
+Nissan,Navara,Navara IV Double Cab,10.8 sec ,16.495
+Nissan,Navara,Navara IV Double Cab,12 sec ,17.452
+Nissan,Armada,"Armada I (WA60, facelift 2007)",14.773
+Nissan,Armada,"Armada I (WA60, facelift 2007)",7.1 sec ,15.035
+Nissan,X-Trail,"X-Trail I (T30, facelift 2003)",11.1 sec ,15.769
+Nissan,X-Trail,"X-Trail I (T30, facelift 2003)",9.9 sec ,15.711
+Nissan,X-Trail,"X-Trail I (T30, facelift 2003)",11.5 sec ,16.962
+Nissan,X-Trail,"X-Trail I (T30, facelift 2003)",11.2 sec ,16.86
+Nissan,X-Trail,"X-Trail I (T30, facelift 2003)",11.3 sec ,16.441
+Nissan,X-Trail,"X-Trail I (T30, facelift 2003)",11 sec ,16.279
+Nissan,Patrol,Patrol Hardtop (K160),not known
+Nissan,Patrol,Patrol Hardtop (K160),not known
+Nissan,Patrol,Patrol Hardtop (K160),not known
+Nissan,Patrol,Patrol Hardtop (K160),not known
+Nissan,100 NX,100 NX (B13),8.2 sec ,15.162
+Nissan,100 NX,100 NX (B13),10.4 sec ,16.601
+Nissan,100 NX,100 NX (B13),10.7 sec ,17.308
+Nissan,100 NX,100 NX (B13),10.7 sec ,17.308
+Nissan,Largo,Largo (W30),16.962
+Nissan,Largo,Largo (W30),16.962
+Nissan,Largo,Largo (W30),19.183
+Nissan,Largo,Largo (W30),19.183
+Nissan,Almera,Almera (G11),12.7 sec ,17.357
+Nissan,Almera,Almera (G11),10.9 sec ,17.162
+Nissan,Sentra,Sentra (B15),7.2 sec ,14.639
+Nissan,Sentra,Sentra (B15),15.885
+Nissan,Datsun,"Datsun 160 J (710,A10)",not known
+Nissan,Datsun,"Datsun 160 J (710,A10)",not known
+Nissan,Datsun,"Datsun 160 J (710,A10)",not known
+Nissan,Leaf,Leaf I (ZE0),11.5 sec ,18.272
+Nissan,Leaf,Leaf I (ZE0),11.5 sec ,18.184
+Nissan,Leaf,Leaf I (ZE0),11.9 sec ,18.444
+Nissan,Primera,Primera (P10),13.9 sec ,18.272
+Nissan,Primera,Primera (P10),not known
+Nissan,Primera,Primera (P10),8.4 sec ,15.35
+Nissan,Primera,Primera (P10),16.5 sec ,19.222
+Nissan,Primera,Primera (P10),9.9 sec ,16.548
+Nissan,Primera,Primera (P10),not known
+Nissan,Primera,Primera (P10),9.9 sec ,16.548
+Nissan,Primera,Primera (P10),11.9 sec ,17.734
+Nissan,Maxima,Maxima QX IV (A32),9.6 sec ,14.905
+Nissan,Maxima,Maxima QX IV (A32),8.3 sec ,14.905
+Nissan,Maxima,Maxima QX IV (A32),14.571
+Nissan,Maxima,Maxima QX IV (A32),11.3 sec ,18.529
+Nissan,Maxima,Maxima QX IV (A32),14.1 sec ,16.441
+Nissan,Maxima,Maxima QX IV (A32),11.3 sec ,16.441
+Nissan,Bluebird,Bluebird (810),not known
+Nissan,Rogue,Rogue I (S35),9.8 sec ,15.652
+Nissan,Rogue,Rogue I (S35),15.885
+Nissan,Rogue,"Rogue I (S35, facelift 2011)",15.652
+Nissan,Rogue,"Rogue I (S35, facelift 2011)",15.885
+Nissan,Teana,Teana II,7.2 sec ,14.002
+Nissan,Teana,Teana II,9.6 sec ,15.35
+Nissan,Murano,Murano II (Z51),8 sec ,14.502
+Nissan,Murano,Murano II (Z51),10.5 sec ,16.333
+Nissan,Armada,Armada I (WA60),7.1 sec ,15.162
+Nissan,Armada,Armada I (WA60),7.3 sec ,14.97
+Nissan,Maxima,Maxima QX V (A33),13.542
+Nissan,Maxima,Maxima QX V (A33),13.542
+Nissan,Maxima,Maxima QX V (A33),9.6 sec ,14.84
+Nissan,Maxima,Maxima QX V (A33),8.2 sec ,14.84
+Nissan,Maxima,Maxima QX V (A33),14.363
+Nissan,Maxima,Maxima QX V (A33),14.1 sec ,16.653
+Nissan,Maxima,Maxima QX V (A33),11.3 sec ,16.653
+Nissan,Pick UP,Pick UP (D22),17.4 sec ,19.607
+Nissan,Pick UP,Pick UP (D22),13.3 sec ,18.272
+Nissan,Pick UP,Pick UP (D22),13 sec ,17.917
+Nissan,Pick UP,Pick UP (D22),13 sec ,19.531
+Nissan,Pick UP,Pick UP (D22),18.096
+Nissan,NV200,NV200,16.86
+Nissan,NV200,NV200,17.547
+Nissan,NV200,NV200,17.162
+Nissan,NV200,NV200,18.697
+Nissan,NV200,NV200,18.272
+Nissan,Presea,Presea,15.035
+Nissan,Presea,Presea,16.056
+Nissan,Presea,Presea,16.601
+Nissan,Presea,Presea,16.601
+Nissan,Pulsar,Pulsar (N14),13.218
+Nissan,Pulsar,Pulsar (N14),15.099
+Nissan,Pulsar,Pulsar (N14),16.168
+Nissan,Pulsar,Pulsar (N14),17.357
+Nissan,Pulsar,Pulsar (N14),17.357
+Nissan,X-Trail,X-Trail III (T32),10.5 sec ,16.112
+Nissan,X-Trail,X-Trail III (T32),10.5 sec ,15.943
+Nissan,X-Trail,X-Trail III (T32),11.1 sec ,16.706
+Nissan,X-Trail,X-Trail III (T32),11.1 sec ,16.548
+Nissan,X-Trail,X-Trail III (T32),9.6 sec ,15.532
+Nissan,X-Trail,X-Trail III (T32),9.6 sec ,15.532
+Nissan,X-Trail,X-Trail III (T32),10 sec ,15.943
+Nissan,X-Trail,X-Trail III (T32),10 sec ,15.769
+Nissan,X-Trail,X-Trail III (T32),9.4 sec ,15.592
+Nissan,X-Trail,X-Trail III (T32),9.4 sec ,15.592
+Nissan,X-Trail,X-Trail III (T32),9.7 sec ,16.0
+Nissan,X-Trail,X-Trail III (T32),9.7 sec ,15.652
+Nissan,X-Trail,X-Trail III (T32),11.4 sec ,17.452
+Nissan,X-Trail,X-Trail III (T32),11.4 sec ,17.26
+Nissan,X-Trail,X-Trail III (T32),10.5 sec ,17.308
+Nissan,X-Trail,X-Trail III (T32),11 sec ,17.5
+Nissan,X-Trail,X-Trail III (T32),11 sec ,17.452
+Nissan,X-Trail,X-Trail III (T32),10.5 sec ,17.162
+Nissan,Cedric,Cedric (Y30),not known
+Nissan,Note,Note II (facelift 2017),14.97
+Nissan,Note,Note II (facelift 2017),17.012
+Nissan,Note,Note II (facelift 2017),15.885
+Nissan,Note,Note II (facelift 2017),17.112
+Nissan,Note,Note II (facelift 2017),16.809
+Nissan,Note,Note II (facelift 2017),17.308
+Nissan,Note,Note II (facelift 2017),16.911
+Nissan,Note,Note II (facelift 2017),17.826
+Nissan,Note,Note II (facelift 2017),18.315
+Nissan,Primera,Primera Wagon (P10),9.9 sec ,16.706
+Nissan,Primera,Primera Wagon (P10),9.9 sec ,16.706
+Nissan,Primera,Primera Wagon (P10),16.9 sec ,19.455
+Nissan,Primera,Primera Wagon (P10),10.8 sec ,17.211
+Nissan,Primera,Primera Wagon (P10),11.9 sec ,17.871
+Nissan,Pathfinder,Pathfinder III (facelift 2010),8.9 sec ,16.112
+Nissan,Pathfinder,Pathfinder III (facelift 2010),10.7 sec ,17.062
+Nissan,Pathfinder,Pathfinder III (facelift 2010),11 sec ,16.911
+Nissan,Rogue Sport,Rogue Sport (facelift 2020),16.758
+Nissan,Rogue Sport,Rogue Sport (facelift 2020),16.911
+Nissan,Navara,Navara IV King Cab (facelift 2019),12.5 sec ,17.594
+NIO,EL7,EL7,3.9 sec ,11.619
+NIO,EL7,EL7,3.9 sec ,11.619
+Nissan,Prairie,Prairie (M12),16.706
+Nissan,Prairie,Prairie (M12),16.387
+Nissan,Prairie,Prairie (M12),17.062
+Nissan,Prairie,Prairie (M12),16.653
+Nissan,Teana,Teana,7.9 sec ,14.148
+Nissan,Teana,Teana,10.7 sec ,15.652
+Nissan,Teana,Teana,12.5 sec ,16.706
+Nissan,Wingroad,Wingroad (Y10),16.333
+Nissan,Wingroad,Wingroad (Y10),16.333
+Nissan,370Z,370Z,5.6 sec ,12.608
+Nissan,370Z,370Z,5.3 sec ,12.608
+Nissan,Titan,Titan II Single Cab,13.776
+Nissan,Titan,Titan II Single Cab,13.927
+Nissan,Laurel,Laurel (JC31),18.983
+Nissan,Laurel,Laurel (JC31),16.333
+Nissan,Laurel,Laurel (JC31),not known
+Nissan,Laurel,Laurel (JC31),not known
+Nissan,Livina,Livina II,17.211
+Nissan,Livina,Livina II,17.211
+Nissan,Pathfinder,Pathfinder III,8.9 sec ,15.099
+Nissan,Pathfinder,Pathfinder III,8.9 sec ,15.099
+Nissan,Pathfinder,Pathfinder III,11.6 sec ,17.547
+Nissan,Pathfinder,Pathfinder III,12.3 sec ,17.5
+Nissan,Silvia,Silvia (S15),12.964
+Nissan,Silvia,Silvia (S15),12.964
+Nissan,Silvia,Silvia (S15),14.707
+Nissan,Silvia,Silvia (S15),14.707
+Nissan,Pulsar,Pulsar (N15),not known
+Nissan,Pulsar,Pulsar (N15),not known
+Nissan,Pulsar,Pulsar (N15),not known
+Nissan,Pulsar,Pulsar (N15),not known
+Nissan,Pulsar,Pulsar (N15),not known
+Nissan,Juke,Juke I,8.2 sec ,14.707
+Nissan,Juke,Juke I,7.8 sec ,14.221
+Nissan,Juke,Juke I,8.4 sec ,14.84
+Nissan,Juke,Juke I,8 sec ,14.363
+Nissan,Juke,Juke I,11 sec ,16.333
+Nissan,Juke,Juke I,12 sec ,17.308
+Nissan,Juke,Juke I,11.5 sec ,16.548
+Nissan,Juke,Juke I,11.2 sec ,17.211
+Nissan,Laurel,Laurel (E-HC35/E-GC35),18.358
+Nissan,Laurel,Laurel (E-HC35/E-GC35),14.905
+Nissan,Laurel,Laurel (E-HC35/E-GC35),15.769
+Nissan,NV200,e-NV200,14 sec ,18.315
+Nissan,NV200,e-NV200,14 sec ,18.096
+Nissan,Sunny,Sunny II (N13),not known
+Nissan,Sunny,Sunny II (N13),not known
+Nissan,Sunny,Sunny II (N13),not known
+Nissan,Sunny,Sunny II (N13),not known
+Nissan,Sunny,Sunny II (N13),not known
+Nissan,Sunny,Sunny II (N13),not known
+Nissan,Sunny,Sunny II (N13),not known
+Nissan,Sunny,Sunny II (N13),not known
+Nissan,Sunny,Sunny II (N13),not known
+Nissan,Altima,Altima IV Coupe,13.301
+Nissan,Altima,Altima IV Coupe,15.099
+Nissan,Langley,Langley N13,17.641
+Nissan,Frontier,Frontier I Regular Cab (D22),not known
+Nissan,Frontier,Frontier I Regular Cab (D22),not known
+Nissan,Maxima,Maxima QX VI (A34),13.776
+Nissan,Maxima,Maxima QX VI (A34),13.776
+Nissan,Safari,"Safari (Y60, facelift 1995)",not known
+NIO,ES8,ES8 II,4.1 sec ,not known
+NIO,ES8,ES8 II,4.1 sec ,not known
+NIO,ES8,ES8 II,4.1 sec ,not known
+Nissan,Sunny,Sunny I (B11),18.943
+Nissan,Sunny,Sunny I (B11),18.943
+Nissan,Sunny,Sunny I (B11),not known
+Nissan,Sunny,Sunny I (B11),not known
+Nissan,Gloria,Gloria (Y33),15.225
+Nissan,Gloria,Gloria (Y33),16.0
+Nissan,Sentra,Sentra VI,16.112
+Nissan,370Z,370Z Coupe (facelift 2012),5.2 sec ,12.516
+Nissan,370Z,370Z Coupe (facelift 2012),5.6 sec ,12.608
+Nissan,370Z,370Z Coupe (facelift 2012),5.3 sec ,12.608
+Nissan,Gloria,Gloria (Y34),14.292
+Nissan,Gloria,Gloria (Y34),14.221
+Nissan,Stagea,Stagea,14.433
+Nissan,Stagea,Stagea,15.411
+Nissan,Stagea,Stagea,14.97
+Nissan,Stagea,Stagea,16.809
+Nissan,Altima,Altima VI (facelift 2022),15.035
+Nissan,Altima,Altima VI (facelift 2022),15.472
+Nissan,Altima,Altima VI (facelift 2022),14.221
+Nissan,Pixo,Pixo,17 sec ,18.007
+Nissan,Pixo,Pixo,14 sec ,17.826
+Nissan,Terra,X-Terra (facelift 2021),16.962
+Nissan,Terra,X-Terra (facelift 2021),17.162
+Nissan,Cherry,Cherry Coupe (N10),not known
+Nissan,Cherry,Cherry Coupe (N10),not known
+Nissan,Almera,Almera I Hatchback (N15),8.2 sec ,15.472
+Nissan,Almera,Almera I Hatchback (N15),16.8 sec ,19.222
+Nissan,Almera,Almera I Hatchback (N15),11.1 sec ,18.272
+Nissan,Almera,Almera I Hatchback (N15),11.1 sec ,18.272
+Nissan,Almera,Almera I Hatchback (N15),11 sec ,16.758
+Nissan,Almera,Almera I Hatchback (N15),12.8 sec ,19.183
+Nissan,Almera,Almera I Hatchback (N15),12.6 sec ,17.308
+Nissan,Maxima,"Maxima VIII (A36, facelift 2019)",13.301
+Nissan,Kicks,"Kicks (P15, USA) (facelift 2021)",16.333
+Nissan,Cherry,Cherry (N12),not known
+Nissan,Cherry,Cherry (N12),not known
+Nissan,Cherry,Cherry (N12),not known
+Nissan,Cherry,Cherry (N12),14.4 sec ,18.14
+Nissan,Cherry,Cherry (N12),not known
+Nissan,Quest,Quest (DN11),17.357
+Nissan,Elgrand,Elgrand (E50),17.405
+Nissan,Elgrand,Elgrand (E50),17.405
+Nissan,Stanza,Stanza (T11),not known
+Nissan,Stanza,Stanza (T11),not known
+Nissan,GT-R,"GT-R (R35, facelift 2010)",2.7 sec ,10.685
+Nissan,GT-R,"GT-R (R35, facelift 2010)",2.8 sec ,11.172
+Nissan,GT-R,"GT-R (R35, facelift 2010)",3.1 sec ,11.287
+Nissan,Qashqai,Qashqai II (J11),8.9 sec ,15.225
+Nissan,Qashqai,Qashqai II (J11),11.1 sec ,16.962
+Nissan,Qashqai,Qashqai II (J11),10.5 sec ,16.962
+Nissan,Qashqai,Qashqai II (J11),9.9 sec ,16.601
+Nissan,Qashqai,Qashqai II (J11),11.9 sec ,17.308
+Nissan,Qashqai,Qashqai II (J11),12.9 sec ,16.962
+Nissan,Qashqai,Qashqai II (J11),10.9 sec ,16.911
+Nissan,Almera,"Almera II Hatchback (N16, facelift 2003)",9.2 sec ,15.828
+Nissan,Almera,"Almera II Hatchback (N16, facelift 2003)",11.4 sec ,16.86
+Nissan,Almera,"Almera II Hatchback (N16, facelift 2003)",12.5 sec ,16.168
+Nissan,Almera,"Almera II Hatchback (N16, facelift 2003)",10.8 sec ,16.112
+Nissan,Almera,"Almera II Hatchback (N16, facelift 2003)",14.5 sec ,18.052
+Nissan,Almera,"Almera II Hatchback (N16, facelift 2003)",13.1 sec ,17.012
+Nissan,Leopard,Leopard (F31),13.542
+Nissan,Leopard,Leopard (F31),17.26
+Nissan,Leopard,Leopard (F31),14.433
+Nissan,Datsun,Datsun 120 Y Coupe (KB 210),not known
+Nissan,Datsun,Datsun 120 Y Coupe (KB 210),not known
+Nissan,Navara,Navara IV Double Cab (facelift 2019),11.2 sec ,16.911
+Nissan,Navara,Navara IV Double Cab (facelift 2019),11.2 sec ,16.911
+Nissan,Navara,Navara IV Double Cab (facelift 2019),12.5 sec ,17.688
+Nissan,Primera,Primera Hatch (P11),14 sec ,18.613
+Nissan,Primera,Primera Hatch (P11),8.6 sec ,15.411
+Nissan,Primera,Primera Hatch (P11),9 sec ,15.828
+Nissan,Primera,Primera Hatch (P11),9.6 sec ,16.0
+Nissan,Primera,Primera Hatch (P11),9.6 sec ,16.653
+Nissan,Primera,Primera Hatch (P11),11 sec ,16.86
+Nissan,Primera,Primera Hatch (P11),12 sec ,17.357
+Nissan,Sunny,Sunny III (N14),14.84
+Nissan,Sunny,Sunny III (N14),15.4 sec ,18.007
+Nissan,Sunny,Sunny III (N14),20.051
+Nissan,Sunny,Sunny III (N14),17.452
+Nissan,Sunny,Sunny III (N14),10.7 sec ,17.211
+Nissan,Sunny,Sunny III (N14),10.7 sec ,17.211
+Nissan,Sunny,Sunny III (N14),16.0
+Nissan,Sunny,Sunny III (N14),16.706
+Nissan,Sunny,Sunny III (N14),12.5 sec ,18.184
+Nissan,Sunny,Sunny III (N14),17.5
+Nissan,Sunny,Sunny III (N14),17.5
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",11.6 sec ,17.112
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",10.5 sec ,17.012
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",10.1 sec ,16.809
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",11.7 sec ,16.962
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",10.9 sec ,16.758
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",10.5 sec ,16.601
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",11.6 sec ,17.78
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",10.9 sec ,17.547
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",12.9 sec ,17.405
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",12.9 sec ,17.357
+Nissan,Qashqai,"Qashqai+2 I (NJ10, facelift 2010)",13.2 sec ,18.14
+Nissan,Micra,Micra (K13) (facelift 2013),11.8 sec ,16.758
+Nissan,Micra,Micra (K13) (facelift 2013),11.3 sec ,16.758
+Nissan,Micra,Micra (K13) (facelift 2013),14.5 sec ,17.917
+Nissan,Micra,Micra (K13) (facelift 2013),13.7 sec ,17.917
+Nissan,Micra,Micra (K12),9.8 sec ,15.943
+Nissan,Micra,Micra (K12),17.594
+Nissan,Micra,Micra (K12),17 sec ,18.738
+Nissan,Micra,Micra (K12),15 sec ,16.911
+Nissan,Micra,Micra (K12),11.9 sec ,16.911
+Nissan,Micra,Micra (K12),17.9 sec ,17.405
+Nissan,Micra,Micra (K12),13.9 sec ,17.405
+Nissan,Micra,Micra (K12),16.3 sec ,18.738
+Nissan,Micra,Micra (K12),15.7 sec ,18.487
+Nissan,Navara,Navara III (D40),11.5 sec ,17.26
+Nissan,Navara,Navara III (D40),11.4 sec ,17.26
+Nissan,Navara,Navara III (D40),11.5 sec ,17.26
+Nissan,Navara,Navara III (D40),11.4 sec ,17.26
+Nissan,Skyline,Skyline XIII (HV37),12.788
+Nissan,Skyline,Skyline XIII (HV37),13.049
+Nissan,Townstar,Townstar Van,17.917
+Nissan,Townstar,Townstar Van,16.333
+Nissan,Presage,Presage,14.773
+Nissan,Presage,Presage,17.405
+Nissan,Presage,Presage,not known
+Nissan,Presage,Presage,16.809
+Nissan,240SX,240SX Fastback (S13),15.828
+Nissan,370Z,370Z Coupe (facelift 2017),12.516
+Nissan,370Z,370Z Coupe (facelift 2017),12.516
+Nissan,370Z,370Z Coupe (facelift 2017),12.608
+Nissan,370Z,370Z Coupe (facelift 2017),12.608
+NIO,ET7,ET7,3.9 sec ,not known
+NIO,ET7,ET7,3.9 sec ,not known
+NIO,ET7,ET7,3.9 sec ,not known
+Nissan,Silvia,Silvia (S14),7.3 sec ,not known
+Nissan,Silvia,Silvia (S14),7.3 sec ,not known
+Nissan,NP 300 Pick up,NP 300 Pick up (D22),18.14
+Nissan,NP 300 Pick up,NP 300 Pick up (D22),18.315
+Nissan,NP 300 Pick up,NP 300 Pick up (D22),18.184
+Nissan,Cedric,Cedric (Y33),7 sec ,13.621
+Nissan,Cedric,Cedric (Y33),8.6 sec ,14.502
+Nissan,Cedric,Cedric (Y33),10.6 sec ,16.112
+Nissan,Cedric,Cedric (Y33),17.3 sec ,18.943
+Nissan,Cedric,Cedric (Y33),9.5 sec ,15.288
+Nissan,Cedric,Cedric (Y33),9.2 sec ,14.639
+Nissan,Cedric,Cedric (Y33),13.5 sec ,17.452
+NIO,ES8,ES8 I (facelift 2020),4.9 sec ,12.516
+NIO,ES8,ES8 I (facelift 2020),4.9 sec ,12.516
+NIO,ES8,ES8 I (facelift 2020),4.9 sec ,12.516
+Nissan,Navara,Navara II (D22),not known
+Nissan,Navara,Navara II (D22),not known
+Nissan,Navara,Navara II (D22),not known
+Nissan,Bluebird,Bluebird (910),not known
+Nissan,Bluebird,Bluebird (910),not known
+Nissan,Bluebird,Bluebird (910),not known
+Nissan,Pick UP,Pick UP (720),not known
+Nissan,Pick UP,Pick UP (720),not known
+Nissan,Pick UP,Pick UP (720),not known
+Nissan,Pick UP,Pick UP (720),not known
+Nissan,Primera,Primera Hatch (P10),not known
+Nissan,Primera,Primera Hatch (P10),not known
+Nissan,Primera,Primera Hatch (P10),9.9 sec ,16.653
+Nissan,Primera,Primera Hatch (P10),not known
+Nissan,Primera,Primera Hatch (P10),9.9 sec ,16.653
+Nissan,Primera,Primera Hatch (P10),11.9 sec ,17.871
+NIO,EP9,EP9,2.7 sec ,8.274
+Nissan,X-Trail,X-Trail IV (T33),15.411
+Nissan,X-Trail,X-Trail IV (T33),15.711
+Nissan,X-Trail,X-Trail IV (T33),15.828
+Nissan,X-Trail,X-Trail IV (T33),9.6 sec ,16.387
+Nissan,X-Trail,X-Trail IV (T33),9.6 sec ,16.168
+Nissan,X-Trail,X-Trail IV (T33),7.2 sec ,15.652
+Nissan,X-Trail,X-Trail IV (T33),7 sec ,15.652
+Nissan,X-Trail,X-Trail IV (T33),8 sec ,15.592
+Nissan,Skyline,Skyline VII (R31),14.773
+Nissan,Skyline,Skyline VII (R31),13.776
+Nissan,Skyline,Skyline VII (R31),16.112
+Nissan,Skyline,Skyline VII (R31),17.594
+Nissan,Frontier,Frontier III Crew Cab Long,14.502
+Nissan,Frontier,Frontier III Crew Cab Long,14.292
+Nissan,GT-R,"GT-R (R35, facelift 2023)",10.811
+Nissan,GT-R,"GT-R (R35, facelift 2023)",11.172
+Nissan,Sunny,Sunny Kasten (Y10),not known
+Nissan,Sunny,Sunny Kasten (Y10),not known
+Nissan,Cedric,"Cedric (Y31, facelift 1991)",10.6 sec ,16.056
+Nissan,Cedric,"Cedric (Y31, facelift 1991)",16.8 sec ,18.738
+Nissan,Cedric,"Cedric (Y31, facelift 1991)",13.1 sec ,17.26
+Nissan,Cedric,"Cedric (Y31, facelift 1991)",11.5 sec ,16.809
+Nissan,Cedric,"Cedric (Y31, facelift 1991)",18.4 sec ,19.645
+Nissan,Skyline,Skyline (R30),not known
+Nissan,Bluebird,Bluebird (U13),not known
+Nissan,Bluebird,Bluebird (U13),not known
+Nissan,Bluebird,Bluebird (U13),15.472
+Nissan,Bluebird,Bluebird (U13),15.472
+Nissan,Bluebird,Bluebird (U13),not known
+Nissan,Bluebird,Bluebird (U13),not known
+Nissan,Bluebird,Bluebird (U13),14.292
+Nissan,Bluebird,Bluebird (U13),14.292
+Nissan,Bluebird,Bluebird (U13),14.292
+Nissan,Bluebird,Bluebird (U13),15.472
+Nissan,Bluebird,Bluebird (U13),16.0
+Nissan,Bluebird,Bluebird (U13),16.0
+Nissan,Bluebird,Bluebird (U13),15.472
+Nissan,Bluebird,Bluebird (U13),19.183
+Nissan,Bluebird,Bluebird (U13),19.683
+Nissan,Bluebird,Bluebird (U13),19.183
+Nissan,Bluebird,Bluebird (U13),not known
+Nissan,Bluebird,Bluebird (U13),not known
+Nissan,Bluebird,Bluebird (U13),16.0
+Nissan,Bluebird,Bluebird (U13),16.653
+Nissan,Bluebird,Bluebird (U13),16.653
+Nissan,Bluebird,Bluebird (U13),16.0
+Nissan,Bluebird,Bluebird (U13),17.012
+Nissan,Patrol,Patrol Station Wagon (W160),not known
+Nissan,Patrol,Patrol Station Wagon (W160),not known
+Nissan,Patrol,Patrol Station Wagon (W160),not known
+Nissan,Skyline,"Skyline XIII (HV37, facelift 2017)",13.049
+Nissan,Skyline,"Skyline XIII (HV37, facelift 2017)",13.134
+Nissan,Skyline,"Skyline XIII (HV37, facelift 2017)",13.463
+Nissan,Ariya,Ariya,5.1 sec ,not known
+Nissan,Ariya,Ariya,5.7 sec ,not known
+Nissan,Ariya,Ariya,7.6 sec ,not known
+Nissan,Ariya,Ariya,13.852
+Nissan,Ariya,Ariya,5.9 sec ,not known
+Nissan,Ariya,Ariya,7.5 sec ,not known
+Nissan,Primera,Primera (P12),15.099
+Nissan,Primera,Primera (P12),10.9 sec ,17.112
+Nissan,Primera,Primera (P12),9.8 sec ,16.495
+Nissan,Primera,Primera (P12),10.9 sec ,16.112
+Nissan,Primera,Primera (P12),9.6 sec ,16.112
+Nissan,Primera,Primera (P12),10.8 sec ,17.26
+Nissan,Primera,Primera (P12),13.6 sec ,16.962
+Nissan,Primera,Primera (P12),11.9 sec ,16.962
+Nissan,Primera,Primera (P12),12.6 sec ,17.308
+Nissan,NV200,NV200 Combi,17.308
+Nissan,NV200,NV200 Combi,17.162
+Nissan,NV200,NV200 Combi,17.641
+Nissan,NV200,NV200 Combi,17.5
+Nissan,NV200,NV200 Combi,18.821
+Nissan,NV200,NV200 Combi,18.655
+Nissan,NV200,NV200 Evalia,17.5
+Nissan,NV200,NV200 Evalia,17.308
+Nissan,NV200,NV200 Evalia,17.826
+Nissan,NV200,NV200 Evalia,17.641
+Nissan,NV200,NV200 Evalia,18.983
+Nissan,NV200,NV200 Evalia,18.821
+Nissan,Sakura,Sakura,19.378
+Nissan,President,President (PGF50),14.363
+Nissan,Langley,Langley N12,15.711
+Nissan,Altima,Altima III,7.1 sec ,13.699
+Nissan,Altima,Altima III,14.97
+Nissan,Altima,Altima III,14.97
+Nissan,Almera,"Almera II (N16, facelift 2003)",9.2 sec ,15.828
+Nissan,Almera,"Almera II (N16, facelift 2003)",11.2 sec ,16.112
+Nissan,Almera,"Almera II (N16, facelift 2003)",10.8 sec ,16.112
+Nissan,Almera,"Almera II (N16, facelift 2003)",14.5 sec ,18.052
+Nissan,Almera,"Almera II (N16, facelift 2003)",13.1 sec ,17.012
+Nissan,Figaro,Figaro,19.222
+Nissan,Bluebird,Bluebird Sylphy II,10.7 sec ,15.885
+Nissan,Bluebird,Bluebird Sylphy II,11.8 sec ,16.653
+Nissan,Bluebird,Bluebird Sylphy II,13 sec ,17.112
+Nissan,X-Trail,"X-Trail II (T31, facelift 2010)",10 sec ,15.943
+Nissan,X-Trail,"X-Trail II (T31, facelift 2010)",12.5 sec ,16.86
+Nissan,X-Trail,"X-Trail II (T31, facelift 2010)",11.2 sec ,16.706
+Nissan,Sentra,Sentra VIII (B18),16.0
+Nissan,Sentra,Sentra VIII (B18),15.943
+Nissan,Fuga,"Fuga I (Y50, facelift 2007)",13.218
+Nissan,Fuga,"Fuga I (Y50, facelift 2007)",13.927
+Nissan,Fuga,"Fuga I (Y50, facelift 2007)",13.852
+Nissan,Fuga,"Fuga I (Y50, facelift 2007)",14.905
+Nissan,Note,Note I (E11),11.7 sec ,16.387
+Nissan,Note,Note I (E11),10.7 sec ,16.387
+Nissan,Note,Note I (E11),13 sec ,18.052
+Nissan,Note,Note I (E11),16.5 sec ,19.531
+Nissan,Note,Note I (E11),13.1 sec ,17.547
+Nissan,Qashqai,Qashqai I (J10),12 sec ,16.441
+Nissan,Qashqai,Qashqai I (J10),10.9 sec ,16.333
+Nissan,Qashqai,Qashqai I (J10),10.5 sec ,16.112
+Nissan,Qashqai,Qashqai I (J10),10.7 sec ,16.224
+Nissan,Qashqai,Qashqai I (J10),11.3 sec ,16.495
+Nissan,Qashqai,Qashqai I (J10),10.6 sec ,16.333
+Nissan,Qashqai,Qashqai I (J10),10.1 sec ,16.112
+Nissan,Qashqai,Qashqai I (J10),12 sec ,17.062
+Nissan,Qashqai,Qashqai I (J10),12.2 sec ,17.962
+Nissan,Qashqai,Qashqai I (J10),12.2 sec ,18.14
+Nissan,240SX,240SX Coupe (S13),15.769
+Nissan,Rasheen,Rasheen,15.769
+Nissan,Rasheen,Rasheen,16.495
+Nissan,Rasheen,Rasheen,16.86
+Nissan,Datsun,Datsun 100 A Combi (WBLF10),not known
+Nissan,AD,AD Y12,11.7 sec ,15.885
+Nissan,AD,AD Y12,17.112
+Nissan,AD,AD Y12,not known
+Nissan,AD,AD Y12,not known
+Nissan,Almera,Almera Tino (facelift 2003),12.2 sec ,17.826
+Nissan,Almera,Almera Tino (facelift 2003),10.5 sec ,16.706
+Nissan,Almera,Almera Tino (facelift 2003),12.6 sec ,16.653
+Nissan,Almera,Almera Tino (facelift 2003),14.2 sec ,17.112
+Nissan,Almera,Almera Tino (facelift 2003),12.7 sec ,17.357
+Nissan,March,March (K11),18 sec ,19.023
+Nissan,March,March (K11),12.5 sec ,16.601
+Nissan,March,March (K11),11.9 sec ,16.601
+Nissan,March,March (K11),13.7 sec ,16.86
+Nissan,March,March (K11),12 sec ,16.86
+Nissan,March,March (K11),19.7 sec ,18.444
+Nissan,March,March (K11),16.4 sec ,18.444
+Nissan,March,March (K11),18 sec ,18.228
+Nissan,March,March (K11),15.5 sec ,18.228
+Nissan,Titan,Titan II XD King Cab,14.363
+Nissan,Titan,Titan II XD King Cab,14.639
+Nissan,Titan,Titan II XD King Cab,16.056
+Nissan,Titan,Titan II XD King Cab,16.333
+Nissan,Almera,"Almera III (N17, facelift 2015)",16.706
+Nissan,Almera,"Almera III (N17, facelift 2015)",16.601
+Nissan,Almera,"Almera III (N17, facelift 2015)",17.826
+Nissan,Kicks,"Kicks (P15, USA)",16.112
+Nissan,Kicks,"Kicks (P15, USA)",16.224
+Nissan,Bluebird,Bluebird Traveller (W910),not known
+Nissan,Bluebird,Bluebird Traveller (W910),not known
+Nissan,Sunny,Sunny III Hatch (N14) 3 doors,13.218
+Nissan,Sunny,Sunny III Hatch (N14) 3 doors,8.2 sec ,14.97
+Nissan,Sunny,Sunny III Hatch (N14) 3 doors,15.4 sec ,18.444
+Nissan,Sunny,Sunny III Hatch (N14) 3 doors,15.472
+Nissan,Sunny,Sunny III Hatch (N14) 3 doors,10.7 sec ,17.112
+Nissan,Sunny,Sunny III Hatch (N14) 3 doors,12.5 sec ,18.052
+Nissan,Bassara,Bassara,14.773
+Nissan,Bassara,Bassara,16.112
+Nissan,Bassara,Bassara,16.112
+Nissan,Bassara,Bassara,12 sec ,17.308
+Nissan,Bassara,Bassara,17.308
+Nissan,Bassara,Bassara,16.601
+Nissan,Bassara,Bassara,16.601
+Nissan,Frontier,Frontier III Crew Cab,14.433
+Nissan,Frontier,Frontier III Crew Cab,14.363
+Nissan,Frontier,Frontier III Crew Cab,14.148
+Nissan,Patrol,Patrol V 3-door (Y61),16.911
+Nissan,Patrol,Patrol V 3-door (Y61),19.103
+Nissan,Patrol,Patrol V 3-door (Y61),19.103
+Nissan,Patrol,Patrol V 3-door (Y61),17.594
+Nissan,Patrol,Patrol V 3-door (Y61),15 sec ,18.444
+Nissan,Patrol,Patrol V 3-door (Y61),15 sec ,18.444
+Nissan,Patrol,Patrol V 3-door (Y61),19.103
+Nissan,350Z,"350Z Roadster (Z33, facelift 2007)",not known
+Nissan,350Z,"350Z Roadster (Z33, facelift 2007)",6.1 sec ,13.134
+Nissan,350Z,"350Z Roadster (Z33, facelift 2007)",6.4 sec ,13.382
+Nissan,350Z,"350Z Roadster (Z33, facelift 2007)",not known
+Nissan,Lafesta,Lafesta,16.809
+Nissan,Lafesta,Lafesta,17.162
+Nissan,Qashqai,Qashqai+2 I (NJ10),11.7 sec ,16.962
+Nissan,Qashqai,Qashqai+2 I (NJ10),10.9 sec ,16.758
+Nissan,Qashqai,Qashqai+2 I (NJ10),11.1 sec ,16.601
+Nissan,Qashqai,Qashqai+2 I (NJ10),12.4 sec ,17.112
+Nissan,Qashqai,Qashqai+2 I (NJ10),11.3 sec ,17.012
+Nissan,Qashqai,Qashqai+2 I (NJ10),10.9 sec ,16.809
+Nissan,Qashqai,Qashqai+2 I (NJ10),12.9 sec ,17.5
+Nissan,Qashqai,Qashqai+2 I (NJ10),13.3 sec ,18.571
+Nissan,Frontier,"Frontier II Crew Cab Long (D40, facelift 2009)",14.905
+Nissan,Frontier,"Frontier II Crew Cab Long (D40, facelift 2009)",14.97
+Nissan,Frontier,"Frontier II Crew Cab Long (D40, facelift 2009)",14.97
+Nissan,Frontier,"Frontier II Crew Cab Long (D40, facelift 2009)",14.773
+Nissan,GT-R,"GT-R (R35, facelift 2016)",2.8 sec ,11.054
+Nissan,GT-R,"GT-R (R35, facelift 2016)",2.8 sec ,10.685
+Nissan,GT-R,"GT-R (R35, facelift 2016)",2.8 sec ,10.811
+Nissan,GT-R,"GT-R (R35, facelift 2016)",2.8 sec ,11.054
+Nissan,Note,Note II (E12),11.9 sec ,17.917
+Nissan,Note,Note II (E12),12.2 sec ,17.405
+Nissan,Note,Note II (E12),11.7 sec ,17.405
+Nissan,Note,Note II (E12),13.7 sec ,18.613
+Nissan,Stanza,Stanza (T12/T12Y),not known
+Nissan,Pick UP,Pick UP (D21),not known
+Nissan,Pick UP,Pick UP (D21),not known
+Nissan,Pick UP,Pick UP (D21),not known
+Nissan,Pick UP,Pick UP (D21),not known
+Nissan,Pick UP,Pick UP (D21),not known
+Nissan,Pick UP,Pick UP (D21),not known
+Nissan,Pick UP,Pick UP (D21),not known
+Nissan,Pick UP,Pick UP (D21),16.168
+Nissan,Pick UP,Pick UP (D21),not known
+Nissan,Titan,Titan II Crew Cab XD (facelift 2020),14.84
+Nissan,Titan,Titan II Crew Cab XD (facelift 2020),14.639
+Nissan,Titan,Titan II Crew Cab XD (facelift 2020),14.905
+Nissan,Sunny,Sunny II Coupe (B12),not known
+Nissan,Sunny,Sunny II Coupe (B12),not known
+Nissan,Sunny,Sunny II Coupe (B12),11.8 sec ,18.007
+Nissan,Sunny,Sunny II Coupe (B12),not known
+Nissan,Sunny,Sunny II Coupe (B12),not known
+Nissan,Sunny,Sunny II Coupe (B12),not known
+Nissan,Frontier,"Frontier II King Cab (D40, facelift 2009)",14.639
+Nissan,Frontier,"Frontier II King Cab (D40, facelift 2009)",14.84
+Nissan,Frontier,"Frontier II King Cab (D40, facelift 2009)",14.84
+Nissan,Frontier,"Frontier II King Cab (D40, facelift 2009)",14.707
+Nissan,Frontier,"Frontier II King Cab (D40, facelift 2009)",16.962
+Nissan,Frontier,"Frontier II King Cab (D40, facelift 2009)",16.911
+Nissan,Liberty,Liberty (M12),14.571
+Nissan,Liberty,Liberty (M12),16.441
+Nissan,Liberty,Liberty (M12),16.653
+Nissan,Maxima,Maxima II (PU11),15.769
+Nissan,Maxima,Maxima II (PU11),15.769
+Nissan,X-Trail,X-Trail I (T30),13.7 sec ,18.052
+Nissan,X-Trail,X-Trail I (T30),13.1 sec ,16.495
+Nissan,X-Trail,X-Trail I (T30),11.3 sec ,16.495
+Nissan,Cube,Cube (Z10),16.706
+Nissan,Cube,Cube (Z10),16.224
+Nissan,Cube,Cube (Z10),17.211
+Nissan,Micra,Micra (K11),18 sec ,19.023
+Nissan,Micra,Micra (K11),12.5 sec ,16.601
+Nissan,Micra,Micra (K11),11.9 sec ,16.601
+Nissan,Micra,Micra (K11),13.7 sec ,16.86
+Nissan,Micra,Micra (K11),12 sec ,16.86
+Nissan,Micra,Micra (K11),19.7 sec ,18.444
+Nissan,Micra,Micra (K11),16.4 sec ,18.444
+Nissan,Micra,Micra (K11),18 sec ,18.228
+Nissan,Micra,Micra (K11),15.5 sec ,18.228
+Nissan,Skyline,Skyline VIII (R32),14.292
+Nissan,Skyline,Skyline VIII (R32),16.0
+Nissan,Sunny,"Sunny Traveller (140Y,150Y)",not known
+Nissan,Sunny,"Sunny Traveller (140Y,150Y)",not known
+Nissan,Titan,Titan II XD Single Cab,14.221
+Nissan,Titan,Titan II XD Single Cab,14.433
+Nissan,Titan,Titan II XD Single Cab,15.943
+Nissan,Titan,Titan II XD Single Cab,16.168
+Nissan,Titan,Titan II King Cab,14.075
+Nissan,Titan,Titan II King Cab,14.221
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",11 sec ,16.706
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",9.9 sec ,16.86
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",9.5 sec ,16.333
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",10.7 sec ,16.224
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",11.3 sec ,16.495
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",10.6 sec ,16.333
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",10.1 sec ,16.112
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",10.9 sec ,17.308
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",10.3 sec ,17.062
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",11.9 sec ,16.962
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",13 sec ,17.112
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",11.9 sec ,16.911
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",11.8 sec ,17.062
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",12.4 sec ,17.78
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",12.8 sec ,17.962
+Nissan,Qashqai,"Qashqai I (J10, facelift 2010)",12.5 sec ,18.184
+Nissan,Titan,Titan II Crew Cab,14.075
+Nissan,Titan,Titan II Crew Cab,14.221
+Nissan,Altima,Altima IV,not known
+Nissan,Altima,Altima IV,not known
+Nissan,Altima,Altima IV,not known
+Nissan,Patrol,Patrol VI (Y62),not known
+Nissan,Patrol,Patrol VI (Y62),15.35
+Nissan,Magnite,Magnite,16.548
+Nissan,Magnite,Magnite,16.387
+Nissan,Magnite,Magnite,17.826
+Nissan,Versa,Versa Note,16.441
+Nissan,Versa,Versa Note,16.333
+Nissan,Cefiro,Cefiro (33),14.433
+Nissan,Patrol,Patrol Station Wagon (W260),not known
+Nissan,Patrol,Patrol Station Wagon (W260),not known
+Nissan,Primera,Primera (P11),14 sec ,18.272
+Nissan,Primera,Primera (P11),8.6 sec ,15.769
+Nissan,Primera,Primera (P11),11.5 sec ,16.279
+Nissan,Primera,Primera (P11),11.2 sec ,15.943
+Nissan,Primera,Primera (P11),9.6 sec ,15.943
+Nissan,Primera,Primera (P11),9.6 sec ,16.601
+Nissan,Primera,Primera (P11),11 sec ,16.86
+Nissan,Primera,Primera (P11),12 sec ,16.86
+Nissan,Primera,Primera (P11),not known
+Nissan,Patrol,"Patrol V 5-door (Y61, facelift 2004)",16.0
+Nissan,Patrol,"Patrol V 5-door (Y61, facelift 2004)",16.112
+Nissan,Patrol,"Patrol V 5-door (Y61, facelift 2004)",17.162
+Nissan,Patrol,"Patrol V 5-door (Y61, facelift 2004)",18.487
+Nissan,Patrol,"Patrol V 5-door (Y61, facelift 2004)",18.487
+Nissan,Patrol,"Patrol V 5-door (Y61, facelift 2004)",16.3 sec ,18.738
+Nissan,Patrol,"Patrol V 5-door (Y61, facelift 2004)",15.2 sec ,18.613
+Nissan,Frontier,"Frontier I Crew Cab Long (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I Crew Cab Long (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I Crew Cab Long (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I Crew Cab Long (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I Crew Cab Long (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I Crew Cab Long (D22, facelift 2000)",not known
+Nissan,Stanza,Stanza Hatchback (T11),not known
+Nissan,Stanza,Stanza Hatchback (T11),not known
+Nissan,Stanza,Stanza Hatchback (T11),not known
+Nissan,Vanette,Vanette,17.688
+Nissan,Vanette,Vanette,21.275
+Nissan,Titan,Titan II King Cab (facelift 2020),14.221
+Nissan,Titan,Titan II King Cab (facelift 2020),14.002
+Nissan,Titan,Titan II King Cab (facelift 2020),14.075
+Nissan,Frontier,Frontier II Crew Cab Long (D40),14.84
+Nissan,Frontier,Frontier II Crew Cab Long (D40),15.099
+Nissan,Frontier,Frontier II Crew Cab Long (D40),15.099
+Nissan,Frontier,Frontier II Crew Cab Long (D40),14.84
+Nissan,Altima,Altima V (facelift 2016),13.542
+Nissan,Altima,Altima V (facelift 2016),15.162
+Nissan,Maxima,Maxima I (G910),19.378
+Nissan,Maxima,Maxima I (G910),16.548
+Nissan,Maxima,Maxima I (G910),16.548
+Nissan,Versa,Versa Note (facelift 2017),16.441
+Nissan,Sentra,Sentra VII (B17),16.279
+Nissan,Sentra,Sentra VII (B17),16.224
+Nissan,Presea,Presea II,15.035
+Nissan,Presea,Presea II,15.592
+Nissan,Presea,Presea II,15.592
+Nissan,Presea,Presea II,16.224
+Nissan,Mistral,Mistral (R20) 3D,18.184
+Nissan,Mistral,Mistral (R20) 3D,19 sec ,19.607
+Nissan,Silvia,Silvia (S110),not known
+Nissan,Sunny,Sunny II Hatchback (N13),not known
+Nissan,Sunny,Sunny II Hatchback (N13),18.5 sec ,20.371
+Nissan,Sunny,Sunny II Hatchback (N13),not known
+Nissan,Sunny,Sunny II Hatchback (N13),not known
+Nissan,Sunny,Sunny II Hatchback (N13),not known
+Nissan,Sunny,Sunny II Hatchback (N13),not known
+Nissan,Sunny,Sunny II Hatchback (N13),not known
+Nissan,Sunny,Sunny II Hatchback (N13),not known
+Nissan,Sunny,Sunny II Hatchback (N13),not known
+Nissan,Sylphy,Sylphy (B17),16.112
+Nissan,Sylphy,Sylphy (B17),16.601
+Nissan,Sylphy,Sylphy (B17),16.495
+Nissan,X-Trail,X-Trail II (T31),10.3 sec ,15.652
+Nissan,X-Trail,X-Trail II (T31),9.8 sec ,15.592
+Nissan,X-Trail,X-Trail II (T31),11.9 sec ,16.706
+Nissan,X-Trail,X-Trail II (T31),11.1 sec ,16.601
+Nissan,X-Trail,X-Trail II (T31),10 sec ,16.056
+Nissan,X-Trail,X-Trail II (T31),12.5 sec ,16.809
+Nissan,X-Trail,X-Trail II (T31),11.2 sec ,16.758
+Nissan,Cube,Cube (Z12),16.601
+Nissan,Cube,Cube (Z12),16.548
+Nissan,Cube,Cube (Z12),12.4 sec ,17.357
+Nissan,Cube,Cube (Z12),11.3 sec ,17.112
+Nissan,Cube,Cube (Z12),11.9 sec ,17.594
+Nissan,Cube,Cube (Z12),16.706
+Nissan,Bluebird,"Bluebird (T72 ,T12)",not known
+Nissan,Bluebird,"Bluebird (T72 ,T12)",not known
+Nissan,Bluebird,"Bluebird (T72 ,T12)",not known
+Nissan,Bluebird,"Bluebird (T72 ,T12)",not known
+Nissan,Bluebird,"Bluebird (T72 ,T12)",not known
+Nissan,Xterra,Xterra I,15.769
+Nissan,Xterra,Xterra I,15.769
+Nissan,Xterra,Xterra I,10.4 sec ,16.495
+Nissan,Xterra,Xterra I,16.601
+Nissan,Xterra,Xterra I,16.601
+Nissan,Xterra,Xterra I,16.962
+Nissan,March,March (K10),not known
+Nissan,March,March (K10),not known
+Nissan,March,March (K10),not known
+Nissan,March,March (K10),not known
+Nissan,Silvia,Silvia (S13),13.542
+Nissan,Silvia,Silvia (S13),13.542
+Nissan,Silvia,Silvia (S13),15.225
+Nissan,Silvia,Silvia (S13),15.225
+Nissan,Silvia,Silvia (S13),14.221
+Nissan,Silvia,Silvia (S13),14.221
+Nissan,Silvia,Silvia (S13),15.288
+Nissan,Silvia,Silvia (S13),15.288
+Nissan,March,March (K12),16.3 sec ,17.357
+Nissan,March,March (K12),17 sec ,18.738
+Nissan,March,March (K12),15 sec ,16.911
+Nissan,March,March (K12),11.9 sec ,16.911
+Nissan,March,March (K12),17.9 sec ,17.405
+Nissan,March,March (K12),13.9 sec ,17.405
+Nissan,March,March (K12),16.3 sec ,18.738
+Nissan,March,March (K12),15.7 sec ,18.487
+Nissan,Mistral,Mistral (R20) 5D,16.7 sec ,18.697
+Nissan,Mistral,Mistral (R20) 5D,19 sec ,20.051
+Nissan,240SX,240SX Coupe (S14),15.225
+Nissan,350Z,350Z Roadster (Z33),6.4 sec ,13.621
+Nissan,Laurel,Laurel (HLC230),not known
+Nissan,Laurel,Laurel (HLC230),not known
+Nissan,Juke,Juke I (facelift 2014),7 sec ,13.621
+Nissan,Juke,Juke I (facelift 2014),8 sec ,14.148
+Nissan,Juke,Juke I (facelift 2014),8.2 sec ,14.148
+Nissan,Juke,Juke I (facelift 2014),8.2 sec ,14.639
+Nissan,Juke,Juke I (facelift 2014),8.1 sec ,14.571
+Nissan,Juke,Juke I (facelift 2014),7.8 sec ,14.075
+Nissan,Juke,Juke I (facelift 2014),12 sec ,17.162
+Nissan,Juke,Juke I (facelift 2014),11.5 sec ,16.168
+Nissan,Juke,Juke I (facelift 2014),12.3 sec ,16.653
+Nissan,Juke,Juke I (facelift 2014),12.5 sec ,16.548
+Nissan,Juke,Juke I (facelift 2014),11.2 sec ,17.112
+Nissan,Juke,Juke I (facelift 2014),11.2 sec ,16.962
+Nissan,Juke,Juke I (facelift 2014),10.8 sec ,16.387
+Nissan,NV200,e-NV200 Evalia,14 sec ,18.902
+Nissan,NV200,e-NV200 Evalia,14 sec ,18.738
+Nissan,Bluebird,Bluebird (U14),9.8 sec ,15.472
+Nissan,Bluebird,Bluebird (U14),10.1 sec ,15.35
+Nissan,Bluebird,Bluebird (U14),8.7 sec ,15.225
+Nissan,Bluebird,Bluebird (U14),18.7 sec ,19.183
+Nissan,Bluebird,Bluebird (U14),16.2 sec ,19.143
+Nissan,Bluebird,Bluebird (U14),7.8 sec ,14.221
+Nissan,Bluebird,Bluebird (U14),9.7 sec ,15.225
+Nissan,Bluebird,Bluebird (U14),8.5 sec ,15.099
+Nissan,Bluebird,Bluebird (U14),11.1 sec ,15.885
+Nissan,Bluebird,Bluebird (U14),10.1 sec ,15.828
+Nissan,Bluebird,Bluebird (U14),13 sec ,16.653
+Nissan,Bluebird,Bluebird (U14),11.8 sec ,16.548
+Nissan,Bluebird,Bluebird (U14),10.8 sec ,16.112
+Nissan,Bluebird,Bluebird (U14),11.5 sec ,16.056
+Nissan,Bluebird,Bluebird (U14),10.6 sec ,16.0
+Nissan,Bluebird,Bluebird (U14),11.4 sec ,16.0
+Nissan,Bluebird,Bluebird (U14),10.5 sec ,15.943
+Nissan,Bluebird,Bluebird (U14),11.6 sec ,16.056
+Nissan,Bluebird,Bluebird (U14),10.7 sec ,16.0
+Nissan,Pathfinder,Pathfinder V,14.433
+Nissan,Pathfinder,Pathfinder V,14.571
+Nissan,Pathfinder,Pathfinder V,14.639
+Nissan,Pathfinder,Pathfinder V,14.773
+Nissan,300 ZX,300 ZX (Z31),7.1 sec ,13.927
+Nissan,300 ZX,300 ZX (Z31),not known
+Nissan,300 ZX,300 ZX (Z31),9 sec ,15.288
+Nissan,240SX,240SX Coupe (S13 facelift 1991),15.035
+Nissan,Expert,Expert,not known
+Nissan,Expert,Expert,not known
+Nissan,AD,AD Y10,17.162
+Nissan,AD,AD Y10,not known
+Nissan,AD,AD Y10,18.315
+Nissan,AD,AD Y10,not known
+Nissan,AD,AD Y10,20.123
+Nissan,AD,AD Y10,not known
+Nissan,AD,AD Y10,not known
+Nissan,AD,AD Y10,not known
+Nissan,AD,AD Y10,not known
+Nissan,AD,AD Y10,16.809
+Nissan,AD,AD Y10,16.112
+Nissan,AD,AD Y10,not known
+Nissan,AD,AD Y10,17.452
+Nissan,AD,AD Y10,17.452
+Nissan,Townstar,Townstar,17.012
+Nissan,Safari,Safari (Y61),13.7 sec ,16.86
+Nissan,Safari,Safari (Y61),13.7 sec ,16.86
+Nissan,Safari,Safari (Y61),18.571
+Nissan,Safari,Safari (Y61),17.594
+Nissan,Safari,Safari (Y61),15.7 sec ,18.14
+Nissan,Safari,Safari (Y61),15.7 sec ,18.14
+Nissan,Micra,Micra (K10),17.594
+Nissan,Micra,Micra (K10),not known
+Nissan,Micra,Micra (K10),not known
+Nissan,Micra,Micra (K10),not known
+Nissan,Sunny,Sunny (B15),not known
+Nissan,Sunny,Sunny (B15),not known
+Nissan,Sunny,Sunny (B15),not known
+Nissan,Sunny,Sunny (B15),not known
+Nissan,Sunny,Sunny (B15),not known
+Nissan,Sunny,Sunny (B15),not known
+Nissan,Rogue Sport,Rogue Sport,16.548
+Nissan,Rogue Sport,Rogue Sport,16.758
+Nissan,300 ZX,300 ZX (Z32),5.9 sec ,13.621
+Nissan,300 ZX,300 ZX (Z32),5.9 sec ,13.621
+Nissan,300 ZX,300 ZX (Z32),7.2 sec ,13.852
+Nissan,300 ZX,300 ZX (Z32),7.2 sec ,13.852
+Nissan,Patrol,"Patrol V 3-door (Y61, facelift 2004)",18.487
+Nissan,Patrol,"Patrol V 3-door (Y61, facelift 2004)",18.487
+Nissan,Sylphy,Sylphy EV,18.228
+Nissan,Serena,Serena (C24),13 sec ,17.112
+Nissan,Serena,Serena (C24),15 sec ,16.911
+Nissan,Bluebird,Bluebird Coupe (910),not known
+Nissan,Bluebird,Bluebird Coupe (910),not known
+Nissan,Patrol,Patrol IV 5-door (Y60),17.547
+Nissan,Patrol,Patrol IV 5-door (Y60),17.641
+Nissan,Patrol,Patrol IV 5-door (Y60),19.493
+Nissan,Murano,Murano I (Z50),7.9 sec ,14.075
+Nissan,Murano,Murano I (Z50),8.5 sec ,14.773
+Nissan,Z,Z,not known
+Nissan,Z,Z,not known
+Nissan,Almera,Almera IV (N18),16.706
+Nissan,Vanette,Vanette Cargo,20.748
+NIO,ES8,ES8 I,not known
+NIO,ES8,ES8 I,4.4 sec ,11.83
+NIO,EC7,EC7,3.8 sec ,not known
+NIO,EC7,EC7,3.8 sec ,not known
+NIO,EC7,EC7,3.8 sec ,not known
+Nissan,Frontier,Frontier II King Cab (D40),not known
+Nissan,Frontier,Frontier II King Cab (D40),not known
+Nissan,Frontier,Frontier II King Cab (D40),not known
+Nissan,Frontier,Frontier II King Cab (D40),not known
+Nissan,Datsun,Datsun (D21),19.757
+Nissan,Datsun,Datsun (D21),20.087
+Nissan,Datsun,Datsun (D21),19.645
+Nissan,Bluebird,Bluebird (U11),16.548
+Nissan,Bluebird,Bluebird (U11),20.748
+Nissan,Bluebird,Bluebird (U11),17.308
+Nissan,Elgrand,Elgrand (E51),15.411
+Nissan,Elgrand,Elgrand (E51),not known
+Nissan,Kicks,"Kicks (P15, Asia)",16.601
+Nissan,Frontier,"Frontier I King Cab (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I King Cab (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I King Cab (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I King Cab (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I King Cab (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I King Cab (D22, facelift 2000)",not known
+Nissan,Terra,Terra,16.056
+Nissan,Terra,Terra,16.333
+Nissan,Terra,Terra,15.943
+Nissan,Terra,Terra,not known
+Nissan,Terra,Terra,not known
+Nissan,Terra,Terra,not known
+Nissan,Frontier,"Frontier I King Cab Long (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I King Cab Long (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I King Cab Long (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I King Cab Long (D22, facelift 2000)",9.3 sec ,not known
+Nissan,Frontier,"Frontier I King Cab Long (D22, facelift 2000)",not known
+Nissan,Frontier,"Frontier I King Cab Long (D22, facelift 2000)",not known
+Nissan,Murano,"Murano II (Z51, facelift 2010)",8 sec ,14.571
+Nissan,Murano,"Murano II (Z51, facelift 2010)",8 sec ,14.639
+Nissan,Murano,"Murano II (Z51, facelift 2010)",10.5 sec ,16.279
+NIO,ET5,ET5 Touring,4 sec ,not known
+NIO,ET5,ET5 Touring,4 sec ,not known
+NIO,ET5,ET5 Touring,4 sec ,not known
+Nissan,Datsun,Datsun 140 J,not known
+NIO,ES6,ES6 I,4.7 sec ,not known
+NIO,ES6,ES6 I,5.6 sec ,not known
+NIO,ES6,ES6 I,4.7 sec ,not known
+NIO,ES6,ES6 I,5.6 sec ,not known
+NIO,ES6,ES6 I,4.7 sec ,not known
+NIO,ES6,ES6 I,5.6 sec ,not known
+Nissan,Lucino,Lucino,16.112
+Nissan,Lucino,Lucino,17.405
+Nissan,Lucino,Lucino,17.405
+Nissan,Navara,Navara III (D40 facelift 2010),9.3 sec ,15.828
+Nissan,Navara,Navara III (D40 facelift 2010),11.7 sec ,16.112
+Nissan,Tino,Tino (V10),16.495
+Nissan,Tino,Tino (V10),17.162
+Nissan,Tino,Tino (V10),18.821
+Nissan,Tino,Tino (V10),18.821
+Nissan,Altima,Altima I,8.7 sec ,15.532
+Nissan,Altima,Altima I,8.7 sec ,15.532
+Nissan,Sunny,"Sunny (140Y,150Y)",not known
+Nissan,Sunny,"Sunny (140Y,150Y)",not known
+Nissan,Sunny,"Sunny (140Y,150Y)",not known
+Nissan,Rogue,Rogue II (T32),15.828
+Nissan,Rogue,Rogue II (T32),16.0
+Nissan,Altima,Altima II,9 sec ,15.828
+Nissan,Altima,Altima II,8.2 sec ,15.592
+Nissan,Sunny,Sunny I Coupe (B11),not known
+Nissan,Cefiro,Cefiro (32),14.571
+Nissan,Cefiro,Cefiro (32),15.35
+Nissan,Cefiro,Cefiro (32),15.35
+Nissan,Tiida,Tiida Sedan,16.056
+Nissan,Tiida,Tiida Sedan,11.1 sec ,17.162
+Nissan,Tiida,Tiida Sedan,11.1 sec ,17.162
+Nissan,Cedric,Cedric (Y32) Gran Turismo,10.4 sec ,16.224
+Nissan,Cedric,Cedric (Y32) Gran Turismo,13.4 sec ,17.357
+Nissan,Kicks,Kicks (P15),11.5 sec ,15.943
+Nissan,Sunny,Sunny I Wagon (B11),not known
+Nissan,Sunny,Sunny I Wagon (B11),not known
+Nissan,Primera,Primera Wagon (P12),15.288
+Nissan,Primera,Primera Wagon (P12),10.9 sec ,not known
+Nissan,Primera,Primera Wagon (P12),10.1 sec ,16.706
+Nissan,Primera,Primera Wagon (P12),10.9 sec ,16.279
+Nissan,Primera,Primera Wagon (P12),9.6 sec ,16.279
+Nissan,Primera,Primera Wagon (P12),11.1 sec ,17.452
+Nissan,Primera,Primera Wagon (P12),13.6 sec ,17.162
+Nissan,Primera,Primera Wagon (P12),11.98 sec ,17.162
+Nissan,Primera,Primera Wagon (P12),12.6 sec ,17.452
+Nissan,Patrol,Patrol V 5-door (Y61),10.8 sec ,16.601
+Nissan,Patrol,Patrol V 5-door (Y61),10.8 sec ,16.601
+Nissan,Patrol,Patrol V 5-door (Y61),17.012
+Nissan,Patrol,Patrol V 5-door (Y61),19.222
+Nissan,Patrol,Patrol V 5-door (Y61),19.222
+Nissan,Patrol,Patrol V 5-door (Y61),17.594
+Nissan,Patrol,Patrol V 5-door (Y61),17.594
+Nissan,Patrol,Patrol V 5-door (Y61),17.594
+Nissan,Patrol,Patrol V 5-door (Y61),16.9 sec ,18.821
+Nissan,Patrol,Patrol V 5-door (Y61),15.4 sec ,18.821
+Nissan,Patrol,Patrol V 5-door (Y61),19.493
+Nissan,Patrol,Patrol V 5-door (Y61),19.493
+Nissan,Quest,Quest (FF-L),not known
+Nissan,Altima,Altima VI,14.97
+Nissan,Altima,Altima VI,15.35
+Nissan,Altima,Altima VI,13.927
+Nissan,Frontier,"Frontier II Crew Cab (D40, facelift 2009)",14.773
+Nissan,Frontier,"Frontier II Crew Cab (D40, facelift 2009)",14.97
+Nissan,Frontier,"Frontier II Crew Cab (D40, facelift 2009)",14.905
+Nissan,Frontier,"Frontier II Crew Cab (D40, facelift 2009)",14.707
+Nissan,350Z,"350Z (Z33, facelift 2007)",12.877
+Nissan,350Z,"350Z (Z33, facelift 2007)",5.8 sec ,13.134
+Nissan,350Z,"350Z (Z33, facelift 2007)",not known
+Nissan,350Z,"350Z (Z33, facelift 2007)",not known
+Nissan,Patrol,"Patrol VI (Y62, facelift 2019)",not known
+Nissan,Patrol,"Patrol VI (Y62, facelift 2019)",14.571
+Nissan,Patrol,"Patrol VI (Y62, facelift 2019)",16.112
+Nissan,Terrano,Terrano India,not known
+Nissan,Terrano,Terrano India,not known
+Nissan,Terrano,Terrano India,not known

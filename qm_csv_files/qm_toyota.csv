@@ -1,0 +1,2307 @@
+Brand,Model,Generation,Spec-model,Acceleration 0-100 km/h,1/4tb mile ET
+Toyota,Cresta,Cresta (GX90),14.148
+Toyota,Cresta,Cresta (GX90),14.905
+Toyota,Cresta,Cresta (GX90),16.056
+Toyota,Cresta,Cresta (GX90),16.056
+Toyota,Cresta,Cresta (GX90),16.548
+Toyota,Sequoia,Sequoia II (facelift 2017),14.571
+Toyota,Sequoia,Sequoia II (facelift 2017),14.363
+Toyota,Starlet,Starlet II,not known
+Toyota,Starlet,Starlet II,not known
+Toyota,Windom,Windom (BF13),14.571
+Toyota,Highlander,Highlander I,14.905
+Toyota,Highlander,Highlander I,15.288
+Toyota,Highlander,Highlander I,14.97
+Toyota,Highlander,Highlander I,7.8 sec ,14.221
+Toyota,Highlander,Highlander I,14.571
+Toyota,Highlander,Highlander I,8.5 sec ,14.773
+Toyota,Highlander,Highlander I,8.8 sec ,15.225
+Toyota,Highlander,Highlander I,11.3 sec ,16.86
+Toyota,Highlander,Highlander I,10.8 sec ,16.387
+Toyota,Crown,Crown Royal XIV (S210),14.905
+Toyota,Crown,Crown Royal XIV (S210),15.162
+Toyota,Crown,Crown Royal XIV (S210),16.112
+Toyota,Crown,Crown Royal XIV (S210),15.885
+Toyota,Corolla Rumion,Corolla Rumion,not known
+Toyota,Corolla Rumion,Corolla Rumion,not known
+Toyota,Allex,Allex,13.927
+Toyota,Allex,Allex,13.776
+Toyota,Allex,Allex,16.168
+Toyota,Allex,Allex,16.911
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),15.472
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),14.707
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),14.97
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),not known
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),14.502
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),14.707
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),14.707
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),not known
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),15.162
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),16.0
+Toyota,Tundra,Tundra I Regular Cab (facelift 2002),16.0
+Toyota,RAV4,"RAV4 III (XA30, facelift 2008) Long",13.699
+Toyota,RAV4,"RAV4 III (XA30, facelift 2008) Long",13.927
+Toyota,RAV4,"RAV4 III (XA30, facelift 2008) Long",15.472
+Toyota,RAV4,"RAV4 III (XA30, facelift 2008) Long",15.711
+Toyota,Crown Majesta,Crown Majesta III (S170),13.699
+Toyota,Crown Majesta,Crown Majesta III (S170),14.075
+Toyota,Crown Majesta,Crown Majesta III (S170),14.84
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),15.411
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),14.433
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),16.279
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),16.653
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),16.601
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),15.652
+Toyota,Tacoma,Tacoma I xTracab (facelift 2000),not known
+Toyota,Mirai,Mirai II,9.2 sec ,16.548
+Toyota,Town Ace,Town Ace Noah,18.861
+Toyota,Town Ace,Town Ace Noah,19.417
+Toyota,Town Ace,Town Ace Noah,19.417
+Toyota,Town Ace,Town Ace Noah,18.861
+Toyota,Town Ace,Town Ace Noah,16.224
+Toyota,Town Ace,Town Ace Noah,16.224
+Toyota,Town Ace,Town Ace Noah,16.224
+Toyota,Avalon,Avalon III (facelift 2010),13.776
+Toyota,Land Cruiser,Land Cruiser (J79),17.162
+Toyota,Land Cruiser,Land Cruiser (J79),20.335
+Toyota,Land Cruiser,Land Cruiser (J79),16.441
+Toyota,Carina,Carina Wagon (TA4K),not known
+Toyota,Carina,Carina Wagon (TA4K),not known
+Toyota,Carina,Carina Wagon (TA4K),not known
+Toyota,Carina,Carina Wagon (TA4K),not known
+Toyota,Mark II,Mark II Wagon Qualis,not known
+Toyota,Mark II,Mark II Wagon Qualis,not known
+Toyota,Mark II,Mark II Wagon Qualis,not known
+Toyota,Mark II,Mark II Wagon Qualis,not known
+Toyota,Avanza,Avanza II (facelift 2015),16.86
+Toyota,Avanza,Avanza II (facelift 2015),17.211
+Toyota,Etios,Etios,not known
+Toyota,Etios,Etios,not known
+Toyota,RAV4,"RAV4 III (XA30, facelift 2011)",9.3 sec ,16.056
+Toyota,RAV4,"RAV4 III (XA30, facelift 2011)",10.8 sec ,16.962
+Toyota,RAV4,"RAV4 III (XA30, facelift 2011)",10.2 sec ,16.911
+Toyota,RAV4,"RAV4 III (XA30, facelift 2011)",10 sec ,16.758
+Toyota,RAV4,"RAV4 III (XA30, facelift 2011)",11 sec ,16.333
+Toyota,RAV4,"RAV4 III (XA30, facelift 2011)",10.5 sec ,16.224
+Toyota,RAV4,"RAV4 III (XA30, facelift 2011)",10.2 sec ,16.056
+Toyota,Crown,Crown Comfort (XS10),17.452
+Toyota,Crown,Crown Comfort (XS10),19.222
+Toyota,Crown,Crown Comfort (XS10),19.183
+Toyota,Corolla,Corolla II 4-door sedan (E20),16.441
+Toyota,Corolla,Corolla II 4-door sedan (E20),16.758
+Toyota,Corolla,Corolla II 4-door sedan (E20),16.706
+Toyota,Corolla,Corolla II 4-door sedan (E20),17.012
+Toyota,Corolla,Corolla II 4-door sedan (E20),16.86
+Toyota,Land Cruiser,Land Cruiser Cygnus,16.601
+Toyota,Camry,"Camry VII (XV50, facelift 2014)",13.699
+Toyota,Camry,"Camry VII (XV50, facelift 2014)",7.1 sec ,13.852
+Toyota,Camry,"Camry VII (XV50, facelift 2014)",15.099
+Toyota,Camry,"Camry VII (XV50, facelift 2014)",9 sec ,15.099
+Toyota,Camry,"Camry VII (XV50, facelift 2014)",15.35
+Toyota,Camry,"Camry VII (XV50, facelift 2014)",10.4 sec ,16.168
+Toyota,Avalon,Avalon IV (facelift 2015),13.776
+Toyota,Avalon,Avalon IV (facelift 2015),15.162
+Toyota,Tacoma,Tacoma I Single Cab,not known
+Toyota,Tacoma,Tacoma I Single Cab,15.288
+Toyota,Tacoma,Tacoma I Single Cab,14.221
+Toyota,Tacoma,Tacoma I Single Cab,not known
+Toyota,Tacoma,Tacoma I Single Cab,not known
+Toyota,Tacoma,Tacoma I Single Cab,not known
+Toyota,Tacoma,Tacoma I Single Cab,14.433
+Toyota,Tacoma,Tacoma I Single Cab,not known
+Toyota,Tacoma,Tacoma I Single Cab,16.168
+Toyota,Tacoma,Tacoma I Single Cab,16.112
+Toyota,Tacoma,Tacoma I Single Cab,not known
+Toyota,Tacoma,Tacoma I Single Cab,not known
+Toyota,Tacoma,Tacoma I Single Cab,15.652
+Toyota,Tacoma,Tacoma I Single Cab,not known
+Toyota,Proace City,Proace City SWB,16.911
+Toyota,Proace City,Proace City SWB,16.441
+Toyota,Proace City,Proace City SWB,16.279
+Toyota,Proace City,Proace City SWB,17.641
+Toyota,Proace City,Proace City SWB,16.2 sec ,19.794
+Toyota,Proace City,Proace City SWB,16.86
+Toyota,Aygo X,Aygo X,15.5 sec ,17.871
+Toyota,Aygo X,Aygo X,15.6 sec ,17.871
+Toyota,Camry,Camry Solara II Convertible,14.502
+Toyota,Camry,Camry Solara II Convertible,16.168
+Toyota,Crown,Crown (S1),not known
+Toyota,Crown,Crown (S1),not known
+Toyota,Camry,Camry IV (XV20),11.7 sec ,16.86
+Toyota,Camry,Camry IV (XV20),10.4 sec ,16.758
+Toyota,Camry,Camry IV (XV20),9 sec ,14.905
+Toyota,Platz,Platz,15.35
+Toyota,Platz,Platz,15.35
+Toyota,Platz,Platz,16.168
+Toyota,Platz,Platz,16.168
+Toyota,Platz,Platz,17.5
+Toyota,Platz,Platz,17.5
+Toyota,Avensis,Avensis III Wagon (facelift 2012),8.8 sec ,15.652
+Toyota,Avensis,Avensis III Wagon (facelift 2012),9.8 sec ,16.548
+Toyota,Avensis,Avensis III Wagon (facelift 2012),8.8 sec ,16.548
+Toyota,Avensis,Avensis III Wagon (facelift 2012),9.2 sec ,16.495
+Toyota,Avensis,Avensis III Wagon (facelift 2012),9.3 sec ,16.0
+Toyota,Avensis,Avensis III Wagon (facelift 2012),10 sec ,17.452
+Toyota,Avensis,Avensis III Wagon (facelift 2012),10.7 sec ,16.168
+Toyota,Avensis,Avensis III Wagon (facelift 2012),9.7 sec ,16.168
+Toyota,Avensis,Avensis III Wagon (facelift 2012),10.6 sec ,16.653
+Toyota,Yaris,Yaris III (facelift 2017),<6.5 sec ,13.301
+Toyota,Yaris,Yaris III (facelift 2017),11.8 sec ,16.224
+Toyota,Yaris,Yaris III (facelift 2017),11.2 sec ,not known
+Toyota,Yaris,Yaris III (facelift 2017),11 sec ,not known
+Toyota,Yaris,Yaris III (facelift 2017),15.3 sec ,not known
+Toyota,RAV4,RAV4 II (XA20) 3-door,10.8 sec ,15.225
+Toyota,RAV4,RAV4 II (XA20) 3-door,10.6 sec ,15.225
+Toyota,RAV4,RAV4 II (XA20) 3-door,12.1 sec ,17.012
+Toyota,RAV4,RAV4 II (XA20) 3-door,12.2 sec ,15.769
+Toyota,Avanza,Avanza II,16.601
+Toyota,Avanza,Avanza II,16.601
+Toyota,Avanza,Avanza II,17.211
+Toyota,Avanza,Avanza II,17.112
+Toyota,Camry,Camry V (XV30),14.502
+Toyota,Camry,Camry V (XV30),14.292
+Toyota,Camry,Camry V (XV30),15.035
+Toyota,Camry,Camry V (XV30),9.1 sec ,15.225
+Toyota,Camry,Camry V (XV30),15.828
+Toyota,Camry,Camry V (XV30),15.711
+Toyota,Camry,Camry V (XV30),10.5 sec ,15.943
+Toyota,Camry,Camry V (XV30),9.4 sec ,15.828
+Toyota,Corolla,Corolla IV (E70),not known
+Toyota,Corolla,Corolla IV (E70),not known
+Toyota,Corolla,Corolla IV (E70),not known
+Toyota,Corolla,Corolla IV (E70),not known
+Toyota,Soarer,Soarer III (facelift 1995),6.3 sec ,14.221
+Toyota,Soarer,Soarer III (facelift 1995),14.292
+Toyota,Soarer,Soarer III (facelift 1995),13.463
+Toyota,Soarer,Soarer III (facelift 1995),13.463
+Toyota,Sienna,Sienna,15.592
+Toyota,Sienna,Sienna,15.411
+Toyota,Hilux,Hilux Extra Cab VIII,13.2 sec ,17.734
+Toyota,Hilux,Hilux Extra Cab VIII,13.2 sec ,17.308
+Toyota,Corolla Spacio,Corolla Spacio I (E110),not known
+Toyota,Corolla Spacio,Corolla Spacio I (E110),not known
+Toyota,Corolla Spacio,Corolla Spacio I (E110),not known
+Toyota,Corolla Spacio,Corolla Spacio I (E110),not known
+Toyota,Innova,Innova I,16.441
+Toyota,Innova,Innova I,19.222
+Toyota,Innova,Innova I,19.222
+Toyota,Innova,Innova I,17.452
+Toyota,Innova,Innova I,17.452
+Toyota,4runner,4runner II,15.5 sec ,17.641
+Toyota,4runner,4runner II,15.3 sec ,17.962
+Toyota,4runner,4runner II,16 sec ,18.697
+Toyota,4runner,4runner II,22 sec ,20.371
+Toyota,4runner,4runner II,18.4 sec ,18.272
+Toyota,Mark II,Mark II (GX90),14.148
+Toyota,Mark II,Mark II (GX90),13.134
+Toyota,Mark II,Mark II (GX90),13.134
+Toyota,Mark II,Mark II (GX90),15.099
+Toyota,Mark II,Mark II (GX90),14.905
+Toyota,Mark II,Mark II (GX90),16.056
+Toyota,Mark II,Mark II (GX90),16.056
+Toyota,Mark II,Mark II (GX90),16.548
+Toyota,Camry,Camry VIII (XV70),13.218
+Toyota,Camry,Camry VIII (XV70),7.7 sec ,14.363
+Toyota,Camry,Camry VIII (XV70),14.639
+Toyota,Camry,Camry VIII (XV70),8.3 sec ,14.707
+Toyota,Camry,Camry VIII (XV70),14.905
+Toyota,Camry,Camry VIII (XV70),9.9 sec ,15.532
+Toyota,Camry,Camry VIII (XV70),11 sec ,16.601
+Toyota,Harrier,Harrier I (XU10),8.5 sec ,14.84
+Toyota,Harrier,Harrier I (XU10),12 sec ,16.279
+Toyota,Harrier,Harrier I (XU10),17.062
+Toyota,Sequoia,Sequoia II,6.7 sec ,14.639
+Toyota,Sequoia,Sequoia II,14.363
+Toyota,Sequoia,Sequoia II,16.333
+Toyota,Sequoia,Sequoia II,16.333
+Toyota,Sequoia,Sequoia II,15.592
+Toyota,Sequoia,Sequoia II,15.35
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 3-door,10.4 sec ,16.279
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 3-door,10.4 sec ,16.279
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 3-door,14 sec ,18.358
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 3-door,14 sec ,18.358
+Toyota,4runner,4runner V (facelift 2013),14.773
+Toyota,4runner,4runner V (facelift 2013),not known
+Toyota,Hilux,Hilux Extra Cab VII (facelift 2011),13.3 sec ,not known
+Toyota,RAV4,RAV4 EV II (QEA38),17.308
+Toyota,Ipsum,Ipsum (XM1),16.86
+Toyota,Ipsum,Ipsum (XM1),16.441
+Toyota,FJ Cruiser,FJ Cruiser,14.97
+Toyota,FJ Cruiser,FJ Cruiser,14.571
+Toyota,FJ Cruiser,FJ Cruiser,14.905
+Toyota,FJ Cruiser,FJ Cruiser,14.905
+Toyota,FJ Cruiser,FJ Cruiser,7.8 sec ,not known
+Toyota,FJ Cruiser,FJ Cruiser,7.8 sec ,not known
+Toyota,Tacoma,Tacoma III Access Cab,14.221
+Toyota,Tacoma,Tacoma III Access Cab,14.502
+Toyota,Tacoma,Tacoma III Access Cab,14.571
+Toyota,Tacoma,Tacoma III Access Cab,17.062
+Toyota,Tacoma,Tacoma III Access Cab,17.357
+Toyota,Tacoma,Tacoma III Access Cab,17.357
+Toyota,4runner,4runner IV,14.571
+Toyota,4runner,4runner IV,14.905
+Toyota,4runner,4runner IV,15.162
+Toyota,4runner,4runner IV,15.472
+Toyota,4runner,4runner IV,14.84
+Toyota,4runner,4runner IV,7.8 sec ,14.773
+Toyota,4runner,4runner IV,15.162
+Toyota,4runner,4runner IV,15.099
+Toyota,Mark X,Mark X,not known
+Toyota,Mark X,Mark X,not known
+Toyota,Porte,Porte I,not known
+Toyota,Porte,Porte I,not known
+Toyota,Corolla,Corolla Touring Sports XII (E210),8.1 sec ,15.225
+Toyota,Corolla,Corolla Touring Sports XII (E210),11.1 sec ,16.653
+Toyota,Corolla,Corolla Touring Sports XII (E210),9.6 sec ,17.012
+Toyota,Corsa,Corsa (L50),15.711
+Toyota,Corsa,Corsa (L50),17.594
+Toyota,Hilux,Hilux Double Cab VIII,12.8 sec ,18.272
+Toyota,Hilux,Hilux Double Cab VIII,13.2 sec ,18.272
+Toyota,Hilux,Hilux Double Cab VIII,13.2 sec ,17.826
+Toyota,Land Cruiser,Land Cruiser (J200),14.433
+Toyota,Land Cruiser,Land Cruiser (J200),9.2 sec ,15.711
+Toyota,Land Cruiser,Land Cruiser (J200),8.6 sec ,16.962
+Toyota,Opa,Opa,10 sec ,15.411
+Toyota,Opa,Opa,15.711
+Toyota,Opa,Opa,16.168
+Toyota,Harrier,"Harrier I (XU10, facelift 2000)",14.773
+Toyota,Harrier,"Harrier I (XU10, facelift 2000)",15.099
+Toyota,Harrier,"Harrier I (XU10, facelift 2000)",16.224
+Toyota,Harrier,"Harrier I (XU10, facelift 2000)",16.548
+Toyota,Harrier,"Harrier I (XU10, facelift 2000)",12.4 sec ,17.062
+Toyota,Harrier,"Harrier I (XU10, facelift 2000)",12.4 sec ,17.405
+Toyota,Corolla,"Corolla X (E140, E150)",10.3 sec ,16.962
+Toyota,Corolla,"Corolla X (E140, E150)",12.1 sec ,16.601
+Toyota,Corolla,"Corolla X (E140, E150)",10.4 sec ,16.601
+Toyota,Corolla,"Corolla X (E140, E150)",14.7 sec ,18.529
+Toyota,Corolla,"Corolla X (E140, E150)",12 sec ,18.529
+Toyota,Corolla,"Corolla X (E140, E150)",13.1 sec ,17.641
+Toyota,Wigo,Wigo (facelift 2020),17.308
+Toyota,Carina,Carina (T17),not known
+Toyota,Carina,Carina (T17),not known
+Toyota,Carina,Carina (T17),not known
+Toyota,Carina,Carina (T17),not known
+Toyota,Carina,Carina (T17),not known
+Toyota,Cressida,Cressida (RX3),not known
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 5-door,10.4 sec ,16.495
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 5-door,10.4 sec ,16.495
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 5-door,14 sec ,18.738
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 5-door,14 sec ,18.738
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 5-door,17.112
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J90) 5-door,17.112
+Toyota,Urban Cruiser,Urban Cruiser (2020),16.758
+Toyota,Urban Cruiser,Urban Cruiser (2020),16.653
+Toyota,Camry,Camry II (V20),9 sec ,14.97
+Toyota,Camry,Camry II (V20),14.4 sec ,18.272
+Toyota,Camry,Camry II (V20),14.4 sec ,18.529
+Toyota,Camry,Camry II (V20),10.1 sec ,16.86
+Toyota,Camry,Camry II (V20),9.6 sec ,15.652
+Toyota,Camry,Camry II (V20),9.4 sec ,16.333
+Toyota,Camry,Camry II (V20),12 sec ,17.594
+Toyota,Land Cruiser,Land Cruiser (J105),not known
+Toyota,Land Cruiser,Land Cruiser (J105),not known
+Toyota,Land Cruiser,Land Cruiser (J105),19.868
+Toyota,Brevis,Brevis,14.639
+Toyota,Brevis,Brevis,14.905
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 3-door",9.9 sec ,16.224
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 3-door",11.2 sec ,16.224
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 3-door",12.7 sec ,17.211
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 3-door",12.1 sec ,17.211
+Toyota,Yaris,Yaris Verso,11.2 sec ,16.387
+Toyota,Yaris,Yaris Verso,13.9 sec ,18.272
+Toyota,Yaris,Yaris Verso,13.9 sec ,17.5
+Toyota,Yaris,Yaris Verso,11.9 sec ,17.5
+Toyota,Corolla,"Corolla Touring Sports XII (E210, facelift 2022)",not known
+Toyota,Corolla,"Corolla Touring Sports XII (E210, facelift 2022)",not known
+Toyota,Tundra,Tundra II CrewMax (facelift 2013),14.148
+Toyota,Tundra,Tundra II CrewMax (facelift 2013),14.433
+Toyota,Tundra,Tundra II CrewMax (facelift 2013),15.035
+Toyota,Tundra,Tundra II CrewMax (facelift 2013),15.288
+Toyota,Corona,Corona EXiV,15.35
+Toyota,Corona,Corona EXiV,15.711
+Toyota,Corona,Corona EXiV,15.35
+Toyota,Corona,Corona EXiV,15.711
+Toyota,Corona,Corona EXiV,15.943
+Toyota,Corona,Corona EXiV,15.943
+Toyota,Corona,Corona EXiV,16.809
+Toyota,Corona,Corona EXiV,16.809
+Toyota,Curren,Curren (ST206),15.592
+Toyota,Curren,Curren (ST206),15.592
+Toyota,Curren,Curren (ST206),13.049
+Toyota,Curren,Curren (ST206),14.773
+Toyota,Alphard,Alphard III (facelift 2018),14.639
+Toyota,Alphard,Alphard III (facelift 2018),8.3 sec ,14.571
+Toyota,Alphard,Alphard III (facelift 2018),16.809
+Toyota,Alphard,Alphard III (facelift 2018),17.012
+Toyota,Alphard,Alphard III (facelift 2018),18.228
+Toyota,4runner,4runner V,14.773
+Toyota,4runner,4runner V,15.099
+Toyota,4runner,4runner V,17.547
+Toyota,Yaris,Yaris ATIV (XP150),not known
+Toyota,Alphard,Alphard IV,17.211
+Toyota,Alphard,Alphard IV,17.062
+Toyota,Alphard,Alphard IV,17.012
+Toyota,Alphard,Alphard IV,17.162
+Toyota,Corolla,Corolla I Station Wagon (E10),17.112
+Toyota,Corolla,Corolla XII (E210),11 sec ,16.706
+Toyota,Corolla,Corolla XII (E210),15.885
+Toyota,Corolla,Corolla XII (E210),16.224
+Toyota,Corolla,Corolla XII (E210),16.224
+Toyota,Corolla,Corolla XII (E210),10.2 sec ,16.441
+Toyota,Corolla,Corolla XII (E210),9.7 sec ,16.387
+Toyota,Corolla,Corolla XII (E210),12.1 sec ,16.441
+Toyota,Mark II,Mark II (JZX100),14.221
+Toyota,Mark II,Mark II (JZX100),12.964
+Toyota,Mark II,Mark II (JZX100),18.444
+Toyota,Mark II,Mark II (JZX100),18.444
+Toyota,Mark II,Mark II (JZX100),15.35
+Toyota,Mark II,Mark II (JZX100),15.35
+Toyota,Mark II,Mark II (JZX100),16.0
+Toyota,Mark II,Mark II (JZX100),16.0
+Toyota,Aygo,Aygo,16.8 sec ,19.3
+Toyota,Aygo,Aygo,14.9 sec ,17.26
+Toyota,Aygo,Aygo,14.2 sec ,17.26
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J125),9.5 sec ,14.571
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J125),16.279
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J125),11.2 sec ,16.758
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J125),11.5 sec ,16.706
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J125),12.7 sec ,16.962
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J125),11.2 sec ,16.911
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J125),11.5 sec ,16.911
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J125),17.308
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 5-door",15.35
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 5-door",15.769
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 5-door",15.652
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 5-door",15.472
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 5-door",10.8 sec ,15.885
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 5-door",10.6 sec ,15.769
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 5-door",12.1 sec ,17.594
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 5-door",12.2 sec ,16.333
+Toyota,Corolla,"Corolla IX (E120, E130)",10.9 sec ,16.706
+Toyota,Corolla,"Corolla IX (E120, E130)",12.6 sec ,18.184
+Toyota,Corolla,"Corolla IX (E120, E130)",10.8 sec ,16.387
+Toyota,Corolla,"Corolla IX (E120, E130)",10.2 sec ,16.387
+Toyota,Corolla,"Corolla IX (E120, E130)",12 sec ,17.012
+Toyota,Corolla,"Corolla IX (E120, E130)",14.5 sec ,17.871
+Toyota,Land Cruiser,Land Cruiser (J78),16.0
+Toyota,Land Cruiser,Land Cruiser (J78),19.222
+Toyota,Corolla,Corolla  Wagon VI (E90),not known
+Toyota,Corolla,Corolla  Wagon VI (E90),not known
+Toyota,Corolla,Corolla  Wagon VI (E90),16.962
+Toyota,Corolla,Corolla  Wagon VI (E90),not known
+Toyota,Corolla,Corolla  Wagon VI (E90),not known
+Toyota,Corolla,Corolla  Wagon VI (E90),not known
+Toyota,Celsior,Celsior II,13.699
+Toyota,Celsior,Celsior II,13.927
+Toyota,RAV4,"RAV4 I (XA10, facelift 1997) 5-door",16.387
+Toyota,RAV4,"RAV4 I (XA10, facelift 1997) 5-door",16.224
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 5-door,9.2 sec ,14.84
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 5-door,16.601
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 5-door,10.6 sec ,16.548
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 5-door,11.7 sec ,17.594
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 5-door,11.7 sec ,17.012
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 5-door,17.734
+Toyota,Verso-S,Verso-S II (facelift 2015),12.1 sec ,not known
+Toyota,Verso-S,Verso-S II (facelift 2015),13.7 sec ,not known
+Toyota,Verso-S,Verso-S II (facelift 2015),13.3 sec ,not known
+Toyota,Cresta,Cresta (GX100),not known
+Toyota,Cresta,Cresta (GX100),not known
+Toyota,Cresta,Cresta (GX100),not known
+Toyota,Avalon,Avalon III (facelift 2007),13.699
+Toyota,Corsa,Corsa Hatchback (L40),15.162
+Toyota,Corsa,Corsa Hatchback (L40),17.594
+Toyota,Corsa,Corsa Hatchback (L40),15.592
+Toyota,Corsa,Corsa Hatchback (L40),16.056
+Toyota,Aqua,Aqua I (facelift 2017),18.401
+Toyota,Aurion,Aurion,13.463
+Toyota,Tacoma,Tacoma II Access Cab (facelift 2012),15.099
+Toyota,Tacoma,Tacoma II Access Cab (facelift 2012),not known
+Toyota,Tacoma,Tacoma II Access Cab (facelift 2012),not known
+Toyota,Tacoma,Tacoma II Access Cab (facelift 2012),not known
+Toyota,Vista,Vista (V20),18.007
+Toyota,Vista,Vista (V20),18.007
+Toyota,Vista,Vista (V20),18.007
+Toyota,Vista,Vista (V20),18.007
+Toyota,Corolla,"Corolla XII (E210, facelift 2022) (USA)",15.099
+Toyota,Corolla,"Corolla XII (E210, facelift 2022) (USA)",16.112
+Toyota,Corolla,"Corolla XII (E210, facelift 2022) (USA)",not known
+Toyota,Crown,Crown XVI (S235),14.773
+Toyota,Crown,Crown XVI (S235),13.301
+Toyota,Corsa,Corsa (L40),15.162
+Toyota,Corsa,Corsa (L40),17.594
+Toyota,Corsa,Corsa (L40),15.592
+Toyota,Corsa,Corsa (L40),16.056
+Toyota,Calya,Calya,not known
+Toyota,Calya,Calya,not known
+Toyota,Corona,Corona Hatch (TT),not known
+Toyota,Crown,"Crown Royal X (S150, facelift 1997)",14.639
+Toyota,Crown,"Crown Royal X (S150, facelift 1997)",14.433
+Toyota,Crown,"Crown Royal X (S150, facelift 1997)",15.162
+Toyota,Crown,"Crown Royal X (S150, facelift 1997)",14.84
+Toyota,Crown,"Crown Royal X (S150, facelift 1997)",19.023
+Toyota,Crown,"Crown Royal X (S150, facelift 1997)",15.711
+Toyota,Crown,"Crown Royal X (S150, facelift 1997)",16.441
+Toyota,Blade,Blade,6.6 sec ,12.516
+Toyota,Blade,Blade,14.84
+Toyota,Corolla,"Corolla Hatch IX (E120, E130)",10.9 sec ,17.211
+Toyota,Corolla,"Corolla Hatch IX (E120, E130)",12.6 sec ,18.315
+Toyota,Corolla,"Corolla Hatch IX (E120, E130)",8.4 sec ,14.002
+Toyota,Corolla,"Corolla Hatch IX (E120, E130)",11.8 sec ,16.495
+Toyota,Corolla,"Corolla Hatch IX (E120, E130)",10.6 sec ,16.495
+Toyota,Corolla,"Corolla Hatch IX (E120, E130)",12 sec ,17.162
+Toyota,Corolla,"Corolla Hatch IX (E120, E130)",13.3 sec ,17.917
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",18.779
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",not known
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",18.779
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",not known
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",19.905
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",not known
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",not known
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",not known
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",not known
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",not known
+Toyota,Land Cruiser,"Land Cruiser (J70, J73)",not known
+Toyota,Tacoma,Tacoma III Double Cab Long,not known
+Toyota,Tacoma,Tacoma III Double Cab Long,not known
+Toyota,Tacoma,Tacoma III Double Cab Long,not known
+Toyota,Tacoma,Tacoma III Double Cab Long,not known
+Toyota,Tacoma,Tacoma III Double Cab Long (facelift 2020),14.433
+Toyota,Tacoma,Tacoma III Double Cab Long (facelift 2020),14.707
+Toyota,Sera,Sera (Y10),15.35
+Toyota,Sera,Sera (Y10),15.35
+Toyota,Camry,Camry Solara I Convertible (Mark V),15.099
+Toyota,Camry,Camry Solara I Convertible (Mark V),17.012
+Toyota,Belta,Belta,not known
+Toyota,Belta,Belta,not known
+Toyota,Belta,Belta,not known
+Toyota,Belta,Belta,not known
+Toyota,Belta,Belta,13 sec ,not known
+Toyota,Belta,Belta,13 sec ,not known
+Toyota,Corona,"Corona (RX,RT)",not known
+Toyota,Corona,"Corona (RX,RT)",not known
+Toyota,Corona,"Corona (RX,RT)",not known
+Toyota,Corona,"Corona (RX,RT)",not known
+Toyota,Tercel,Tercel (EL41),15.099
+Toyota,Tercel,Tercel (EL41),15.099
+Toyota,Tercel,Tercel (EL41),15.652
+Toyota,Tercel,Tercel (EL41),15.652
+Toyota,Tercel,Tercel (EL41),15.472
+Toyota,Tercel,Tercel (EL41),15.472
+Toyota,Aqua,Aqua II (XP210),16.495
+Toyota,Aqua,Aqua II (XP210),15.943
+Toyota,Highlander,Highlander III (facelift 2016),14.292
+Toyota,Highlander,Highlander III (facelift 2016),14.502
+Toyota,Highlander,Highlander III (facelift 2016),8.8 sec ,15.472
+Toyota,Highlander,Highlander III (facelift 2016),16.387
+Toyota,Starlet,Starlet IV,14.5 sec ,18.444
+Toyota,Starlet,Starlet IV,13.852
+Toyota,Starlet,Starlet IV,13.852
+Toyota,Starlet,Starlet IV,14.97
+Toyota,Starlet,Starlet IV,14.97
+Toyota,Starlet,Starlet IV,10.3 sec ,15.943
+Toyota,Starlet,Starlet IV,10.3 sec ,15.943
+Toyota,Starlet,Starlet IV,15.592
+Toyota,Starlet,Starlet IV,15.592
+Toyota,Camry,"Camry VI (XV40, facelift 2009)",13.699
+Toyota,Camry,"Camry VI (XV40, facelift 2009)",15.411
+Toyota,Camry,"Camry VI (XV40, facelift 2009)",15.652
+Toyota,Camry,"Camry VI (XV40, facelift 2009)",15.711
+Toyota,Sprinter,Sprinter Carib,15.592
+Toyota,Sprinter,Sprinter Carib,15.592
+Toyota,Sprinter,Sprinter Carib,not known
+Toyota,Sprinter,Sprinter Carib,not known
+Toyota,Sprinter,Sprinter Carib,16.809
+Toyota,Sprinter,Sprinter Carib,16.279
+Toyota,Sprinter,Sprinter Carib,16.809
+Toyota,Cynos,Cynos (EL52),15.411
+Toyota,Cynos,Cynos (EL52),15.411
+Toyota,Cynos,Cynos (EL52),16.279
+Toyota,Cynos,Cynos (EL52),16.279
+Toyota,Cressida,Cressida  Wagon (RX3),not known
+Toyota,Corolla,Corolla Levin,15.943
+Toyota,Corolla,Corolla Levin,15.943
+Toyota,Corolla,Corolla Levin,15.711
+Toyota,Corolla,Corolla Levin,15.711
+Toyota,Corolla,Corolla Levin,16.168
+Toyota,Corolla,Corolla Levin,16.168
+Toyota,Corolla,Corolla Levin,16.224
+Toyota,Corolla,Corolla Levin,16.224
+Toyota,Prius,Prius+ (facelift 2015),11.3 sec ,17.162
+Toyota,Corolla,Corolla V (E80),not known
+Toyota,Corolla,Corolla V (E80),not known
+Toyota,Corolla,Corolla V (E80),not known
+Toyota,Corolla,Corolla V (E80),not known
+Toyota,Corolla,Corolla V (E80),not known
+Toyota,Corolla,Corolla V (E80),not known
+Toyota,Corolla,Corolla V (E80),not known
+Toyota,Hilux,Hilux Extra Cab VII (facelift 2008),12.5 sec ,17.871
+Toyota,Proace,Proace,10.5 sec ,17.012
+Toyota,Proace,Proace,10.5 sec ,16.911
+Toyota,Proace,Proace,10.8 sec ,16.962
+Toyota,Proace,Proace,12.2 sec ,18.272
+Toyota,Proace,Proace,13 sec ,18.272
+Toyota,Proace,Proace,12.2 sec ,18.184
+Toyota,Proace,Proace,16.5 sec ,20.405
+Toyota,Proace,Proace,16.5 sec ,20.335
+Toyota,Corolla,Corolla XII (E210) (USA),15.35
+Toyota,Corolla,Corolla XII (E210) (USA),15.288
+Toyota,Corolla,Corolla XII (E210) (USA),16.056
+Toyota,Corolla,Corolla XII (E210) (USA),17.062
+Toyota,C-HR,C-HR I (facelift 2020),8.2 sec ,15.225
+Toyota,C-HR,C-HR I (facelift 2020),10.9 sec ,16.112
+Toyota,C-HR,C-HR I (facelift 2020),11 sec ,17.162
+Toyota,C-HR,C-HR I (facelift 2020),10.8 sec ,17.357
+Toyota,C-HR,C-HR I (facelift 2020),11.4 sec ,17.357
+Toyota,C-HR,C-HR I (facelift 2020),10.9 sec ,17.308
+Toyota,Sienta,Sienta II (facelift 2018),17.405
+Toyota,Sienta,Sienta II (facelift 2018),18.007
+Toyota,Sienta,Sienta II (facelift 2018),18.14
+Toyota,Tacoma,Tacoma II Single Cab,not known
+Toyota,Tacoma,Tacoma II Single Cab,not known
+Toyota,Tacoma,Tacoma II Single Cab,not known
+Toyota,Tacoma,Tacoma II Single Cab,not known
+Toyota,Tacoma,Tacoma II Single Cab,15.885
+Toyota,Tacoma,Tacoma II Single Cab,16.495
+Toyota,Tacoma,Tacoma II Single Cab,15.828
+Toyota,Land Cruiser,Land Cruiser (J80),12.6 sec ,16.601
+Toyota,Land Cruiser,Land Cruiser (J80),12 sec ,17.688
+Toyota,Land Cruiser,Land Cruiser (J80),12.7 sec ,17.78
+Toyota,Land Cruiser,Land Cruiser (J80),16.8 sec ,18.272
+Toyota,Land Cruiser,Land Cruiser (J80),16 sec ,18.14
+Toyota,Land Cruiser,Land Cruiser (J80),19.378
+Toyota,Land Cruiser,Land Cruiser (J80),18.444
+Toyota,Aygo,Aygo II (facelift 2018),15.2 sec ,17.308
+Toyota,Aygo,Aygo II (facelift 2018),13.8 sec ,17.308
+Toyota,Mark II,Mark II (JZX110),14.502
+Toyota,Mark II,Mark II (JZX110),13.463
+Toyota,Mark II,Mark II (JZX110),14.707
+Toyota,Mark II,Mark II (JZX110),15.532
+Toyota,Crown,Crown Wagon XI (S170),14.84
+Toyota,Crown,Crown Wagon XI (S170),15.411
+Toyota,Crown,Crown Wagon XI (S170),13.776
+Toyota,Crown,Crown Wagon XI (S170),15.225
+Toyota,Crown,Crown Wagon XI (S170),not known
+Toyota,Sprinter,Sprinter,not known
+Toyota,Sprinter,Sprinter,not known
+Toyota,Sprinter,Sprinter,not known
+Toyota,Crown,Crown Athlete XIII (S200),13.134
+Toyota,Crown,Crown Athlete XIII (S200),12.699
+Toyota,Crown,Crown Athlete XIII (S200),14.773
+Toyota,Crown,Crown Athlete XIII (S200),15.099
+Toyota,Hiace,Hiace Regius,not known
+Toyota,Hiace,Hiace Regius,not known
+Toyota,Alphard,Alphard III,not known
+Toyota,Alphard,Alphard III,not known
+Toyota,Hilux,Hilux Single Cab VIII (facelift 2020),13.2 sec ,17.357
+Toyota,Hilux,Hilux Single Cab VIII (facelift 2020),13.2 sec ,17.012
+Toyota,Corolla Verso,"Corolla Verso II (AR10, facelift 2007)",8.7 sec ,15.592
+Toyota,Corolla Verso,"Corolla Verso II (AR10, facelift 2007)",10.1 sec ,16.495
+Toyota,Corolla Verso,"Corolla Verso II (AR10, facelift 2007)",11.3 sec ,17.452
+Toyota,Corolla Verso,"Corolla Verso II (AR10, facelift 2007)",10.4 sec ,not known
+Toyota,Corolla Verso,"Corolla Verso II (AR10, facelift 2007)",10.4 sec ,not known
+Toyota,Corolla Verso,"Corolla Verso II (AR10, facelift 2007)",11.7 sec ,not known
+Toyota,Raum,Raum,16.809
+Toyota,Raum,Raum,17.012
+Toyota,Raum,Raum,17.162
+Toyota,Raum,Raum,17.871
+Toyota,Crown,Crown Athlete XIV (S210),14.97
+Toyota,Crown,Crown Athlete XIV (S210),15.35
+Toyota,Crown,Crown Athlete XIV (S210),16.224
+Toyota,Crown,Crown Athlete XIV (S210),15.885
+Toyota,Crown Majesta,Crown Majesta IV (S180),13.776
+Toyota,Crown Majesta,Crown Majesta IV (S180),14.002
+Toyota,Starlet,Starlet V,11.2 sec ,17.405
+Toyota,Starlet,Starlet V,11.2 sec ,17.405
+Toyota,Altezza,Altezza,14.075
+Toyota,Altezza,Altezza,9.5 sec ,14.363
+Toyota,Altezza,Altezza,15.35
+Toyota,Altezza,Altezza,15.411
+Toyota,Soarer,Soarer III,14.292
+Toyota,Soarer,Soarer III,13.463
+Toyota,Soarer,Soarer III,13.463
+Toyota,Regius,Regius Ace,19.063
+Toyota,Regius,Regius Ace,16.86
+Toyota,Regius,Regius Ace,17.405
+Toyota,Regius,Regius Ace,17.917
+Toyota,Sprinter,Sprinter Marino,13.927
+Toyota,Sprinter,Sprinter Marino,13.927
+Toyota,Sprinter,Sprinter Marino,15.769
+Toyota,Sprinter,Sprinter Marino,15.769
+Toyota,Sprinter,Sprinter Marino,16.224
+Toyota,Sprinter,Sprinter Marino,16.224
+Toyota,Auris,Auris II (facelift 2015),10.9 sec ,16.441
+Toyota,Auris,Auris II (facelift 2015),10.5 sec ,17.452
+Toyota,Auris,Auris II (facelift 2015),12.5 sec ,18.358
+Toyota,Auris,Auris II (facelift 2015),12.6 sec ,17.547
+Toyota,Auris,Auris II (facelift 2015),10.5 sec ,16.548
+Toyota,Auris,Auris II (facelift 2015),10.1 sec ,16.809
+Toyota,Land Cruiser,"Land Cruiser (J100, facelift 2002)",11.1 sec ,16.056
+Toyota,Land Cruiser,"Land Cruiser (J100, facelift 2002)",11.2 sec ,16.548
+Toyota,Land Cruiser,"Land Cruiser (J100, facelift 2002)",11.5 sec ,17.405
+Toyota,Land Cruiser,"Land Cruiser (J100, facelift 2002)",13.6 sec ,17.357
+Toyota,Verso,Verso,8.7 sec ,not known
+Toyota,Verso,Verso,8.7 sec ,not known
+Toyota,Verso,Verso,10.1 sec ,not known
+Toyota,Verso,Verso,10.1 sec ,not known
+Toyota,Verso,Verso,11.3 sec ,not known
+Toyota,Verso,Verso,11.3 sec ,not known
+Toyota,Verso,Verso,11.1 sec ,not known
+Toyota,Verso,Verso,11.1 sec ,not known
+Toyota,Verso,Verso,10.4 sec ,not known
+Toyota,Verso,Verso,10.4 sec ,not known
+Toyota,Verso,Verso,11.7 sec ,not known
+Toyota,Verso,Verso,11.7 sec ,not known
+Toyota,Celica,Celica (T18),15.532
+Toyota,Celica,Celica (T18),15.532
+Toyota,Celica,Celica (T18),7.8 sec ,14.363
+Toyota,Celica,Celica (T18),8.3 sec ,14.97
+Toyota,Celica,Celica (T18),16.548
+Toyota,Celica,Celica (T18),16.548
+Toyota,Celica,Celica (T18),11 sec ,17.062
+Toyota,Celica,Celica (T18),11 sec ,17.062
+Toyota,RAV4,"RAV4 III (XA30, facelift 2008)",9.3 sec ,16.056
+Toyota,RAV4,"RAV4 III (XA30, facelift 2008)",10.2 sec ,16.911
+Toyota,RAV4,"RAV4 III (XA30, facelift 2008)",10.2 sec ,16.758
+Toyota,RAV4,"RAV4 III (XA30, facelift 2008)",10.5 sec ,16.224
+Toyota,RAV4,"RAV4 III (XA30, facelift 2008)",10.2 sec ,16.056
+Toyota,Sequoia,Sequoia I,12.8 sec ,16.056
+Toyota,Sequoia,Sequoia I,16.056
+Toyota,Corolla,Corolla VIII (E110),14.4 sec ,19.103
+Toyota,Corolla,Corolla VIII (E110),10.2 sec ,16.224
+Toyota,Corolla,Corolla VIII (E110),12.5 sec ,17.452
+Toyota,Rush,Rush,16.809
+Toyota,Rush,Rush,16.758
+Toyota,Rush,Rush,16.653
+Toyota,C+pod,C+pod,28.206
+Toyota,Celica,Celica (T23),7.4 sec ,14.002
+Toyota,Celica,Celica (T23),7.4 sec ,14.002
+Toyota,Celica,Celica (T23),8.7 sec ,14.84
+Toyota,Celica,Celica (T23),8.7 sec ,14.84
+Toyota,Celica,Celica (T23),7.5 sec ,14.148
+Toyota,Crown,"Crown Athlete XIV (S210, facelift 2016)",13.134
+Toyota,Crown,"Crown Athlete XIV (S210, facelift 2016)",15.288
+Toyota,Crown,"Crown Athlete XIV (S210, facelift 2016)",16.224
+Toyota,Crown,"Crown Athlete XIV (S210, facelift 2016)",15.943
+Toyota,Crown,"Crown Athlete XIV (S210, facelift 2016)",14.433
+Toyota,Corolla,Corolla FX Compact V (E80),not known
+Toyota,Corolla,Corolla FX Compact V (E80),not known
+Toyota,Corolla,Corolla FX Compact V (E80),not known
+Toyota,Corolla,Corolla FX Compact V (E80),14.1 sec ,17.062
+Toyota,RAV4,RAV4 EV I (BEA11) 5-door,21.434
+Toyota,Frontlander,Frontlander,15.288
+Toyota,Wish,Wish II,15.592
+Toyota,Wish,Wish II,15.943
+Toyota,Wish,Wish II,16.758
+Toyota,Corolla,Corolla Runx,15.162
+Toyota,Corolla,Corolla Runx,15.162
+Toyota,Corolla,Corolla Runx,16.279
+Toyota,Corolla,Corolla Runx,16.279
+Toyota,Passo,Passo,16.653
+Toyota,Passo,Passo,16.653
+Toyota,Passo,Passo,17.962
+Toyota,Passo,Passo,17.962
+Toyota,Avalon,Avalon IV,13.699
+Toyota,Avalon,Avalon IV,15.162
+Toyota,Granvia,Granvia,not known
+Toyota,Mark II,Mark II Wagon Blit,13.621
+Toyota,Mark II,Mark II Wagon Blit,15.162
+Toyota,Avensis,Avensis II Wagon,9.1 sec ,15.411
+Toyota,Avensis,Avensis II Wagon,8.6 sec ,15.592
+Toyota,Avensis,Avensis II Wagon,9.3 sec ,not known
+Toyota,Avensis,Avensis II Wagon,11.3 sec ,15.885
+Toyota,Avensis,Avensis II Wagon,9.6 sec ,15.885
+Toyota,Avensis,Avensis II Wagon,11.4 sec ,17.5
+Toyota,Avensis,Avensis II Wagon,11.8 sec ,16.333
+Toyota,Avensis,Avensis II Wagon,10.5 sec ,16.333
+Toyota,Avensis,Avensis II Wagon,12.2 sec ,17.26
+Toyota,4runner,4runner IV (facelift 2005),14.773
+Toyota,4runner,4runner IV (facelift 2005),15.099
+Toyota,4runner,4runner IV (facelift 2005),15.035
+Toyota,4runner,4runner IV (facelift 2005),15.35
+Toyota,Venza,"Venza I (AV10, facelift 2012)",14.148
+Toyota,Venza,"Venza I (AV10, facelift 2012)",14.363
+Toyota,Venza,"Venza I (AV10, facelift 2012)",16.0
+Toyota,Venza,"Venza I (AV10, facelift 2012)",16.279
+Toyota,Progres,Progres,14.571
+Toyota,Progres,Progres,14.905
+Toyota,Corolla,Corolla Fielder XI (facelift 2017),15.288
+Toyota,Corolla,Corolla Fielder XI (facelift 2017),16.548
+Toyota,Corolla,Corolla Fielder XI (facelift 2017),16.441
+Toyota,Corolla,Corolla Fielder XI (facelift 2017),17.162
+Toyota,Corolla,Corolla Fielder XI (facelift 2017),17.211
+Toyota,Harrier,Harrier II (XU30),8 sec ,14.148
+Toyota,Harrier,Harrier II (XU30),7.8 sec ,14.221
+Toyota,Harrier,Harrier II (XU30),7.3 sec ,14.571
+Toyota,Harrier,Harrier II (XU30),14.905
+Toyota,Harrier,Harrier II (XU30),15.35
+Toyota,Harrier,Harrier II (XU30),16.333
+Toyota,Harrier,Harrier II (XU30),16.706
+Toyota,Porte,Porte II,16.706
+Toyota,Porte,Porte II,17.308
+Toyota,Corolla,Corolla Coupe V (E80),9.2 sec ,15.035
+Toyota,Corolla,Corolla Coupe V (E80),9.2 sec ,14.97
+Toyota,Corolla,Corolla Coupe V (E80),15.288
+Toyota,Century,Century I (VG45),17.012
+Toyota,Prius,Prius IV (XW50),10.6 sec ,17.012
+Toyota,Prius,Prius IV (XW50),11.1 sec ,17.594
+Toyota,4runner,4runner III,10.1 sec ,15.592
+Toyota,4runner,4runner III,10.1 sec ,16.112
+Toyota,4runner,4runner III,16.056
+Toyota,4runner,4runner III,18.184
+Toyota,4runner,4runner III,14.7 sec ,18.184
+Toyota,4runner,4runner III,16.387
+Toyota,4runner,4runner III,17.012
+Toyota,4runner,4runner III,12.5 sec ,16.962
+Toyota,4runner,4runner III,13 sec ,16.387
+Toyota,Corolla,Corolla Fielder XI,15.35
+Toyota,Corolla,Corolla Fielder XI,16.601
+Toyota,Corolla,Corolla Fielder XI,16.495
+Toyota,Corolla,Corolla Fielder XI,17.211
+Toyota,Camry,"Camry Solara I Convertible (Mark V, facelift 2001)",15.099
+Toyota,Camry,"Camry Solara I Convertible (Mark V, facelift 2001)",15.162
+Toyota,Regius,Regius,not known
+Toyota,Regius,Regius,not known
+Toyota,Allion,Allion,15.288
+Toyota,Allion,Allion,15.711
+Toyota,Allion,Allion,16.441
+Toyota,Allion,Allion,10.5 sec ,16.601
+Toyota,Yaris,Yaris II,9.3 sec ,15.711
+Toyota,Yaris,Yaris II,10.7 sec ,16.809
+Toyota,Yaris,Yaris II,11.7 sec ,not known
+Toyota,Yaris,Yaris II,13.1 sec ,17.162
+Toyota,Yaris,Yaris II,11.5 sec ,17.162
+Toyota,Yaris,Yaris II,15.7 sec ,18.358
+Toyota,Highlander,Highlander II,8.2 sec ,14.221
+Toyota,Highlander,Highlander II,8.2 sec ,14.905
+Toyota,Highlander,Highlander II,8.2 sec ,14.707
+Toyota,Highlander,Highlander II,8.4 sec ,14.905
+Toyota,Highlander,Highlander II,9.8 sec ,15.532
+Toyota,Corolla,Corolla II Coupe (E20),16.279
+Toyota,Corolla,Corolla II Coupe (E20),16.962
+Toyota,Corolla,Corolla II Coupe (E20),16.86
+Toyota,Camry,"Camry V (XV30, facelift 2005)",14.502
+Toyota,Camry,"Camry V (XV30, facelift 2005)",14.84
+Toyota,Camry,"Camry V (XV30, facelift 2005)",14.639
+Toyota,Camry,"Camry V (XV30, facelift 2005)",15.162
+Toyota,Camry,"Camry V (XV30, facelift 2005)",15.769
+Toyota,Camry,"Camry V (XV30, facelift 2005)",15.652
+Toyota,Camry,"Camry V (XV30, facelift 2005)",15.943
+Toyota,Camry,"Camry V (XV30, facelift 2005)",15.885
+Toyota,Harrier,Harrier III (XU60),15.711
+Toyota,Harrier,Harrier III (XU60),16.495
+Toyota,Harrier,Harrier III (XU60),16.495
+Toyota,Supra,Supra IV (A80),5.1 sec ,12.788
+Toyota,Supra,Supra IV (A80),5.1 sec ,12.788
+Toyota,Supra,Supra IV (A80),5.1 sec ,13.301
+Toyota,Supra,Supra IV (A80),5.1 sec ,13.301
+Toyota,Supra,Supra IV (A80),14.002
+Toyota,Supra,Supra IV (A80),14.002
+Toyota,Crown,"Crown Royal XII (S180, facelift 2005)",13.927
+Toyota,Crown,"Crown Royal XII (S180, facelift 2005)",14.075
+Toyota,Crown,"Crown Royal XII (S180, facelift 2005)",14.639
+Toyota,Crown,"Crown Royal XII (S180, facelift 2005)",14.905
+Toyota,Land Cruiser,Land Cruiser (J60) Wagon,19.143
+Toyota,Land Cruiser,Land Cruiser (J60) Wagon,18.902
+Toyota,Land Cruiser,Land Cruiser (J60) Wagon,20.405
+Toyota,Land Cruiser,Land Cruiser (J60) Wagon,20.544
+Toyota,Land Cruiser,Land Cruiser (J60) Wagon,17.826
+Toyota,Land Cruiser,Land Cruiser (J60) Wagon,18.14
+Toyota,Land Cruiser,Land Cruiser (J60) Wagon,17.871
+Toyota,Tacoma,Tacoma II Double Cab (facelift 2012),15.162
+Toyota,Tacoma,Tacoma II Double Cab (facelift 2012),15.162
+Toyota,Tacoma,Tacoma II Double Cab (facelift 2012),not known
+Toyota,Tacoma,Tacoma II Double Cab (facelift 2012),not known
+Toyota,Cynos,Cynos (EL54),15.411
+Toyota,Cynos,Cynos (EL54),15.411
+Toyota,Cynos,Cynos (EL54),16.279
+Toyota,Cynos,Cynos (EL54),16.279
+Toyota,Corolla,Corolla VII (E100),14.1 sec ,18.444
+Toyota,Corolla,Corolla VII (E100),14.1 sec ,18.444
+Toyota,Corolla,Corolla VII (E100),12 sec ,15.652
+Toyota,Corolla,Corolla VII (E100),10 sec ,15.652
+Toyota,Corolla,Corolla VII (E100),11.5 sec ,17.062
+Toyota,Corolla,Corolla VII (E100),12.8 sec ,17.78
+Toyota,Corolla,Corolla VII (E100),12.8 sec ,17.78
+Toyota,Previa,Previa (CR),16.441
+Toyota,Previa,Previa (CR),13.3 sec ,17.826
+Toyota,Previa,Previa (CR),11.5 sec ,17.641
+Toyota,Previa,Previa (CR),19.569
+Toyota,Previa,Previa (CR),18.14
+Toyota,Hilux,Hilux Single Cab VII (facelift 2011),13.3 sec ,not known
+Toyota,Hilux,Hilux Single Cab VII (facelift 2011),14.1 sec ,not known
+Toyota,Wish,Wish I,15.652
+Toyota,Wish,Wish I,16.224
+Toyota,Wish,Wish I,16.962
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2013)",14.433
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2013)",8.6 sec ,15.099
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2013)",8.9 sec ,15.885
+Toyota,Avensis Verso,Avensis Verso,12.5 sec ,18.184
+Toyota,Avensis Verso,Avensis Verso,12.1 sec ,16.333
+Toyota,Avensis Verso,Avensis Verso,11.4 sec ,16.333
+Toyota,Ist,Ist,15.828
+Toyota,Ist,Ist,15.828
+Toyota,Ist,Ist,16.056
+Toyota,Ist,Ist,16.056
+Toyota,Ist,Ist,17.062
+Toyota,Ist,Ist,17.062
+Toyota,Gaia,Gaia (M10G),15.943
+Toyota,Gaia,Gaia (M10G),16.495
+Toyota,Gaia,Gaia (M10G),16.962
+Toyota,Succeed,Succeed,16.0
+Toyota,Tacoma,Tacoma II Access Cab,14.97
+Toyota,Tacoma,Tacoma II Access Cab,14.905
+Toyota,Tacoma,Tacoma II Access Cab,16.333
+Toyota,Tacoma,Tacoma II Access Cab,16.911
+Toyota,RAV4,RAV4 I (XA10) 3-door,15.225
+Toyota,RAV4,RAV4 I (XA10) 3-door,16.0
+Toyota,RAV4,RAV4 I (XA10) 3-door,15.828
+Toyota,Tundra,Tundra II Regular Cab Long Bed (facelift 2013),13.852
+Toyota,Tundra,Tundra II Regular Cab Long Bed (facelift 2013),14.075
+Toyota,Tundra,Tundra II Regular Cab Long Bed (facelift 2013),15.162
+Toyota,Funcargo,Funcargo,11.2 sec ,16.387
+Toyota,Funcargo,Funcargo,13.9 sec ,17.5
+Toyota,Funcargo,Funcargo,11.9 sec ,17.5
+Toyota,Tundra,Tundra II Regular Cab Long Bed,13.776
+Toyota,Tundra,Tundra II Regular Cab Long Bed,14.002
+Toyota,Tundra,Tundra II Regular Cab Long Bed,15.35
+Toyota,Tundra,Tundra II Regular Cab Long Bed,15.592
+Toyota,Tundra,Tundra II Regular Cab Long Bed,15.828
+Toyota,Auris,Auris II,10 sec ,17.012
+Toyota,Auris,Auris II,10.9 sec ,16.333
+Toyota,Auris,Auris II,11.1 sec ,16.168
+Toyota,Auris,Auris II,10 sec ,16.112
+Toyota,Auris,Auris II,14.7 sec ,18.358
+Toyota,Auris,Auris II,12.5 sec ,18.315
+Toyota,Auris,Auris II,12.6 sec ,17.452
+Toyota,Avensis,Avensis II,9.1 sec ,15.411
+Toyota,Avensis,Avensis II,8.6 sec ,not known
+Toyota,Avensis,Avensis II,9.3 sec ,not known
+Toyota,Avensis,Avensis II,9.4 sec ,15.769
+Toyota,Avensis,Avensis II,11.1 sec ,15.769
+Toyota,Avensis,Avensis II,11.2 sec ,17.308
+Toyota,Avensis,Avensis II,10.3 sec ,16.224
+Toyota,Avensis,Avensis II,11.6 sec ,16.224
+Toyota,Avensis,Avensis II,12 sec ,17.012
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2015)",16.387
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2015)",16.387
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2015)",16.168
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2015)",14.433
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2015)",8.6 sec ,15.411
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2015)",15.711
+Toyota,Land Cruiser,"Land Cruiser (J200, facelift 2015)",15.711
+Toyota,Tundra,Tundra II Double Cab Long Bed (facelift 2010),14.075
+Toyota,Tundra,Tundra II Double Cab Long Bed (facelift 2010),14.292
+Toyota,Tundra,Tundra II Double Cab Long Bed (facelift 2010),14.97
+Toyota,Tundra,Tundra II Double Cab Long Bed (facelift 2010),15.099
+Toyota,86,86 II,13.382
+Toyota,86,86 II,13.301
+Toyota,Crown,Crown Royal XII (S180),13.927
+Toyota,Crown,Crown Royal XII (S180),14.075
+Toyota,Crown,Crown Royal XII (S180),14.639
+Toyota,Crown,Crown Royal XII (S180),14.84
+Toyota,Fortuner,Fortuner I (facelift 2011),not known
+Toyota,Fortuner,Fortuner I (facelift 2011),17.112
+Toyota,Fortuner,Fortuner I (facelift 2011),not known
+Toyota,Corolla Cross,Corolla Cross,8.1 sec ,not known
+Toyota,Corolla Cross,Corolla Cross,15.411
+Toyota,Corolla Cross,Corolla Cross,15.652
+Toyota,Corolla Cross,Corolla Cross,8.1 sec ,not known
+Toyota,Corolla Cross,Corolla Cross,not known
+Toyota,Corolla Cross,Corolla Cross,9.9 sec ,16.387
+Toyota,Corolla Cross,Corolla Cross,not known
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 3-door",16.168
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 3-door",16.168
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 3-door",17.641
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 3-door",17.641
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 3-door",12.5 sec ,17.012
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 3-door",17.162
+Toyota,Avalon,Avalon,14.773
+Toyota,Crown,Crown Wagon (GS130),15.35
+Toyota,Crown,Crown Wagon (GS130),18.902
+Toyota,Crown,Crown Wagon (GS130),16.911
+Toyota,Supra,Celica Supra I (A40/A50),16.962
+Toyota,C-HR,C-HR I,16.548
+Toyota,C-HR,C-HR I,11 sec ,17.012
+Toyota,C-HR,C-HR I,11.1 sec ,17.357
+Toyota,C-HR,C-HR I,11.4 sec ,17.641
+Toyota,C-HR,C-HR I,10.9 sec ,17.308
+Toyota,Izoa,Izoa (facelift 2020),15.592
+Toyota,Izoa,Izoa (facelift 2020),10.1 sec ,15.472
+Toyota,Auris,Auris II Touring Sports,10.5 sec ,16.758
+Toyota,Auris,Auris II Touring Sports,11.2 sec ,16.224
+Toyota,Auris,Auris II Touring Sports,10.5 sec ,15.828
+Toyota,Auris,Auris II Touring Sports,13 sec ,18.096
+Toyota,Auris,Auris II Touring Sports,13.2 sec ,17.26
+Toyota,Corolla,"Corolla XII (E210, facelift 2022)",9.3 sec ,16.112
+Toyota,Corolla,"Corolla XII (E210, facelift 2022)",11.5 sec ,16.112
+Toyota,Corolla,"Corolla XII (E210, facelift 2022)",11.6 sec ,16.706
+Toyota,Probox,Probox,16.0
+Toyota,Probox,Probox,16.224
+Toyota,Probox,Probox,18.14
+Toyota,Probox,Probox,17.211
+Toyota,Tundra,Tundra II Double Cab Long Bed (facelift 2017),14.002
+Toyota,Tundra,Tundra II Double Cab Long Bed (facelift 2017),14.292
+Toyota,Crown,"Crown Royal XI (S170, facelift 2001)",14.773
+Toyota,Crown,"Crown Royal XI (S170, facelift 2001)",14.639
+Toyota,Crown,"Crown Royal XI (S170, facelift 2001)",15.35
+Toyota,Crown,"Crown Royal XI (S170, facelift 2001)",15.225
+Toyota,Crown,"Crown Royal XI (S170, facelift 2001)",14.905
+Toyota,Crown,"Crown Royal XI (S170, facelift 2001)",15.885
+Toyota,Venza,Venza I (AV10),14.363
+Toyota,Venza,Venza I (AV10),14.363
+Toyota,Venza,Venza I (AV10),14.363
+Toyota,Venza,Venza I (AV10),14.363
+Toyota,Venza,Venza I (AV10),not known
+Toyota,Venza,Venza I (AV10),not known
+Toyota,Venza,Venza I (AV10),not known
+Toyota,Venza,Venza I (AV10),not known
+Toyota,Paseo,Paseo (L5),10.9 sec ,16.911
+Toyota,Mark II,Mark II Wagon (GX70),16.056
+Toyota,Mark II,Mark II Wagon (GX70),16.056
+Toyota,Hilux,Hilux Single Cab VIII (facelift 2017),16.387
+Toyota,Hilux,Hilux Single Cab VIII (facelift 2017),16.387
+Toyota,Hilux,Hilux Single Cab VIII (facelift 2017),15.769
+Toyota,Hilux,Hilux Single Cab VIII (facelift 2017),15.711
+Toyota,Hilux,Hilux Single Cab VIII (facelift 2017),17.26
+Toyota,Hilux,Hilux Single Cab VIII (facelift 2017),16.601
+Toyota,Crown,Crown Wagon (S1),not known
+Toyota,Crown,"Crown Athlete XII (S180, facelift 2005)",13.049
+Toyota,Crown,"Crown Athlete XII (S180, facelift 2005)",14.707
+Toyota,Crown,"Crown Athlete XII (S180, facelift 2005)",14.905
+Toyota,Crown,Crown Royal XIII (S200),14.002
+Toyota,Crown,Crown Royal XIII (S200),14.221
+Toyota,Crown,Crown Royal XIII (S200),14.773
+Toyota,Crown,Crown Royal XIII (S200),15.035
+Toyota,Auris,Auris (facelift 2010),8.1 sec ,15.225
+Toyota,Auris,Auris (facelift 2010),10.3 sec ,16.86
+Toyota,Auris,Auris (facelift 2010),11.9 sec ,18.358
+Toyota,Auris,Auris (facelift 2010),11.4 sec ,16.387
+Toyota,Auris,Auris (facelift 2010),9.5 sec ,15.472
+Toyota,Auris,Auris (facelift 2010),10.2 sec ,16.0
+Toyota,Auris,Auris (facelift 2010),11.9 sec ,18.315
+Toyota,Auris,Auris (facelift 2010),13.1 sec ,17.5
+Toyota,Caldina,Caldina (T19),16.441
+Toyota,Caldina,Caldina (T19),16.441
+Toyota,Caldina,Caldina (T19),15.943
+Toyota,Caldina,Caldina (T19),19.378
+Toyota,Caldina,Caldina (T19),19.378
+Toyota,Caldina,Caldina (T19),16.0
+Toyota,Caldina,Caldina (T19),16.0
+Toyota,Carib,Carib,not known
+Toyota,Carib,Carib,not known
+Toyota,Innova,Kijang Innova II,16.601
+Toyota,Innova,Kijang Innova II,16.601
+Toyota,Innova,Kijang Innova II,16.548
+Toyota,Innova,Kijang Innova II,17.357
+Toyota,Tundra,Tundra II CrewMax (facelift 2010),14.002
+Toyota,Tundra,Tundra II CrewMax (facelift 2010),14.292
+Toyota,Tundra,Tundra II CrewMax (facelift 2010),14.97
+Toyota,Tundra,Tundra II CrewMax (facelift 2010),15.225
+Toyota,Carina,Carina E (T19),9 sec ,15.592
+Toyota,Carina,Carina E (T19),9 sec ,15.592
+Toyota,Carina,Carina E (T19),19.757
+Toyota,Carina,Carina E (T19),11.8 sec ,17.012
+Toyota,Carina,Carina E (T19),11.8 sec ,17.012
+Toyota,Carina,Carina E (T19),11.4 sec ,16.548
+Toyota,Carina,Carina E (T19),12.3 sec ,16.962
+Toyota,Carina,Carina E (T19),16.168
+Toyota,Carina,Carina E (T19),16.168
+Toyota,Land Cruiser,Land Cruiser (J100),13.6 sec ,17.826
+Toyota,Land Cruiser,Land Cruiser (J100),13.6 sec ,17.452
+Toyota,RAV4,RAV4 III (XA30) Long,13.699
+Toyota,RAV4,RAV4 III (XA30) Long,13.927
+Toyota,RAV4,RAV4 III (XA30) Long,15.769
+Toyota,RAV4,RAV4 III (XA30) Long,16.0
+Toyota,Fortuner,Fortuner II (facelift 2020),not known
+Toyota,Fortuner,Fortuner II (facelift 2020),not known
+Toyota,Fortuner,Fortuner II (facelift 2020),not known
+Toyota,Fortuner,Fortuner II (facelift 2020),not known
+Toyota,Fortuner,Fortuner II (facelift 2020),not known
+Toyota,Fortuner,Fortuner II (facelift 2020),not known
+Toyota,Celica,Celica (T20),6.1 sec ,13.542
+Toyota,Celica,Celica (T20),8.1 sec ,14.639
+Toyota,Celica,Celica (T20),not known
+Toyota,Celica,Celica (T20),9.5 sec ,16.387
+Toyota,Land Cruiser,Land Cruiser (J76),17.012
+Toyota,Land Cruiser,Land Cruiser (J76),20.194
+Toyota,Land Cruiser,Land Cruiser (J76),16.387
+Toyota,Celica,"Celica (TA60,RA40,RA6)",not known
+Toyota,Celica,"Celica (TA60,RA40,RA6)",not known
+Toyota,Celica,"Celica (TA60,RA40,RA6)",17.211
+Toyota,Celica,"Celica (TA60,RA40,RA6)",15.769
+Toyota,Celica,"Celica (TA60,RA40,RA6)",not known
+Toyota,Celica,"Celica (TA60,RA40,RA6)",17.012
+Toyota,Celica,"Celica (TA60,RA40,RA6)",15 sec ,17.162
+Toyota,Celica,"Celica (TA60,RA40,RA6)",17.688
+Toyota,Celica,"Celica (TA60,RA40,RA6)",not known
+Toyota,Celica,"Celica (TA60,RA40,RA6)",not known
+Toyota,Celica,"Celica (TA60,RA40,RA6)",not known
+Toyota,Windom,Windom (V10),not known
+Toyota,Windom,Windom (V10),not known
+Toyota,Century,Century I (G40),not known
+Toyota,Carina,Carina E Wagon (T19),9 sec ,15.885
+Toyota,Carina,Carina E Wagon (T19),9 sec ,15.885
+Toyota,Carina,Carina E Wagon (T19),12.3 sec ,19.063
+Toyota,Carina,Carina E Wagon (T19),12.6 sec ,17.211
+Toyota,Carina,Carina E Wagon (T19),12.6 sec ,17.211
+Toyota,Carina,Carina E Wagon (T19),11.4 sec ,16.758
+Toyota,Carina,Carina E Wagon (T19),12.3 sec ,17.641
+Toyota,Carina,Carina ED,not known
+Toyota,Carina,Carina ED,not known
+Toyota,Carina,Carina ED,11.9 sec ,not known
+Toyota,Carina,Carina ED,not known
+Toyota,Corona,Corona (T140),not known
+Toyota,Crown,Crown Royal XI (S170),14.502
+Toyota,Crown,Crown Royal XI (S170),14.571
+Toyota,Crown,Crown Royal XI (S170),15.162
+Toyota,Crown,Crown Royal XI (S170),14.905
+Toyota,Crown,Crown Royal XI (S170),15.885
+Toyota,Scepter,Scepter Coupe (V10),15.162
+Toyota,Corona,Corona Station Wagon (RT118),not known
+Toyota,Carina,"Carina (TA4L,TA6L)",not known
+Toyota,Carina,"Carina (TA4L,TA6L)",not known
+Toyota,Carina,"Carina (TA4L,TA6L)",not known
+Toyota,Carina,"Carina (TA4L,TA6L)",not known
+Toyota,Cressida,Cressida  Wagon (X6),not known
+Toyota,Cressida,Cressida  Wagon (X6),not known
+Toyota,bB,bB Open Deck,not known
+Toyota,Avalon,Avalon V (XX50),13.301
+Toyota,Avalon,Avalon V (XX50),14.905
+Toyota,Avalon,Avalon V (XX50),14.905
+Toyota,Duet,Duet (M10),14.97
+Toyota,Duet,Duet (M10),18.358
+Toyota,Cavalier,Cavalier,15.592
+Toyota,Cavalier,Cavalier,15.592
+Toyota,Crown,"Crown Royal XIII (S200, facelift 2010)",14.002
+Toyota,Crown,"Crown Royal XIII (S200, facelift 2010)",14.221
+Toyota,Crown,"Crown Royal XIII (S200, facelift 2010)",15.099
+Toyota,Crown,"Crown Royal XIII (S200, facelift 2010)",15.35
+Toyota,Supra,Supra V (A90),12.034
+Toyota,Supra,Supra V (A90),12.034
+Toyota,Supra,Supra V (A90),4.3 sec ,12.516
+Toyota,Supra,Supra V (A90),5.2 sec ,13.301
+Toyota,Supra,Supra V (A90),5.2 sec ,13.463
+Toyota,Supra,Supra V (A90),6.5 sec ,14.639
+Toyota,Verossa,Verossa,13.382
+Toyota,Verossa,Verossa,13.382
+Toyota,Verossa,Verossa,14.84
+Toyota,Verossa,Verossa,15.532
+Toyota,Wildlander,Wildlander,15.035
+Toyota,Wildlander,Wildlander,14.84
+Toyota,Wildlander,Wildlander,16.0
+Toyota,Wildlander,Wildlander,15.769
+Toyota,Carina,Carina Hatch (T15),not known
+Toyota,Carina,Carina Hatch (T15),not known
+Toyota,Carina,Carina Hatch (T15),not known
+Toyota,Carina,Carina Hatch (T15),not known
+Toyota,Yaris,Yaris I,9 sec ,16.112
+Toyota,Yaris,Yaris I,9 sec ,16.112
+Toyota,Yaris,Yaris I,12.9 sec ,18.14
+Toyota,Yaris,Yaris I,13.1 sec ,17.012
+Toyota,Yaris,Yaris I,10.7 sec ,17.012
+Toyota,Yaris,Yaris I,13.8 sec ,17.452
+Toyota,Yaris,Yaris I,13.6 sec ,17.452
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),14.707
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),14.97
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),14.707
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),15.35
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),15.711
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),15.35
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),15.35
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),16.279
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),16.706
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),16.653
+Toyota,Tundra,Tundra I Access Cab (facelift 2002),16.279
+Toyota,Cami,Cami (J1),17.211
+Toyota,Cami,Cami (J1),17.211
+Toyota,Cami,Cami (J1),14.773
+Toyota,Cami,Cami (J1),17.162
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 5-door",10.9 sec ,16.495
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 5-door",11 sec ,not known
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 5-door",11 sec ,not known
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 5-door",11.4 sec ,not known
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 5-door",19.645
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 5-door",12.7 sec ,17.357
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 5-door",12.1 sec ,17.357
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 5-door",10.9 sec ,19.683
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 5-door",10.9 sec ,19.683
+Toyota,Crown Majesta,Crown Majesta VI (S210),13.927
+Toyota,Crown Majesta,Crown Majesta VI (S210),16.441
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 3-door,10.2 sec ,16.601
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 3-door,10.6 sec ,16.548
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 3-door,17.062
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J150) 3-door,11.7 sec ,17.012
+Toyota,RAV4,RAV4 III (XA30),9.3 sec ,15.769
+Toyota,RAV4,RAV4 III (XA30),10.5 sec ,17.211
+Toyota,RAV4,RAV4 III (XA30),12 sec ,16.279
+Toyota,RAV4,RAV4 III (XA30),10.6 sec ,16.112
+Toyota,Estima,Estima II,15.099
+Toyota,Estima,Estima II,16.758
+Toyota,Estima,Estima II,18.315
+Toyota,Will,Will VS,15.411
+Toyota,Will,Will VS,14.002
+Toyota,Will,Will VS,16.224
+Toyota,Will,Will VS,16.601
+Toyota,Celica,Celica Cabrio (T16),not known
+Toyota,Celica,Celica Cabrio (T16),not known
+Toyota,Yaris,Yaris III,11.8 sec ,16.809
+Toyota,Yaris,Yaris III,10.8 sec ,17.641
+Toyota,Yaris,Yaris III,12.6 sec ,16.495
+Toyota,Yaris,Yaris III,11.7 sec ,16.86
+Toyota,Yaris,Yaris III,15.3 sec ,18.184
+Toyota,Chaser,Chaser (ZX 100),13.134
+Toyota,Chaser,Chaser (ZX 100),13.134
+Toyota,Chaser,Chaser (ZX 100),14.97
+Toyota,Crown,Crown XV (S220),13.134
+Toyota,Crown,Crown XV (S220),15.225
+Toyota,Crown,Crown XV (S220),14.97
+Toyota,Crown,Crown XV (S220),14.433
+Toyota,Avensis,Avensis  Wagon (T22),12.2 sec ,18.902
+Toyota,Avensis,Avensis  Wagon (T22),11.6 sec ,17.688
+Toyota,Avensis,Avensis  Wagon (T22),10.8 sec ,16.495
+Toyota,Avensis,Avensis  Wagon (T22),9.5 sec ,16.495
+Toyota,Avensis,Avensis  Wagon (T22),12.4 sec ,17.26
+Toyota,Avensis,Avensis  Wagon (T22),11.2 sec ,17.26
+Toyota,Avensis,Avensis  Wagon (T22),11.9 sec ,17.162
+Toyota,Avensis,Avensis  Wagon (T22),12.3 sec ,17.688
+Toyota,Corolla,"Corolla III (E30, E40, E50, E60)",not known
+Toyota,Corolla,"Corolla III (E30, E40, E50, E60)",not known
+Toyota,Avensis Verso,Avensis Verso (facelift 2003),12.1 sec ,16.112
+Toyota,Avensis Verso,Avensis Verso (facelift 2003),11.4 sec ,15.943
+Toyota,Avensis Verso,Avensis Verso (facelift 2003),12.5 sec ,17.826
+Toyota,Corolla,Corolla I Sprinter (E10),16.333
+Toyota,Corolla,Corolla I Sprinter (E10),17.357
+Toyota,Corolla,Corolla I Sprinter (E10),17.26
+Toyota,Corolla,Corolla II Van (E20),17.012
+Toyota,Crown,"Crown XIII (S200, facelift 2010)",13.927
+Toyota,Tercel,Tercel (AL25),not known
+Toyota,Tercel,Tercel (AL25),not known
+Toyota,Proace City,Proace City LWB,17.826
+Toyota,Proace City,Proace City LWB,16.962
+Toyota,Proace City,Proace City LWB,16.86
+Toyota,Proace City,Proace City LWB,17.962
+Toyota,Sienna,Sienna IV,15.472
+Toyota,Sienna,Sienna IV,15.472
+Toyota,Crown,Crown Athlete XI (S170),14.639
+Toyota,Crown,Crown Athlete XI (S170),13.542
+Toyota,Crown,Crown Athlete XI (S170),15.162
+Toyota,Crown,Crown Athlete XI (S170),14.97
+Toyota,Land Cruiser,Land Cruiser (J300),not known
+Toyota,Land Cruiser,Land Cruiser (J300),13.699
+Toyota,Land Cruiser,Land Cruiser (J300),13.542
+Toyota,Land Cruiser,Land Cruiser (J300),not known
+Toyota,Land Cruiser,Land Cruiser (J300),15.35
+Toyota,Auris,Auris II Touring Sports (facelift 2015),10.9 sec ,16.548
+Toyota,Auris,Auris II Touring Sports (facelift 2015),10.7 sec ,17.688
+Toyota,Auris,Auris II Touring Sports (facelift 2015),13 sec ,18.444
+Toyota,Auris,Auris II Touring Sports (facelift 2015),13.2 sec ,17.641
+Toyota,Auris,Auris II Touring Sports (facelift 2015),10.8 sec ,16.653
+Toyota,Auris,Auris II Touring Sports (facelift 2015),10.4 sec ,16.86
+Toyota,Camry,Camry VII (XV50),7.1 sec ,13.699
+Toyota,Camry,Camry VII (XV50),13.542
+Toyota,Camry,Camry VII (XV50),7.1 sec ,14.148
+Toyota,Camry,Camry VII (XV50),15.035
+Toyota,Camry,Camry VII (XV50),9 sec ,15.35
+Toyota,Camry,Camry VII (XV50),15.225
+Toyota,Camry,Camry VII (XV50),12.5 sec ,16.441
+Toyota,Mega Cruiser,Mega Cruiser (BXD20),19.531
+Toyota,Mega Cruiser,Mega Cruiser (BXD20),20.014
+Toyota,RAV4,RAV4 I (XA10) 5-door,16.168
+Toyota,RAV4,RAV4 I (XA10) 5-door,16.056
+Toyota,Calya,Calya (facelift 2019),not known
+Toyota,Calya,Calya (facelift 2019),not known
+Toyota,Celica,Celica Cabrio (T20),15.532
+Toyota,Celica,Celica Cabrio (T20),15.532
+Toyota,Proace City,Proace City Verso SWB,17.211
+Toyota,Proace City,Proace City Verso SWB,16.548
+Toyota,Proace City,Proace City Verso SWB,16.548
+Toyota,Proace City,Proace City Verso SWB,17.211
+Toyota,Vios,Vios II,not known
+Toyota,Vios,Vios II,16.056
+Toyota,Vios,Vios II,not known
+Toyota,Vios,Vios II,17.357
+Toyota,Vios,Vios II,not known
+Toyota,Vios,Vios II,18.228
+Toyota,Corsa,Corsa Hatchback (L50),15.711
+Toyota,Corsa,Corsa Hatchback (L50),17.594
+Toyota,Crown,"Crown Royal XIV (S210, facelift 2016)",14.97
+Toyota,Crown,"Crown Royal XIV (S210, facelift 2016)",15.225
+Toyota,Crown,"Crown Royal XIV (S210, facelift 2016)",15.943
+Toyota,Crown,"Crown Royal XIV (S210, facelift 2016)",16.168
+Toyota,Corolla,Corolla Hatch V (E80),not known
+Toyota,Corolla,Corolla Hatch V (E80),not known
+Toyota,Corolla,Corolla Hatch V (E80),not known
+Toyota,Corolla,Corolla Hatch V (E80),not known
+Toyota,Corolla,Corolla Hatch V (E80),not known
+Toyota,Corolla,Corolla Hatch V (E80),not known
+Toyota,Corolla,Corolla Hatch V (E80),not known
+Toyota,Corolla,"Corolla Hatch III (E30, E40, E50, E60)",not known
+Toyota,Corolla,"Corolla Hatch III (E30, E40, E50, E60)",not known
+Toyota,Corolla,"Corolla Hatch III (E30, E40, E50, E60)",not known
+Toyota,Yaris,"Yaris (XP150, facelift 2017)",16.706
+Toyota,Yaris,"Yaris (XP150, facelift 2017)",16.548
+Toyota,Yaris,"Yaris (XP150, facelift 2017)",16.441
+Toyota,Yaris,"Yaris (XP150, facelift 2017)",16.279
+Toyota,Yaris,"Yaris (XP150, facelift 2017)",16.758
+Toyota,Yaris,"Yaris (XP150, facelift 2017)",17.357
+Toyota,Yaris,"Yaris (XP150, facelift 2017)",17.26
+Toyota,Yaris,"Yaris (XP150, facelift 2017)",not known
+Toyota,Camry,Camry Solara II Convertible (facelift 2006),15.035
+Toyota,Crown Majesta,Crown Majesta II (S150),13.852
+Toyota,Crown Majesta,Crown Majesta II (S150),14.221
+Toyota,Crown Majesta,Crown Majesta II (S150),14.639
+Toyota,Land Cruiser,"Land Cruiser (J80, facelift 1995)",17.641
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J70),not known
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J70),not known
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J70),21.898
+Toyota,Aqua,Aqua Crossover I (facelift 2017),18.655
+Toyota,Yaris,Yaris Hatchback (USA) (facelift 2019),16.441
+Toyota,Tundra,Tundra II CrewMax (facelift 2017),14.075
+Toyota,Tundra,Tundra II CrewMax (facelift 2017),14.292
+Toyota,Tundra,Tundra II CrewMax (facelift 2017),14.97
+Toyota,Tundra,Tundra II CrewMax (facelift 2017),15.225
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Hilux,Hilux Pick Up,not known
+Toyota,Sienna,Sienna III,15.035
+Toyota,Sienna,Sienna III,14.773
+Toyota,Sienna,Sienna III,16.548
+Toyota,Crown,Crown Athlete XII (S180),14.002
+Toyota,Crown,Crown Athlete XII (S180),14.707
+Toyota,Crown,Crown Athlete XII (S180),14.905
+Toyota,Levin,Levin (facelift 2017),16.0
+Toyota,Levin,Levin (facelift 2017),16.962
+Toyota,Levin,Levin (facelift 2017),16.962
+Toyota,Tundra,Tundra II Double Cab (facelift 2010),13.852
+Toyota,Tundra,Tundra II Double Cab (facelift 2010),14.148
+Toyota,Tundra,Tundra II Double Cab (facelift 2010),14.571
+Toyota,Tundra,Tundra II Double Cab (facelift 2010),15.099
+Toyota,Tundra,Tundra II Double Cab (facelift 2010),16.056
+Toyota,Grand Hiace,Grand Hiace,not known
+Toyota,Grand Hiace,Grand Hiace,not known
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 3-door",11.7 sec ,16.601
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 3-door",11.7 sec ,16.601
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 3-door",12.7 sec ,17.062
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2013) 3-door",12.1 sec ,17.062
+Toyota,Nadia,Nadia (SXN10),15.592
+Toyota,Nadia,Nadia (SXN10),16.0
+Toyota,Nadia,Nadia (SXN10),16.387
+Toyota,Hilux,Hilux Extra Cab VIII (facelift 2017),16.758
+Toyota,Hilux,Hilux Extra Cab VIII (facelift 2017),16.706
+Toyota,Hilux,Hilux Extra Cab VIII (facelift 2017),16.706
+Toyota,Hilux,Hilux Extra Cab VIII (facelift 2017),17.641
+Toyota,Celsior,Celsior I,14.148
+Toyota,Corolla,Corolla Compact VI (E90),not known
+Toyota,Corolla,Corolla Compact VI (E90),not known
+Toyota,Corolla,Corolla Compact VI (E90),not known
+Toyota,Corolla,Corolla Compact VI (E90),not known
+Toyota,Corolla,Corolla Compact VI (E90),not known
+Toyota,Corolla,Corolla Compact VI (E90),not known
+Toyota,Corolla,Corolla Compact VI (E90),not known
+Toyota,Corolla,Corolla Hatch IV (E70),not known
+Toyota,Corolla,Corolla Hatch IV (E70),not known
+Toyota,Corolla,Corolla Hatch IV (E70),not known
+Toyota,Corolla,Corolla Hatch IV (E70),not known
+Toyota,Corolla,Corolla Hatch IV (E70),not known
+Toyota,Corolla,Corolla Hatch IV (E70),not known
+Toyota,Corolla,Corolla Hatch IV (E70),not known
+Toyota,Hilux,Hilux Extra Cab VIII (facelift 2020),10.7 sec ,16.441
+Toyota,Hilux,Hilux Extra Cab VIII (facelift 2020),10.1 sec ,16.441
+Toyota,Hilux,Hilux Extra Cab VIII (facelift 2020),13.2 sec ,17.734
+Toyota,Hilux,Hilux Extra Cab VIII (facelift 2020),13.2 sec ,17.308
+Toyota,Sienta,Sienta I,not known
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 5-door",16.495
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 5-door",17.917
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 5-door",18.184
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 5-door",12.5 sec ,17.308
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J90, facelift 2000) 5-door",17.405
+Toyota,Crown,Crown Saloon (XS10),15.532
+Toyota,Crown,Crown Saloon (XS10),19.607
+Toyota,Crown,Crown Saloon (XS10),16.495
+Toyota,Crown,Crown Saloon (XS10),17.688
+Toyota,RAV4,RAV4 II (XA20) 5-door,10.8 sec ,15.472
+Toyota,RAV4,RAV4 II (XA20) 5-door,10.6 sec ,15.472
+Toyota,RAV4,RAV4 II (XA20) 5-door,12.1 sec ,17.26
+Toyota,RAV4,RAV4 II (XA20) 5-door,12.2 sec ,not known
+Toyota,Hilux,Hilux Single Cab VIII,13.2 sec ,17.357
+Toyota,Hilux,Hilux Single Cab VIII,13.2 sec ,17.012
+Toyota,Tundra,Tundra II Double Cab Standard Bed (facelift 2017),13.927
+Toyota,Tundra,Tundra II Double Cab Standard Bed (facelift 2017),14.148
+Toyota,Tundra,Tundra II Double Cab Standard Bed (facelift 2017),14.84
+Toyota,Tundra,Tundra II Double Cab Standard Bed (facelift 2017),15.099
+Toyota,Corolla,"Corolla Wagon IX (E120, E130)",10.9 sec ,17.112
+Toyota,Corolla,"Corolla Wagon IX (E120, E130)",12.6 sec ,18.444
+Toyota,Corolla,"Corolla Wagon IX (E120, E130)",11.8 sec ,16.653
+Toyota,Corolla,"Corolla Wagon IX (E120, E130)",10.2 sec ,16.653
+Toyota,Corolla,"Corolla Wagon IX (E120, E130)",12 sec ,17.357
+Toyota,Corolla,"Corolla Wagon IX (E120, E130)",14.5 sec ,18.14
+Toyota,Camry,Camry VI (XV40),6.8 sec ,13.621
+Toyota,Camry,Camry VI (XV40),13.699
+Toyota,Camry,Camry VI (XV40),9.3 sec ,15.885
+Toyota,Camry,Camry VI (XV40),9.1 sec ,15.828
+Toyota,Camry,Camry VI (XV40),16.056
+Toyota,Camry,Camry VI (XV40),16.0
+Toyota,Camry,Camry VI (XV40),15.711
+Toyota,Yaris,Yaris Sedan (USA) (facelift 2019),16.653
+Toyota,Yaris,Yaris Sedan (USA) (facelift 2019),16.441
+Toyota,Corolla Verso,Corolla Verso I (E120),13.5 sec ,18.655
+Toyota,Corolla Verso,Corolla Verso I (E120),12.7 sec ,16.653
+Toyota,Corolla Verso,Corolla Verso I (E120),10.8 sec ,16.653
+Toyota,Corolla Verso,Corolla Verso I (E120),10.8 sec ,16.653
+Toyota,Corolla Verso,Corolla Verso I (E120),11.3 sec ,16.168
+Toyota,Corolla Verso,Corolla Verso I (E120),11.3 sec ,16.168
+Toyota,Corolla Verso,Corolla Verso I (E120),16.809
+Toyota,Veloz,Veloz,not known
+Toyota,Corona,Corona Hatch (T19),15.885
+Toyota,Corona,Corona Hatch (T19),16.0
+Toyota,Crown Majesta,"Crown Majesta I (S140, facelift 1993)",14.075
+Toyota,Crown Majesta,"Crown Majesta I (S140, facelift 1993)",14.363
+Toyota,Crown Majesta,"Crown Majesta I (S140, facelift 1993)",14.502
+Toyota,Avanza,Avanza I (facelift 2006),16.333
+Toyota,Avanza,Avanza I (facelift 2006),16.224
+Toyota,Avanza,Avanza I (facelift 2006),16.911
+Toyota,Hilux,Hilux Single Cab VII (facelift 2008),13.5 sec ,18.184
+Toyota,Paseo,Paseo (L4),14.905
+Toyota,Paseo,Paseo (L4),14.905
+Toyota,Wigo,Wigo,not known
+Toyota,Wigo,Wigo,not known
+Toyota,Tundra,Tundra III CrewMax Short Bed,13.927
+Toyota,Tundra,Tundra III CrewMax Short Bed,13.699
+Toyota,Tundra,Tundra III CrewMax Short Bed,13.927
+Toyota,Tundra,Tundra III CrewMax Short Bed,14.002
+Toyota,Tundra,Tundra III CrewMax Short Bed,13.776
+Toyota,Wigo,Wigo (facelift 2017),17.826
+Toyota,Wigo,Wigo (facelift 2017),17.688
+Toyota,Proace,Proace Verso II LWB,19.493
+Toyota,Proace,Proace Verso II LWB,19.063
+Toyota,Proace,Proace Verso II LWB,not known
+Toyota,Proace,Proace Verso II LWB,not known
+Toyota,Proace,Proace Verso II LWB,18.444
+Toyota,Proace,Proace Verso II LWB,18.444
+Toyota,Proace,Proace Verso II LWB,not known
+Toyota,Corolla,Corolla Wagon IV (E70),not known
+Toyota,Corolla,Corolla Wagon IV (E70),not known
+Toyota,Corolla,Corolla Wagon IV (E70),not known
+Toyota,Crown Majesta,Crown Majesta I (S140),14.075
+Toyota,Crown Majesta,Crown Majesta I (S140),14.075
+Toyota,Crown Majesta,Crown Majesta I (S140),14.571
+Toyota,Corolla,Corolla Hatch VI (E90),not known
+Toyota,Corolla,Corolla Hatch VI (E90),not known
+Toyota,Corolla,Corolla Hatch VI (E90),not known
+Toyota,Corolla,Corolla Hatch VI (E90),not known
+Toyota,Corolla,Corolla Hatch VI (E90),not known
+Toyota,Corolla,Corolla Hatch VI (E90),not known
+Toyota,Corolla,Corolla Hatch VI (E90),not known
+Toyota,Fortuner,Fortuner II,9.4 sec ,not known
+Toyota,Fortuner,Fortuner II,10.8 sec ,18.571
+Toyota,Fortuner,Fortuner II,10.8 sec ,18.902
+Toyota,Fortuner,Fortuner II,11.2 sec ,18.902
+Toyota,Fortuner,Fortuner II,11.2 sec ,18.571
+Toyota,Fortuner,Fortuner II,12.4 sec ,18.738
+Toyota,Fortuner,Fortuner II,12.7 sec ,not known
+Toyota,Fortuner,Fortuner II,13.2 sec ,not known
+Toyota,Cresta,Cresta (GX80),not known
+Toyota,Cresta,Cresta (GX80),not known
+Toyota,Cresta,Cresta (GX80),not known
+Toyota,Avensis,Avensis III (facelift 2012),8.5 sec ,15.532
+Toyota,Avensis,Avensis III (facelift 2012),9.5 sec ,16.441
+Toyota,Avensis,Avensis III (facelift 2012),8.5 sec ,16.441
+Toyota,Avensis,Avensis III (facelift 2012),8.9 sec ,16.387
+Toyota,Avensis,Avensis III (facelift 2012),10 sec ,15.943
+Toyota,Avensis,Avensis III (facelift 2012),9 sec ,15.943
+Toyota,Avensis,Avensis III (facelift 2012),9.7 sec ,17.357
+Toyota,Avensis,Avensis III (facelift 2012),10.4 sec ,16.0
+Toyota,Avensis,Avensis III (facelift 2012),9.4 sec ,16.0
+Toyota,Avensis,Avensis III (facelift 2012),10.4 sec ,16.495
+Toyota,Yaris Cross,Yaris Cross,18.14
+Toyota,Yaris Cross,Yaris Cross,17.688
+Toyota,Yaris Cross,Yaris Cross,15.943
+Toyota,Yaris Cross,Yaris Cross,16.333
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Chaser,Chaser,not known
+Toyota,Crown Majesta,Crown Majesta V (S200),13.049
+Toyota,Crown Majesta,Crown Majesta V (S200),14.148
+Toyota,Yaris,Yaris iA,16.495
+Toyota,Yaris,Yaris iA,16.441
+Toyota,Izoa,Izoa,10.3 sec ,15.592
+Toyota,RAV4,"RAV4 I (XA10, facelift 1997) 3-door",16.112
+Toyota,RAV4,"RAV4 I (XA10, facelift 1997) 3-door",15.943
+Toyota,Land Cruiser,Land Cruiser (J40) Hard top,17.688
+Toyota,Land Cruiser,Land Cruiser (J40) Hard top,18.14
+Toyota,Land Cruiser,Land Cruiser (J40) Hard top,21.21
+Toyota,MR 2,MR 2 (_W2_),15.711
+Toyota,MR 2,MR 2 (_W2_),15.711
+Toyota,MR 2,MR 2 (_W2_),9.5 sec ,not known
+Toyota,MR 2,MR 2 (_W2_),13.852
+Toyota,MR 2,MR 2 (_W2_),not known
+Toyota,MR 2,MR 2 (_W2_),7.5 sec ,14.639
+Toyota,MR 2,MR 2 (_W2_),not known
+Toyota,MR 2,MR 2 (_W2_),7.9 sec ,not known
+Toyota,MR 2,MR 2 (_W2_),7.9 sec ,not known
+Toyota,Prius,Prius III (ZVW30),10.4 sec ,16.387
+Toyota,Prius,Prius III (ZVW30),10.8 sec ,16.601
+Toyota,Carina,Carina E Hatch (T19),12.3 sec ,19.023
+Toyota,Carina,Carina E Hatch (T19),8.4 sec ,14.292
+Toyota,Carina,Carina E Hatch (T19),9 sec ,15.711
+Toyota,Carina,Carina E Hatch (T19),9 sec ,15.711
+Toyota,Carina,Carina E Hatch (T19),9.4 sec ,16.387
+Toyota,Carina,Carina E Hatch (T19),11.8 sec ,17.112
+Toyota,Carina,Carina E Hatch (T19),11.8 sec ,17.112
+Toyota,Carina,Carina E Hatch (T19),11.4 sec ,16.653
+Toyota,Carina,Carina E Hatch (T19),12.3 sec ,17.594
+Toyota,Scepter,Scepter SW (V15),15.532
+Toyota,Scepter,Scepter SW (V15),16.548
+Toyota,Tundra,Tundra I,15.099
+Toyota,Tundra,Tundra I,15.411
+Toyota,Tundra,Tundra I,13.9 sec ,16.495
+Toyota,Tundra,Tundra I,16.224
+Toyota,Tundra,Tundra I,16.279
+Toyota,Tundra,Tundra I,16.548
+Toyota,Camry,Camry I (V10),17.78
+Toyota,Camry,Camry I (V10),11.5 sec ,16.279
+Toyota,Camry,Camry I (V10),14.2 sec ,18.738
+Toyota,Camry,Camry I (V10),12 sec ,17.162
+Toyota,MR-S,MR-S,7.9 sec ,14.84
+Toyota,Camry,Camry II Wagon (V20),9.3 sec ,15.711
+Toyota,Camry,Camry II Wagon (V20),14.9 sec ,18.487
+Toyota,Camry,Camry II Wagon (V20),14.9 sec ,18.184
+Toyota,Camry,Camry II Wagon (V20),9.7 sec ,16.333
+Toyota,Camry,Camry II Wagon (V20),9.7 sec ,16.653
+Toyota,Sparky,Sparky,17.641
+Toyota,Fortuner,Fortuner I (facelift 2008),17.062
+Toyota,Fortuner,Fortuner I (facelift 2008),17.162
+Toyota,Fortuner,Fortuner I (facelift 2008),19.683
+Toyota,Estima,Estima I,16.758
+Toyota,Estima,Estima I,17.871
+Toyota,Tercel,Tercel (AC52),not known
+Toyota,Tercel,Tercel (AC52),15 sec ,not known
+Toyota,Tercel,Tercel (AC52),not known
+Toyota,Corolla,"Corolla Hatchback XII (E210, facelift 2022)",15.472
+Toyota,Corolla,"Corolla Hatchback XII (E210, facelift 2022)",7.5 sec ,14.002
+Toyota,Corolla,"Corolla Hatchback XII (E210, facelift 2022)",9.2 sec ,15.711
+Toyota,Ractis,Ractis I,16.548
+Toyota,Ractis,Ractis I,17.78
+Toyota,Corolla,Corolla Wagon VII (E100),14.1 sec ,19.023
+Toyota,Corolla,Corolla Wagon VII (E100),11.5 sec ,17.26
+Toyota,Corolla,Corolla Wagon VII (E100),12.8 sec ,18.007
+Toyota,Vitz,Vitz I,15.532
+Toyota,Vitz,Vitz I,15.532
+Toyota,Vitz,Vitz I,17.162
+Toyota,Vitz,Vitz I,17.162
+Toyota,Avensis,Avensis III,8.5 sec ,14.97
+Toyota,Avensis,Avensis III,9.5 sec ,15.828
+Toyota,Avensis,Avensis III,8.9 sec ,15.828
+Toyota,Avensis,Avensis III,10 sec ,16.0
+Toyota,Avensis,Avensis III,9 sec ,15.885
+Toyota,Avensis,Avensis III,9.7 sec ,16.758
+Toyota,Avensis,Avensis III,10.4 sec ,16.112
+Toyota,Avensis,Avensis III,9.4 sec ,15.943
+Toyota,Avensis,Avensis III,10.4 sec ,16.495
+Toyota,Belta,Belta (2021),not known
+Toyota,Belta,Belta (2021),not known
+Toyota,Camry,Camry I Hatchback (V10),11.5 sec ,16.441
+Toyota,Camry,Camry I Hatchback (V10),not known
+Toyota,Camry,Camry I Hatchback (V10),12 sec ,17.452
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2020),10.7 sec ,16.548
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2020),10.1 sec ,16.548
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2020),12.8 sec ,18.272
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2020),13.2 sec ,18.272
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2020),13.2 sec ,17.826
+Toyota,Avensis,Avensis III (facelift 2015),10 sec ,not known
+Toyota,Avensis,Avensis III (facelift 2015),9.5 sec ,not known
+Toyota,Avensis,Avensis III (facelift 2015),10.4 sec ,not known
+Toyota,Avensis,Avensis III (facelift 2015),9.4 sec ,not known
+Toyota,Avensis,Avensis III (facelift 2015),10.4 sec ,not known
+Toyota,Avensis,Avensis III (facelift 2015),11.4 sec ,not known
+Toyota,Tundra,Tundra II Regular Cab Long Bed (facelift 2010),13.621
+Toyota,Tundra,Tundra II Regular Cab Long Bed (facelift 2010),13.927
+Toyota,Tundra,Tundra II Regular Cab Long Bed (facelift 2010),14.571
+Toyota,Tundra,Tundra II Regular Cab Long Bed (facelift 2010),14.84
+Toyota,Tundra,Tundra II Regular Cab Long Bed (facelift 2010),15.769
+Toyota,Highlander,Highlander IV,14.292
+Toyota,Highlander,Highlander IV,14.075
+Toyota,Highlander,Highlander IV,15.225
+Toyota,Highlander,Highlander IV,15.35
+Toyota,Cynos,Cynos (L44),14.97
+Toyota,Cynos,Cynos (L44),14.97
+Toyota,Cynos,Cynos (L44),15.35
+Toyota,Cynos,Cynos (L44),15.35
+Toyota,Tundra,Tundra II Regular Cab (facelift 2010),13.542
+Toyota,Tundra,Tundra II Regular Cab (facelift 2010),13.776
+Toyota,Tundra,Tundra II Regular Cab (facelift 2010),14.433
+Toyota,Tundra,Tundra II Regular Cab (facelift 2010),14.707
+Toyota,Tundra,Tundra II Regular Cab (facelift 2010),14.97
+Toyota,Tundra,Tundra II Regular Cab (facelift 2010),15.711
+Toyota,Camry,"Camry IV (XV20, facelift 2000)",14.905
+Toyota,Camry,"Camry IV (XV20, facelift 2000)",14.773
+Toyota,Camry,"Camry IV (XV20, facelift 2000)",16.548
+Toyota,Camry,"Camry IV (XV20, facelift 2000)",16.333
+Toyota,Wish,Wish I (facelift 2005),15.652
+Toyota,Wish,Wish I (facelift 2005),16.224
+Toyota,Wish,Wish I (facelift 2005),16.962
+Toyota,Avensis,Avensis Hatch (T22),12 sec ,18.738
+Toyota,Avensis,Avensis Hatch (T22),11.4 sec ,17.547
+Toyota,Avensis,Avensis Hatch (T22),9.9 sec ,15.35
+Toyota,Avensis,Avensis Hatch (T22),9.1 sec ,15.35
+Toyota,Avensis,Avensis Hatch (T22),10.6 sec ,16.333
+Toyota,Avensis,Avensis Hatch (T22),9.3 sec ,16.333
+Toyota,Avensis,Avensis Hatch (T22),12.2 sec ,17.112
+Toyota,Avensis,Avensis Hatch (T22),11 sec ,17.112
+Toyota,Avensis,Avensis Hatch (T22),11.7 sec ,17.012
+Toyota,Avensis,Avensis Hatch (T22),12.1 sec ,17.5
+Toyota,Pronard,Pronard (MCX20),14.502
+Toyota,Celica,Celica (TA2),17.826
+Toyota,Celica,Celica (TA2),16.056
+Toyota,Celica,Celica (TA2),15 sec ,17.162
+Toyota,Celica,Celica (TA2),not known
+Toyota,Celica,Celica (TA2),18.052
+Toyota,Celica,Celica (TA2),16.056
+Toyota,Corona,Corona Premio (T21),15.35
+Toyota,Corona,Corona Premio (T21),16.333
+Toyota,Corona,Corona Premio (T21),16.653
+Toyota,Corona,Corona Premio (T21),16.653
+Toyota,Corolla,Corolla iM,16.333
+Toyota,Corolla,Corolla iM,16.168
+Toyota,Corolla,Corolla Ceres,not known
+Toyota,Corolla,Corolla Ceres,not known
+Toyota,Corolla,Corolla Ceres,not known
+Toyota,Corolla,Corolla Ceres,not known
+Toyota,Blizzard,Blizzard Soft Top,19.063
+Toyota,Matrix,Matrix (E140),15.943
+Toyota,Matrix,Matrix (E140),15.532
+Toyota,Matrix,Matrix (E140),15.411
+Toyota,Matrix,Matrix (E140),16.441
+Toyota,Matrix,Matrix (E140),16.224
+Toyota,bB,bB,16.056
+Toyota,bB,bB,16.279
+Toyota,bB,bB,14 sec ,17.211
+Toyota,Corolla,Corolla Hatch VIII (E110),14.4 sec ,19.183
+Toyota,Corolla,Corolla Hatch VIII (E110),10.2 sec ,16.333
+Toyota,Corolla,Corolla Hatch VIII (E110),12.5 sec ,17.5
+Toyota,Scepter,Scepter (V10),14.84
+Toyota,Scepter,Scepter (V10),15.099
+Toyota,Scepter,Scepter (V10),16.387
+Toyota,Corolla,"Corolla XI (E170, facelift 2016)",11.1 sec ,15.532
+Toyota,Corolla,"Corolla XI (E170, facelift 2016)",10 sec ,15.472
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),16.706
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),16.809
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),17.78
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),17.162
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),16.86
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),16.653
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),16.601
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),17.734
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),18.096
+Toyota,Hilux,Hilux Double Cab VIII (facelift 2017),17.5
+Toyota,Picnic,Picnic,not known
+Toyota,Tundra,Tundra II Double Cab (facelift 2013),14.002
+Toyota,Tundra,Tundra II Double Cab (facelift 2013),14.292
+Toyota,Tundra,Tundra II Double Cab (facelift 2013),14.905
+Toyota,Tundra,Tundra II Double Cab (facelift 2013),14.905
+Toyota,Altezza,Altezza Gita,8.5 sec ,14.292
+Toyota,Altezza,Altezza Gita,8.5 sec ,14.502
+Toyota,Altezza,Altezza Gita,15.472
+Toyota,Altezza,Altezza Gita,15.411
+Toyota,Crown,"Crown Athlete XIII (S200, facelift 2010)",13.134
+Toyota,Crown,"Crown Athlete XIII (S200, facelift 2010)",12.699
+Toyota,Crown,"Crown Athlete XIII (S200, facelift 2010)",15.099
+Toyota,Crown,"Crown Athlete XIII (S200, facelift 2010)",15.411
+Toyota,Will,Will Cypha,15.769
+Toyota,Will,Will Cypha,16.706
+Toyota,MasterAce,MasterAce,not known
+Toyota,MasterAce,MasterAce,not known
+Toyota,MasterAce,MasterAce,not known
+Toyota,Tundra,Tundra I Double Cab (facelift 2002),14.97
+Toyota,Tundra,Tundra I Double Cab (facelift 2002),15.162
+Toyota,Tundra,Tundra I Double Cab (facelift 2002),15.711
+Toyota,Tundra,Tundra I Double Cab (facelift 2002),16.0
+Toyota,Crown Majesta,"Crown Majesta II (S150, facelift 1997)",13.776
+Toyota,Crown Majesta,"Crown Majesta II (S150, facelift 1997)",14.148
+Toyota,Crown Majesta,"Crown Majesta II (S150, facelift 1997)",14.773
+Toyota,Mark II,Mark II (GX 81),not known
+Toyota,Mark II,Mark II (GX 81),not known
+Toyota,Mark II,Mark II (GX 81),not known
+Toyota,Mark II,Mark II (GX 81),not known
+Toyota,Mark II,Mark II (GX 81),not known
+Toyota,Hilux,Hilux Double Cab VII (facelift 2008),11.6 sec ,17.112
+Toyota,Hilux,Hilux Double Cab VII (facelift 2008),12 sec ,17.112
+Toyota,Hilux,Hilux Double Cab VII (facelift 2008),12.5 sec ,17.962
+Toyota,Hilux,Hilux Double Cab VII (facelift 2008),15.2 sec ,18.738
+Toyota,Echo,Echo Coupe,15.35
+Toyota,Echo,Echo Coupe,15.35
+Toyota,Wish,Wish II (facelift 2012),16.0
+Toyota,Wish,Wish II (facelift 2012),16.0
+Toyota,Wish,Wish II (facelift 2012),16.911
+Toyota,Tundra,Tundra II Regular Cab,13.621
+Toyota,Tundra,Tundra II Regular Cab,13.927
+Toyota,Tundra,Tundra II Regular Cab,15.225
+Toyota,Tundra,Tundra II Regular Cab,15.532
+Toyota,Tundra,Tundra II Regular Cab,15.711
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),15.35
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),15.652
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),14.221
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),14.221
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),14.433
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),14.433
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),15.652
+Toyota,Tacoma,Tacoma I Double Cab (facelift 2000),15.652
+Toyota,Matrix,Matrix (E130),14.433
+Toyota,Matrix,Matrix (E130),15.885
+Toyota,Matrix,Matrix (E130),15.885
+Toyota,Matrix,Matrix (E130),16.224
+Toyota,Matrix,Matrix (E130),16.224
+Toyota,Yaris,Yaris (XP210),12.608
+Toyota,Yaris,Yaris (XP210),5.5 sec ,12.877
+Toyota,Yaris,Yaris (XP210),17.688
+Toyota,Yaris,Yaris (XP210),17.112
+Toyota,Yaris,Yaris (XP210),15.35
+Toyota,Yaris,Yaris (XP210),15.885
+Toyota,Yaris,Yaris (XP210),15.288
+Toyota,Yaris,Yaris (XP210),9.2 sec ,15.769
+Toyota,Yaris,Yaris (XP210),9.7 sec ,16.168
+Toyota,Yaris,Yaris (XP210),18.096
+Toyota,Corolla Spacio,Corolla Spacio II (E120),not known
+Toyota,Aygo,Aygo (facelift 2012),14.9 sec ,17.26
+Toyota,Aygo,Aygo (facelift 2012),14.2 sec ,17.26
+Toyota,Avensis,Avensis II Hatch,9.2 sec ,15.828
+Toyota,Avensis,Avensis II Hatch,8.1 sec ,15.828
+Toyota,Avensis,Avensis II Hatch,11.2 sec ,17.405
+Toyota,Avensis,Avensis II Hatch,11.6 sec ,16.279
+Toyota,Avensis,Avensis II Hatch,10.3 sec ,16.279
+Toyota,Avensis,Avensis II Hatch,12 sec ,17.112
+Toyota,Verso,Verso (facelift 2013),10.1 sec ,not known
+Toyota,Verso,Verso (facelift 2013),10.1 sec ,not known
+Toyota,Verso,Verso (facelift 2013),11.3 sec ,not known
+Toyota,Verso,Verso (facelift 2013),11.1 sec ,not known
+Toyota,Verso,Verso (facelift 2013),11.1 sec ,not known
+Toyota,Verso,Verso (facelift 2013),10.4 sec ,not known
+Toyota,Verso,Verso (facelift 2013),10.4 sec ,not known
+Toyota,Verso,Verso (facelift 2013),11.7 sec ,not known
+Toyota,Verso,Verso (facelift 2013),11.7 sec ,not known
+Toyota,Verso,Verso (facelift 2013),12.7 sec ,not known
+Toyota,Verso,Verso (facelift 2013),12.7 sec ,18.096
+Toyota,Vitz,Vitz II,16.333
+Toyota,Vitz,Vitz II,16.333
+Toyota,Vitz,Vitz II,18.315
+Toyota,Alphard,Alphard I (facelift 2005),not known
+Toyota,Alphard,Alphard I (facelift 2005),not known
+Toyota,Alphard,Alphard I (facelift 2005),not known
+Toyota,Alphard,Alphard I (facelift 2005),11 sec ,not known
+Toyota,Vios,Vios III,12 sec ,16.168
+Toyota,Vios,Vios III,12 sec ,16.056
+Toyota,Vios,Vios III,not known
+Toyota,Tundra,Tundra II Double Cab Long Bed,14.075
+Toyota,Tundra,Tundra II Double Cab Long Bed,14.292
+Toyota,Tundra,Tundra II Double Cab Long Bed,15.652
+Toyota,Tundra,Tundra II Double Cab Long Bed,15.943
+Toyota,Picnic,Picnic (XM1),13.9 sec ,19.023
+Toyota,Picnic,Picnic (XM1),10.8 sec ,16.548
+Toyota,Land Cruiser,Land Cruiser (J77),18.983
+Toyota,Land Cruiser,Land Cruiser (J77),27.8 sec ,19.455
+Toyota,Land Cruiser,Land Cruiser (J77),not known
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J120),9.1 sec ,15.162
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J120),16.601
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J120),11.2 sec ,17.162
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J120),11.5 sec ,17.012
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J120),11.2 sec ,17.211
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J120),11.2 sec ,17.211
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J120),11.5 sec ,17.211
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J120),17.112
+Toyota,Land Cruiser Prado,Land Cruiser Prado (J120),17.594
+Toyota,Voltz,Voltz,15.885
+Toyota,Camry,Camry III (XV10),15.472
+Toyota,Camry,Camry III (XV10),15.035
+Toyota,Camry,Camry III (XV10),11.8 sec ,16.653
+Toyota,Camry,Camry III (XV10),9.7 sec ,16.333
+Toyota,Verso-S,Verso-S II,13 sec ,17.734
+Toyota,Verso-S,Verso-S II,12.1 sec ,17.734
+Toyota,Verso-S,Verso-S II,13.7 sec ,16.86
+Toyota,Verso-S,Verso-S II,13.3 sec ,16.809
+Toyota,RAV4,RAV4 IV (facelift 2015),15.885
+Toyota,RAV4,RAV4 IV (facelift 2015),15.711
+Toyota,RAV4,RAV4 IV (facelift 2015),8.3 sec ,15.532
+Toyota,RAV4,RAV4 IV (facelift 2015),8.3 sec ,15.532
+Toyota,RAV4,RAV4 IV (facelift 2015),10.7 sec ,16.387
+Toyota,RAV4,RAV4 IV (facelift 2015),9.9 sec ,16.279
+Toyota,RAV4,RAV4 IV (facelift 2015),9.6 sec ,16.962
+Toyota,Vanguard,Vanguard,13.699
+Toyota,Vanguard,Vanguard,15.769
+Toyota,Vanguard,Vanguard,16.0
+Toyota,Raize,Raize,16.279
+Toyota,Raize,Raize,16.653
+Toyota,Avanza,Avanza I,17.641
+Toyota,Carina,Carina (T15),not known
+Toyota,Carina,Carina (T15),not known
+Toyota,Carina,Carina (T15),not known
+Toyota,Carina,Carina (T15),not known
+Toyota,Carina,Carina (T15),not known
+Toyota,Carina,Carina (T15),not known
+Toyota,Celica,Celica (T16),8.1 sec ,15.035
+Toyota,Celica,Celica (T16),not known
+Toyota,Celica,Celica (T16),8.8 sec ,15.411
+Toyota,Celica,Celica (T16),not known
+Toyota,Celica,Celica (T16),not known
+Toyota,Celica,Celica (T16),not known
+Toyota,Carina,Carina Hatch (T17),not known
+Toyota,Carina,Carina Hatch (T17),not known
+Toyota,Carina,Carina Hatch (T17),not known
+Toyota,Carina,Carina Hatch (T17),not known
+Toyota,Carina,Carina Hatch (T17),not known
+Toyota,C-HR,C-HR II,7.3 sec ,not known
+Toyota,C-HR,C-HR II,8.1 sec ,not known
+Toyota,C-HR,C-HR II,7.9 sec ,not known
+Toyota,C-HR,C-HR II,9.9 sec ,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,18.401
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,18.401
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Hilux,Hilux Surf,not known
+Toyota,Alphard,Alphard II,not known
+Toyota,Alphard,Alphard II,not known
+Toyota,Innova,Kijang Innova Zenix III,not known
+Toyota,Innova,Kijang Innova Zenix III,not known
+Toyota,Corolla,Corolla Axio XI (facelift 2017),16.333
+Toyota,Corolla,Corolla Axio XI (facelift 2017),16.224
+Toyota,Corolla,Corolla Axio XI (facelift 2017),17.062
+Toyota,Corolla,Corolla Axio XI (facelift 2017),17.062
+Toyota,Corolla,Corolla Axio XI (facelift 2017),16.911
+Toyota,Kluger,Kluger III (facelift 2016),14.433
+Toyota,Kluger,Kluger III (facelift 2016),14.292
+Toyota,Tacoma,Tacoma III Double Cab,14.433
+Toyota,Tacoma,Tacoma III Double Cab,14.707
+Toyota,Tacoma,Tacoma III Double Cab,14.707
+Toyota,Tacoma,Tacoma III Double Cab,17.211
+Toyota,Tacoma,Tacoma I xTracab,not known
+Toyota,Tacoma,Tacoma I xTracab,not known
+Toyota,Tacoma,Tacoma I xTracab,14.97
+Toyota,Tacoma,Tacoma I xTracab,14.221
+Toyota,Tacoma,Tacoma I xTracab,not known
+Toyota,Tacoma,Tacoma I xTracab,not known
+Toyota,Tacoma,Tacoma I xTracab,14.433
+Toyota,Tacoma,Tacoma I xTracab,not known
+Toyota,Tacoma,Tacoma I xTracab,16.441
+Toyota,Tacoma,Tacoma I xTracab,16.387
+Toyota,Tacoma,Tacoma I xTracab,15.652
+Toyota,Tacoma,Tacoma I xTracab,not known
+Toyota,Tacoma,Tacoma I xTracab,15.652
+Toyota,Tacoma,Tacoma I xTracab,not known
+Toyota,Previa,Previa,not known
+Toyota,Previa,Previa,11.2 sec ,16.548
+Toyota,Previa,Previa,10.9 sec ,16.548
+Toyota,Previa,Previa,13.6 sec ,18.571
+Toyota,Tacoma,Tacoma II Single Cab (facelift 2012),not known
+Toyota,Tacoma,Tacoma II Single Cab (facelift 2012),15.035
+Toyota,Tacoma,Tacoma II Single Cab (facelift 2012),not known
+Toyota,Tacoma,Tacoma II Single Cab (facelift 2012),not known
+Toyota,Tacoma,Tacoma II Single Cab (facelift 2012),15.885
+Toyota,Tacoma,Tacoma II Single Cab (facelift 2012),16.706
+Toyota,Tacoma,Tacoma II Single Cab (facelift 2012),16.495
+Toyota,Tacoma,Tacoma II Single Cab (facelift 2012),15.828
+Toyota,Corolla,Corolla II 2-door sedan (E20),15.885
+Toyota,Corolla,Corolla II 2-door sedan (E20),16.112
+Toyota,Corolla,Corolla II 2-door sedan (E20),16.112
+Toyota,Corolla,Corolla II 2-door sedan (E20),16.279
+Toyota,Corolla,Corolla II 2-door sedan (E20),16.653
+Toyota,Corolla,Corolla II 2-door sedan (E20),16.548
+Toyota,Corolla,Corolla II 2-door sedan (E20),16.86
+Toyota,Corolla,Corolla II 2-door sedan (E20),16.706
+Toyota,Crown,"Crown Estate (S170, facelift 2001)",14.905
+Toyota,Crown,"Crown Estate (S170, facelift 2001)",13.776
+Toyota,Crown,"Crown Estate (S170, facelift 2001)",15.288
+Toyota,Crown,"Crown Estate (S170, facelift 2001)",15.472
+Toyota,Crown,"Crown Estate (S170, facelift 2001)",16.112
+Toyota,Corona,Corona (T19),15.711
+Toyota,Corona,Corona (T19),15.711
+Toyota,Corona,Corona (T19),16.224
+Toyota,Corona,Corona (T19),16.224
+Toyota,Corona,Corona (T19),14.221
+Toyota,Corona,Corona (T19),14.502
+Toyota,Corona,Corona (T19),19.831
+Toyota,Corona,Corona (T19),19.023
+Toyota,Corona,Corona (T19),19.023
+Toyota,Corona,Corona (T19),15.769
+Toyota,Corona,Corona (T19),15.769
+Toyota,Corona,Corona (T19),16.056
+Toyota,Corona,Corona (T19),16.056
+Toyota,Supra,Celica Supra II (A60),15.943
+Toyota,Supra,Celica Supra II (A60),15.885
+Toyota,Corolla,Corolla Compact VIII (E110),not known
+Toyota,Corolla,Corolla Compact VIII (E110),not known
+Toyota,Corolla,Corolla Compact VIII (E110),not known
+Toyota,Corolla,Corolla Compact VIII (E110),not known
+Toyota,Corolla,Corolla Compact VIII (E110),not known
+Toyota,Corolla,Corolla Compact VIII (E110),not known
+Toyota,Ipsum,Ipsum (CM2),16.224
+Toyota,Ipsum,Ipsum (CM2),16.279
+Toyota,Proace,Proace Double Cabine,13 sec ,18.571
+Toyota,Vios,Vios III (facelift 2016),not known
+Toyota,Vios,Vios III (facelift 2016),not known
+Toyota,Vios,Vios III (facelift 2016),not known
+Toyota,Vios,Vios III (facelift 2016),not known
+Toyota,Crown,"Crown Saloon X (S150, facelift 1997)",18.943
+Toyota,Crown,"Crown Saloon X (S150, facelift 1997)",15.592
+Toyota,Crown,"Crown Saloon X (S150, facelift 1997)",15.532
+Toyota,Crown,"Crown Saloon X (S150, facelift 1997)",16.279
+Toyota,Crown,"Crown Saloon X (S150, facelift 1997)",16.279
+Toyota,MR 2,MR 2 (_W3_),7.9 sec ,14.84
+Toyota,RAV4,RAV4 IV,15.711
+Toyota,RAV4,RAV4 IV,15.828
+Toyota,RAV4,RAV4 IV,10 sec ,not known
+Toyota,RAV4,RAV4 IV,9.6 sec ,not known
+Toyota,RAV4,RAV4 IV,10.7 sec ,not known
+Toyota,RAV4,RAV4 IV,9.9 sec ,not known
+Toyota,RAV4,RAV4 IV,11 sec ,not known
+Toyota,RAV4,RAV4 IV,10.5 sec ,not known
+Toyota,Urban Cruiser Hyryder,Urban Cruiser Hyryder,not known
+Toyota,Urban Cruiser Hyryder,Urban Cruiser Hyryder,not known
+Toyota,Urban Cruiser Hyryder,Urban Cruiser Hyryder,not known
+Toyota,Urban Cruiser Hyryder,Urban Cruiser Hyryder,16.809
+Toyota,86,86 I (facelift 2016),13.852
+Toyota,86,86 I (facelift 2016),14.002
+Toyota,Tercel,"Tercel (L1,L2)",not known
+Toyota,Tercel,"Tercel (L1,L2)",not known
+Toyota,Caldina,Caldina (T24),12.788
+Toyota,Caldina,Caldina (T24),15.288
+Toyota,Caldina,Caldina (T24),15.288
+Toyota,Caldina,Caldina (T24),16.0
+Toyota,Fortuner,Fortuner I,11.7 sec ,not known
+Toyota,Fortuner,Fortuner I,11.7 sec ,not known
+Toyota,Fortuner,Fortuner I,not known
+Toyota,Fortuner,Fortuner I,not known
+Toyota,Avalon,Avalon II,8.4 sec ,14.84
+Toyota,Cressida,Cressida (X6),not known
+Toyota,Cressida,Cressida (X6),not known
+Toyota,Cressida,Cressida (X6),not known
+Toyota,Echo,Echo,15.35
+Toyota,Echo,Echo,15.35
+Toyota,Aygo,Aygo (facelift 2009),14.2 sec ,17.452
+Toyota,Aygo,Aygo (facelift 2009),14.2 sec ,17.452
+Toyota,RAV4,RAV4 V,15.288
+Toyota,RAV4,RAV4 V,14.075
+Toyota,RAV4,RAV4 V,6 sec ,13.927
+Toyota,RAV4,RAV4 V,8.5 sec ,15.411
+Toyota,RAV4,RAV4 V,8.1 sec ,14.773
+Toyota,RAV4,RAV4 V,8.4 sec ,14.707
+Toyota,RAV4,RAV4 V,14.97
+Toyota,RAV4,RAV4 V,10.7 sec ,15.472
+Toyota,RAV4,RAV4 V,11 sec ,15.711
+Toyota,RAV4,RAV4 V,9.9 sec ,15.532
+Toyota,RAV4,RAV4 V,9.8 sec ,15.35
+Toyota,RAV4,RAV4 V,11 sec ,16.758
+Toyota,RAV4,RAV4 V,11 sec ,16.962
+Toyota,RAV4,RAV4 V,9.8 sec ,16.601
+Toyota,Tacoma,Tacoma II Double Cab,14.773
+Toyota,Tacoma,Tacoma II Double Cab,15.099
+Toyota,Tacoma,Tacoma II Double Cab,not known
+Toyota,Tacoma,Tacoma II Double Cab,15.035
+Toyota,Tacoma,Tacoma II Double Cab,not known
+Toyota,Tacoma,Tacoma II Double Cab,not known
+Toyota,4runner,4runner I,not known
+Toyota,4runner,4runner I,not known
+Toyota,4runner,4runner I,not known
+Toyota,4runner,4runner I,15.3 sec ,17.547
+Toyota,4runner,4runner I,not known
+Toyota,4runner,4runner I,not known
+Toyota,4runner,4runner I,18.4 sec ,18.613
+Toyota,4runner,4runner I,not known
+Toyota,Century,Century III (G60),not known
+Toyota,Prius,Prius+,11.3 sec ,16.86
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),15.472
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),14.221
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),14.433
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),14.433
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),not known
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),15.652
+Toyota,Tacoma,Tacoma I Single Cab (facelift 2000),not known
+Toyota,Carina,Carina (TA1),not known
+Toyota,Carina,Carina (TA1),not known
+Toyota,Carina,Carina (TA1),not known
+Toyota,Corolla,Corolla I 2-door sedan (E10),16.809
+Toyota,Corolla,Corolla I 2-door sedan (E10),17.112
+Toyota,Sprinter,Sprinter Trueno,13.927
+Toyota,Sprinter,Sprinter Trueno,15.769
+Toyota,Sprinter,Sprinter Trueno,15.769
+Toyota,Sprinter,Sprinter Trueno,15.592
+Toyota,Sprinter,Sprinter Trueno,16.758
+Toyota,Sprinter,Sprinter Trueno,16.758
+Toyota,Sprinter,Sprinter Trueno,16.224
+Toyota,Sprinter,Sprinter Trueno,16.224
+Toyota,Sprinter,Sprinter Trueno,16.653
+Toyota,Sprinter,Sprinter Trueno,16.758
+Toyota,Sprinter,Sprinter Trueno,16.758
+Toyota,Camry,"Camry VIII (XV70, facelift 2020)",8.3 sec ,14.502
+Toyota,Corolla,Corolla Hatch VII (E100),14.1 sec ,19.103
+Toyota,Corolla,Corolla Hatch VII (E100),10 sec ,16.112
+Toyota,Corolla,Corolla Hatch VII (E100),11.5 sec ,17.308
+Toyota,Proace,Proace Compact II,not known
+Toyota,Proace,Proace Compact II,not known
+Toyota,Proace,Proace Compact II,not known
+Toyota,Corolla,Corolla Hatchback XII (E210),12.877
+Toyota,Corolla,Corolla Hatchback XII (E210),15.35
+Toyota,Corolla,Corolla Hatchback XII (E210),15.35
+Toyota,Corolla,Corolla Hatchback XII (E210),7.9 sec ,14.707
+Toyota,Corolla,Corolla Hatchback XII (E210),7.9 sec ,14.773
+Toyota,Corolla,Corolla Hatchback XII (E210),10.9 sec ,16.601
+Toyota,Corolla,Corolla Hatchback XII (E210),10.1 sec ,16.962
+Toyota,Corolla,Corolla Hatchback XII (E210),10.1 sec ,17.012
+Toyota,Corolla,Corolla Hatchback XII (E210),17.26
+Toyota,Carina,Carina (T21),17.547
+Toyota,Carina,Carina (T21),17.547
+Toyota,Carina,Carina (T21),15.411
+Toyota,Carina,Carina (T21),15.411
+Toyota,Carina,Carina (T21),17.641
+Toyota,Carina,Carina (T21),17.641
+Toyota,Carina,Carina (T21),16.224
+Toyota,Carina,Carina (T21),17.012
+Toyota,Carina,Carina (T21),17.012
+Toyota,Mark X,Mark X Zio,not known
+Toyota,Mark X,Mark X Zio,not known
+Toyota,Mark X,Mark X Zio,not known
+Toyota,Vista,Vista (V40),17.917
+Toyota,Vista,Vista (V40),17.917
+Toyota,Vista,Vista (V40),18.14
+Toyota,Vista,Vista (V40),18.14
+Toyota,Vista,Vista (V40),15.769
+Toyota,Vista,Vista (V40),15.885
+Toyota,Vista,Vista (V40),15.885
+Toyota,Chaser,Chaser (ZX 90),14.148
+Toyota,Chaser,Chaser (ZX 90),14.905
+Toyota,Chaser,Chaser (ZX 90),16.056
+Toyota,Chaser,Chaser (ZX 90),16.056
+Toyota,Chaser,Chaser (ZX 90),16.548
+Toyota,Venza,Venza II (XU80),15.162
+Toyota,Camry,Camry Solara II,14.148
+Toyota,Camry,Camry Solara II,15.769
+Toyota,Camry,Camry Solara II,15.711
+Toyota,Sequoia,Sequoia III (XK80),14.002
+Toyota,Sequoia,Sequoia III (XK80),13.621
+Toyota,4runner,4runner III (facelift 1999),15.592
+Toyota,4runner,4runner III (facelift 1999),16.112
+Toyota,4runner,4runner III (facelift 1999),16.056
+Toyota,4runner,4runner III (facelift 1999),16.387
+Toyota,4runner,4runner III (facelift 1999),17.012
+Toyota,4runner,4runner III (facelift 1999),16.962
+Toyota,4runner,4runner III (facelift 1999),16.387
+Toyota,Corolla,Corolla Compact VII (E100),14.1 sec ,18.943
+Toyota,Corolla,Corolla Compact VII (E100),10 sec ,16.0
+Toyota,Corolla,Corolla Compact VII (E100),11.5 sec ,17.112
+Toyota,Corolla,Corolla Compact VII (E100),12.8 sec ,20.849
+Toyota,Corolla,Corolla Compact VII (E100),12.8 sec ,20.849
+Toyota,Tacoma,Tacoma III Access Cab (facelift 2020),14.221
+Toyota,Tacoma,Tacoma III Access Cab (facelift 2020),14.502
+Toyota,Tacoma,Tacoma III Access Cab (facelift 2020),14.571
+Toyota,Tacoma,Tacoma III Access Cab (facelift 2020),16.962
+Toyota,Tacoma,Tacoma III Access Cab (facelift 2020),17.308
+Toyota,Prius,Prius I (NHW10),21.048
+Toyota,Celica,Celica Cabrio (T18),not known
+Toyota,Prius,Prius I (NHW11),13.4 sec ,17.547
+Toyota,ISis,ISis,15.769
+Toyota,ISis,ISis,15.769
+Toyota,ISis,ISis,16.653
+Toyota,Avalon,Avalon III,13.542
+Toyota,Avalon,Avalon III,13.699
+Toyota,Auris,Auris I,8.1 sec ,15.225
+Toyota,Auris,Auris I,10.3 sec ,16.333
+Toyota,Auris,Auris I,9.5 sec ,not known
+Toyota,Auris,Auris I,10.4 sec ,16.279
+Toyota,Auris,Auris I,10.4 sec ,16.279
+Toyota,Auris,Auris I,12.1 sec ,16.279
+Toyota,Auris,Auris I,10 sec ,not known
+Toyota,Auris,Auris I,13 sec ,17.641
+Toyota,Auris,Auris I,11.9 sec ,18.315
+Toyota,Auris,Auris I,13.1 sec ,not known
+Toyota,Mirai,Mirai,9.6 sec ,17.357
+Toyota,Tundra,Tundra II CrewMax,14.002
+Toyota,Tundra,Tundra II CrewMax,14.292
+Toyota,Tundra,Tundra II CrewMax,15.652
+Toyota,Tundra,Tundra II CrewMax,15.943
+Toyota,Origin,Origin,not known
+Toyota,Sienna,Sienna III (facelift 2018),14.571
+Toyota,Sienna,Sienna III (facelift 2018),14.363
+Toyota,Mark II,Mark II (G71),not known
+Toyota,Avensis,Avensis (T22),12 sec ,18.738
+Toyota,Avensis,Avensis (T22),11.4 sec ,17.547
+Toyota,Avensis,Avensis (T22),9.9 sec ,15.35
+Toyota,Avensis,Avensis (T22),9.1 sec ,15.35
+Toyota,Avensis,Avensis (T22),10.6 sec ,16.333
+Toyota,Avensis,Avensis (T22),9.3 sec ,16.333
+Toyota,Avensis,Avensis (T22),11 sec ,17.112
+Toyota,Avensis,Avensis (T22),11 sec ,17.012
+Toyota,Avensis,Avensis (T22),12.1 sec ,17.5
+Toyota,Proace,Proace Verso II SWB,18.779
+Toyota,Proace,Proace Verso II SWB,18.228
+Toyota,Proace,Proace Verso II SWB,not known
+Toyota,Proace,Proace Verso II SWB,not known
+Toyota,Proace,Proace Verso II SWB,16.706
+Toyota,Proace,Proace Verso II SWB,16.706
+Toyota,Proace,Proace Verso II SWB,not known
+Toyota,Tundra,Tundra III Double Cab Standard Bed,14.002
+Toyota,Tundra,Tundra III Double Cab Standard Bed,13.699
+Toyota,Tundra,Tundra III Double Cab Standard Bed,14.221
+Toyota,Glanza,Glanza,16.387
+Toyota,Glanza,Glanza,17.012
+Toyota,Glanza,Glanza,16.706
+Toyota,Aristo,Aristo (S14),13.049
+Toyota,Aristo,Aristo (S14),14.363
+Toyota,RAV4,RAV4 EV I (BEA11) 3-door,21.837
+Toyota,Avensis,Avensis III Wagon,8.8 sec ,15.652
+Toyota,Avensis,Avensis III Wagon,9.8 sec ,16.601
+Toyota,Avensis,Avensis III Wagon,9.2 sec ,16.495
+Toyota,Avensis,Avensis III Wagon,10.3 sec ,16.112
+Toyota,Avensis,Avensis III Wagon,9.3 sec ,15.943
+Toyota,Avensis,Avensis III Wagon,10.7 sec ,16.112
+Toyota,Avensis,Avensis III Wagon,9.7 sec ,16.112
+Toyota,Avensis,Avensis III Wagon,10.6 sec ,16.653
+Toyota,Tundra,Tundra III CrewMax Standard Bed,13.776
+Toyota,Tundra,Tundra III CrewMax Standard Bed,14.002
+Toyota,Tundra,Tundra III CrewMax Standard Bed,14.221
+Toyota,Tundra,Tundra III CrewMax Standard Bed,13.927
+Toyota,Proace City,Proace City Verso LWB,18.007
+Toyota,Proace City,Proace City Verso LWB,17.012
+Toyota,Proace City,Proace City Verso LWB,17.641
+Toyota,Proace City,Proace City Verso LWB,17.78
+Toyota,Premio,Premio,15.288
+Toyota,Premio,Premio,15.711
+Toyota,Premio,Premio,16.0
+Toyota,Premio,Premio,10.5 sec ,16.601
+Toyota,Camry,Camry Solara I (Mark V),14.773
+Toyota,Camry,Camry Solara I (Mark V),14.707
+Toyota,Camry,Camry Solara I (Mark V),16.706
+Toyota,Camry,Camry Solara I (Mark V),16.601
+Toyota,Avensis,Avensis III Wagon (facelift 2015),10.3 sec ,not known
+Toyota,Avensis,Avensis III Wagon (facelift 2015),9.8 sec ,not known
+Toyota,Avensis,Avensis III Wagon (facelift 2015),10.7 sec ,not known
+Toyota,Avensis,Avensis III Wagon (facelift 2015),9.7 sec ,not known
+Toyota,Avensis,Avensis III Wagon (facelift 2015),10.6 sec ,not known
+Toyota,Avensis,Avensis III Wagon (facelift 2015),11.7 sec ,not known
+Toyota,Camry,Camry Solara II (facelift 2006),14.773
+Toyota,Camry,Camry Solara II (facelift 2006),16.056
+Toyota,Camry,Camry Solara II (facelift 2006),15.943
+Toyota,Century,Century II (G50),14.571
+Toyota,bZ4X,bZ4X,7.7 sec ,15.885
+Toyota,bZ4X,bZ4X,8.4 sec ,16.0
+Toyota,Hilux,Hilux Double Cab VII (facelift 2011),12 sec ,not known
+Toyota,Hilux,Hilux Double Cab VII (facelift 2011),12.1 sec ,not known
+Toyota,Hilux,Hilux Double Cab VII (facelift 2011),13.3 sec ,not known
+Toyota,Land Cruiser,Land Cruiser (J75),not known
+Toyota,Tundra,Tundra III Double Cab Long Bed,14.148
+Toyota,Tundra,Tundra III Double Cab Long Bed,13.927
+Toyota,Tundra,Tundra III Double Cab Long Bed,14.433
+Toyota,Noah,Noah,not known
+Toyota,Noah,Noah,not known
+Toyota,Alphard,Alphard I,not known
+Toyota,Alphard,Alphard I,not known
+Toyota,Blizzard,Blizzard,19.103
+Toyota,Camry,"Camry Solara I (Mark V, facelift 2001)",14.773
+Toyota,Camry,"Camry Solara I (Mark V, facelift 2001)",14.707
+Toyota,Camry,"Camry Solara I (Mark V, facelift 2001)",14.84
+Toyota,Camry,"Camry Solara I (Mark V, facelift 2001)",15.769
+Toyota,Camry,"Camry Solara I (Mark V, facelift 2001)",15.711
+Toyota,Yaris,Yaris III (facelift 2014),11.8 sec ,16.809
+Toyota,Yaris,Yaris III (facelift 2014),10.8 sec ,17.357
+Toyota,Yaris,Yaris III (facelift 2014),12.6 sec ,16.653
+Toyota,Yaris,Yaris III (facelift 2014),11.7 sec ,16.86
+Toyota,Yaris,Yaris III (facelift 2014),15.3 sec ,18.358
+Toyota,Supra,Supra III (A70),not known
+Toyota,Supra,Supra III (A70),7 sec ,14.433
+Toyota,Supra,Supra III (A70),15.225
+Toyota,Supra,Supra III (A70),15.099
+Toyota,MR 2,MR 2 (_W1_),8.1 sec ,15.225
+Toyota,MR 2,MR 2 (_W1_),8.7 sec ,16.0
+Toyota,Innova,Kijang Innova II (facelift 2020),not known
+Toyota,Innova,Kijang Innova II (facelift 2020),not known
+Toyota,Innova,Kijang Innova II (facelift 2020),not known
+Toyota,Innova,Kijang Innova II (facelift 2020),not known
+Toyota,Vista,Vista (V50),15.769
+Toyota,Vista,Vista (V50),16.495
+Toyota,Vista,Vista (V50),15.711
+Toyota,Corolla Verso,Corolla Verso II (AR10),8.8 sec ,15.472
+Toyota,Corolla Verso,Corolla Verso II (AR10),9 sec ,15.769
+Toyota,Corolla Verso,Corolla Verso II (AR10),10.2 sec ,17.162
+Toyota,Corolla Verso,Corolla Verso II (AR10),9.4 sec ,16.86
+Toyota,Corolla Verso,Corolla Verso II (AR10),12.6 sec ,17.688
+Toyota,Corolla Verso,Corolla Verso II (AR10),10.8 sec ,16.601
+Toyota,Corolla Verso,Corolla Verso II (AR10),12.7 sec ,17.452
+Toyota,Auris,Auris III,15.288
+Toyota,Caldina,Caldina (T21),13.542
+Toyota,Caldina,Caldina (T21),16.548
+Toyota,Caldina,Caldina (T21),16.548
+Toyota,Corolla,Corolla Fielder IX,18.738
+Toyota,Corolla,Corolla Fielder IX,18.738
+Toyota,Corolla,Corolla Fielder IX,15.162
+Toyota,Corolla,Corolla Fielder IX,15.162
+Toyota,Corolla,Corolla Fielder IX,16.279
+Toyota,Corolla,Corolla Fielder IX,16.279
+Toyota,86,86 I,8.2 sec ,14.002
+Toyota,86,86 I,7.6 sec ,13.927
+Toyota,Camry,Camry III Wagon (XV10),9.4 sec ,15.711
+Toyota,Camry,Camry III Wagon (XV10),9.2 sec ,15.411
+Toyota,Camry,Camry III Wagon (XV10),12.5 sec ,16.601
+Toyota,Camry,Camry III Wagon (XV10),10.4 sec ,16.279
+Toyota,Crown Majesta,"Crown Majesta IV (S180, facelift 2006)",13.776
+Toyota,Crown Majesta,"Crown Majesta IV (S180, facelift 2006)",14.002
+Toyota,Aristo,Aristo (S16),13.776
+Toyota,Tundra,Tundra II Double Cab,13.927
+Toyota,Tundra,Tundra II Double Cab,14.221
+Toyota,Tundra,Tundra II Double Cab,15.532
+Toyota,Tundra,Tundra II Double Cab,15.828
+Toyota,Tundra,Tundra II Double Cab,16.056
+Toyota,Harrier,Harrier IV (XU80),14.905
+Toyota,Harrier,Harrier IV (XU80),14.773
+Toyota,Harrier,Harrier IV (XU80),15.711
+Toyota,Harrier,Harrier IV (XU80),15.943
+Toyota,Voxy,Voxy,16.112
+Toyota,Prius,Prius II (NHW20),10.9 sec ,17.112
+Toyota,Town Ace,Town Ace,19.261
+Toyota,Town Ace,Town Ace,19.261
+Toyota,Town Ace,Town Ace,18.861
+Toyota,Town Ace,Town Ace,18.861
+Toyota,Town Ace,Town Ace,18.272
+Toyota,Town Ace,Town Ace,18.272
+Toyota,Town Ace,Town Ace,18.272
+Toyota,Vios,Vios I,not known
+Toyota,Vios,Vios I,16.962
+Toyota,Vios,Vios I,not known
+Toyota,Vios,Vios I,15.472
+Toyota,Vios,Vios I,not known
+Toyota,Vios,Vios I,18.943
+Toyota,Kluger,Kluger I,14.773
+Toyota,Kluger,Kluger I,16.548
+Toyota,Windom,Windom (V20),14.502
+Toyota,Windom,Windom (V20),15.225
+Toyota,Windom,Windom (V20),14.773
+Toyota,Windom,Windom (V20),15.532
+Toyota,Crown,"Crown Athlete XI (S170, facelift 2001)",14.639
+Toyota,Crown,"Crown Athlete XI (S170, facelift 2001)",15.225
+Toyota,Crown,"Crown Athlete XI (S170, facelift 2001)",15.035
+Toyota,Crown,"Crown Athlete XI (S170, facelift 2001)",13.542
+Toyota,Corolla,Corolla Wagon VIII (E110),13.5 sec ,18.655
+Toyota,Corolla,Corolla Wagon VIII (E110),14.4 sec ,19.222
+Toyota,Corolla,Corolla Wagon VIII (E110),11.8 sec ,17.062
+Toyota,Corolla,Corolla Wagon VIII (E110),10.2 sec ,16.224
+Toyota,Corolla,Corolla Wagon VIII (E110),12.6 sec ,16.653
+Toyota,Corolla,Corolla Wagon VIII (E110),12.5 sec ,17.594
+Toyota,Tacoma,Tacoma III Double Cab (facelift 2020),14.433
+Toyota,Tacoma,Tacoma III Double Cab (facelift 2020),14.773
+Toyota,Tacoma,Tacoma III Double Cab (facelift 2020),14.707
+Toyota,Tacoma,Tacoma III Double Cab (facelift 2020),17.162
+Toyota,Will,Will Vi,16.706
+Toyota,Vista,Vista Ardeo ((V50),16.056
+Toyota,Vista,Vista Ardeo ((V50),16.758
+Toyota,Vista,Vista Ardeo ((V50),16.112
+Toyota,Hiace,Hiace,not known
+Toyota,Hiace,Hiace,not known
+Toyota,Hiace,Hiace,not known
+Toyota,Hiace,Hiace,not known
+Toyota,iQ,iQ,16.601
+Toyota,iQ,iQ,11.6 sec ,16.056
+Toyota,iQ,iQ,11.8 sec ,16.056
+Toyota,iQ,iQ,17.826
+Toyota,iQ,iQ,not known
+Toyota,Prius,"Prius IV (XW50, facelift 2018)",11.1 sec ,17.917
+Toyota,Prius,"Prius IV (XW50, facelift 2018)",10.8 sec ,17.012
+Toyota,Prius,"Prius IV (XW50, facelift 2018)",10.9 sec ,17.357
+Toyota,Kluger,Kluger III,14.707
+Toyota,Kluger,Kluger III,14.571
+Toyota,Paseo,Paseo Cabrio (_L5_),11.3 sec ,17.211
+Toyota,Urban Cruiser,Urban Cruiser,11.7 sec ,18.184
+Toyota,Urban Cruiser,Urban Cruiser,11.7 sec ,17.917
+Toyota,Urban Cruiser,Urban Cruiser,12.5 sec ,16.962
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 5-door",9.2 sec ,not known
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 5-door",9.7 sec ,not known
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 5-door",9.9 sec ,17.308
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 5-door",11.2 sec ,17.112
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 5-door",12.7 sec ,17.452
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 5-door",12.1 sec ,17.452
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 5-door",13.9 sec ,17.78
+Toyota,Land Cruiser Prado,"Land Cruiser Prado (J150, facelift 2017) 5-door",13.8 sec ,17.78
+Toyota,Lite Ace,Lite Ace,not known
+Toyota,Prius,Prius c,11.5 sec ,17.062
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 3-door",10.8 sec ,15.652
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 3-door",10.6 sec ,15.532
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 3-door",12.1 sec ,17.308
+Toyota,RAV4,"RAV4 II (XA20, facelift 2003) 3-door",12.2 sec ,16.112
+Toyota,Corolla,"Corolla Coupe III (E30, E40, E50, E60)",not known
+Toyota,Corolla,Corolla XI (E170),11.1 sec ,16.224
+Toyota,Corolla,Corolla XI (E170),10 sec ,16.168
+Toyota,Corolla,Corolla XI (E170),12.5 sec ,18.444
+Toyota,Corolla,Corolla XI (E170),12.6 sec ,17.5
+Toyota,Sienna,Sienna II,15.592
+Toyota,Sienna,Sienna II,15.288
+Toyota,Aygo,Aygo II,15.5 sec ,not known
+Toyota,Aygo,Aygo II,14.2 sec ,not known
+Toyota,Tundra,Tundra II Double Cab Long Bed (facelift 2013),14.148
+Toyota,Tundra,Tundra II Double Cab Long Bed (facelift 2013),14.433
+Toyota,Tundra,Tundra II Double Cab Long Bed (facelift 2013),15.411
+Toyota,Crown,Crown XIII (S200),13.927
+Toyota,Celsior,Celsior III,14.221
+Toyota,RAV4,RAV4 I Soft top (XA10),16.112
+Toyota,Carina,Carina Wagon (T17),not known
+Toyota,Carina,Carina Wagon (T17),25 sec ,not known
+Toyota,Carina,Carina Wagon (T17),not known
+Toyota,Carina,Carina Wagon (T17),not known
+Toyota,Carina,Carina Wagon (T17),not known
+Toyota,Highlander,Highlander III,7.3 sec ,15.099
+Toyota,Highlander,Highlander III,8.7 sec ,15.225
+Toyota,Highlander,Highlander III,10.3 sec ,16.333
+Toyota,Corolla,Corolla VI (E90),not known
+Toyota,Corolla,Corolla VI (E90),not known
+Toyota,Corolla,Corolla VI (E90),not known
+Toyota,Corolla,Corolla VI (E90),not known
+Toyota,Corolla,Corolla VI (E90),not known
+Toyota,Corolla,Corolla VI (E90),not known
+Toyota,Harrier,"Harrier III (XU60, facelift 2017)",15.769
+Toyota,Harrier,"Harrier III (XU60, facelift 2017)",14.639
+Toyota,Harrier,"Harrier III (XU60, facelift 2017)",14.773
+Toyota,Harrier,"Harrier III (XU60, facelift 2017)",16.601
+Toyota,Harrier,"Harrier III (XU60, facelift 2017)",17.5
+Toyota,Prius,Prius V (XW60),14.502
+Toyota,Prius,Prius V (XW60),14.707
+Toyota,Prius,Prius V (XW60),14.571
+Toyota,Prius,Prius V (XW60),16.387
+Toyota,Prius,Prius V (XW60),16.168
